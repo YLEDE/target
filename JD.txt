@@ -1,0 +1,62 @@
+proxies:
+  - {name: "CN666", server: 158.101.138.248, port: 44456, type: trojan, password: GETL8IszSG, skip-cert-verify: true, udp: true}
+  - {name: CN_1753_ 3.30Mb | 3.19Mb, server: 211.91.243.240, port: 31215, type: vmess, uuid: b8aaa6e1-f0b3-b9ec-3dfc-bb226c167b33, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, udp: true}
+  - {name: "CN_2", server: 139.219.130.70, port: 443, type: ss, cipher: aes-256-cfb, password: E4DNMf73kHPrd8Qq7aqGPf7f, udp: true}
+  - {name: "CN_23 | 2.53Mb", server: 14.29.124.168, port: 24098, type: ss, cipher: aes-128-cfb, password: QazEdcTgb159@$*, udp: true}
+  - {name: "CN_283_10.07Mb |51.93Mb", server: 116.129.254.47, port: 3389, type: trojan, password: a170b44c2dfac9e6, skip-cert-verify: true, udp: true}
+  - {name: "CN_292_10.21Mb |46.89Mb", server: 116.129.254.29, port: 3389, type: trojan, password: e37c6d7efa845d60, skip-cert-verify: true, udp: true}
+  - {name: "CN_3", server: 139.219.130.70, port: 443, type: ss, cipher: aes-256-cfb, password: E4DNMf73kHPrd8Qq7aqGPf7f, udp: true}
+  - {name: "CN_35 | 1.97Mb", server: 14.29.124.168, port: 24055, type: ss, cipher: aes-128-cfb, password: QazEdcTgb159@$*, udp: true}
+  - {name: "CN_45 TG@peekfun |12.25Mb", server: 116.129.254.29, port: 3389, type: trojan, password: a170b44c2dfac9e6, skip-cert-verify: true, udp: true}
+  - {name: CN_46 | 2.93Mb, server: 14.29.124.168, port: 24025, type: ss, cipher: aes-128-cfb, password: QazEdcTgb159@$*, udp: true}
+  - {name: "CN_46.14Mb", server: 139.219.130.70, port: 443, type: ss, cipher: aes-256-cfb, password: E4DNMf73kHPrd8Qq7aqGPf7f, udp: true}
+  - {name: "CN_49 TG@peekfun |10.26Mb", server: 116.129.254.47, port: 3389, type: trojan, password: a170b44c2dfac9e6, skip-cert-verify: true, udp: true}
+  - {name: "CN_51 TG@peekfun |32.38Mb", server: 116.129.254.47, port: 3389, type: trojan, password: e37c6d7efa845d60, skip-cert-verify: true, udp: true}
+  - {name: CN_74_ 0.81Mb |19.49Mb, server: 124.222.177.237, port: 443, type: vmess, uuid: 4a2faefb-e947-48c2-a9a3-403659433f36, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true}
+  - {name: CN_75_ 4.73Mb | 3.32Mb, server: 175.178.163.153, port: 443, type: vmess, uuid: 4a2faefb-e947-48c2-a9a3-403659433f36, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true}
+  - {name: "CN_88_12.56Mb |18.00Mb", server: 116.129.254.47, port: 3389, type: trojan, password: c3c448da2363a6f7, skip-cert-verify: true, udp: true}
+  - {name: "FR_109_11.94Mb | 6.27Mb", server: fr.node.qchwnd.moe, port: 44612, type: trojan, password: 7def61a2-9aff-4691-ad6b-4564e9639b6d, skip-cert-verify: true, udp: true}
+  - {name: "GR_120_ 4.97Mb | 3.01Mb", server: 144.24.76.223, port: 44600, type: trojan, password: 7def61a2-9aff-4691-ad6b-4564e9639b6d, skip-cert-verify: true, udp: true}
+  - {name: "HK_131_95.41Mb |31.73Mb", server: hkt.node.qchwnd.moe, port: 44609, type: trojan, password: 7def61a2-9aff-4691-ad6b-4564e9639b6d, skip-cert-verify: true, udp: true}
+  - {name: "KR_163_ 4.53Mb | 2.87Mb", server: 138.2.127.240, port: 44600, type: trojan, password: 7def61a2-9aff-4691-ad6b-4564e9639b6d, skip-cert-verify: true, udp: true}
+  - {name: "KR_166_ 4.56Mb | 3.68Mb", server: 129.154.53.120, port: 44600, type: trojan, password: 7def61a2-9aff-4691-ad6b-4564e9639b6d, skip-cert-verify: true, udp: true}
+  - {name: "RU_181_24.01Mb | 6.52Mb", server: ru.node.qchwnd.moe, port: 44606, type: trojan, password: 7def61a2-9aff-4691-ad6b-4564e9639b6d, skip-cert-verify: true, udp: true}
+  - {name: "US_254_ 9.96Mb | 4.34Mb", server: uk.node.qchwnd.moe, port: 44613, type: trojan, password: 7def61a2-9aff-4691-ad6b-4564e9639b6d, skip-cert-verify: true, udp: true}
+  - {name: "🇨🇳 Cow Vagina 整理_🇨🇳_中国_17", server: 116.129.254.47, port: 3389, type: trojan, password: c3c448da2363a6f7, skip-cert-verify: true, udp: true}
+  - {name: "🇨🇳 Cow Vagina 整理_🇨🇳_中国_20", server: 116.129.253.130, port: 3389, type: trojan, password: f6f2072a2e4cfc91, skip-cert-verify: true, udp: true}
+  - {name: "🇨🇳 Cow Vagina 整理_🇨🇳_中国_24", server: 116.129.254.29, port: 3389, type: trojan, password: e37c6d7efa845d60, skip-cert-verify: true, udp: true}
+  - {name: "🇨🇳 Cow Vagina 整理_🇨🇳_中国_25", server: 116.129.254.29, port: 3389, type: trojan, password: a170b44c2dfac9e6, skip-cert-verify: true, udp: true}
+  - {name: "🇨🇳 Cow Vagina 整理_🇨🇳_中国_27", server: 116.129.254.29, port: 3389, type: trojan, password: a170b44c2dfac9e6, skip-cert-verify: true, udp: true}
+  - {name: "🇨🇳 Cow Vagina 整理_🇨🇳_中国_33", server: 116.129.254.47, port: 3389, type: trojan, password: e37c6d7efa845d60, skip-cert-verify: true, udp: true}
+  - {name: "🇨🇳 台湾*19", server: 116.129.254.29, port: 3389, type: trojan, password: a170b44c2dfac9e6, skip-cert-verify: true, udp: true}
+  - {name: "🇨🇳 台湾*19", server: 116.129.254.29, port: 3389, type: trojan, password: a170b44c2dfac9e6, skip-cert-verify: true, udp: true}
+  - {name: "🇨🇳 台湾*20", server: 116.129.253.130, port: 3389, type: trojan, password: e37c6d7efa845d60, skip-cert-verify: true, udp: true}
+  - {name: "🇨🇳 台湾*20", server: 116.129.253.130, port: 3389, type: trojan, password: e37c6d7efa845d60, skip-cert-verify: true, udp: true}
+  - {name: 🇨🇳 台湾*24, server: 116.129.254.29, port: 3389, type: trojan, password: e37c6d7efa845d60, skip-cert-verify: true, udp: true}
+  - {name: "🇨🇳 台湾*24", server: 116.129.254.29, port: 3389, type: trojan, password: e37c6d7efa845d60, skip-cert-verify: true, udp: true}
+  - {name: "🇨🇳 台湾*26", server: 116.129.254.29, port: 3389, type: trojan, password: f6f2072a2e4cfc91, skip-cert-verify: true, udp: true}
+  - {name: "🇨🇳 台湾*26", server: 116.129.254.29, port: 3389, type: trojan, password: f6f2072a2e4cfc91, skip-cert-verify: true, udp: true}
+  - {name: "🇨🇳 台湾*28", server: 116.129.254.47, port: 3389, type: trojan, password: e37c6d7efa845d60, skip-cert-verify: true, udp: true}
+  - {name: "🇨🇳 台湾*28", server: 116.129.254.47, port: 3389, type: trojan, password: e37c6d7efa845d60, skip-cert-verify: true, udp: true}
+  - {name: "🇨🇳 台湾*29", server: 116.129.253.130, port: 3389, type: trojan, password: a170b44c2dfac9e6, skip-cert-verify: true, udp: true}
+  - {name: "🇨🇳 台湾*29", server: 116.129.253.130, port: 3389, type: trojan, password: a170b44c2dfac9e6, skip-cert-verify: true, udp: true}
+  - {name: "🇨🇳 台湾*34", server: 116.129.253.130, port: 3389, type: trojan, password: f6f2072a2e4cfc91, skip-cert-verify: true, udp: true}
+  - {name: "🇨🇳 台湾*34", server: 116.129.253.130, port: 3389, type: trojan, password: f6f2072a2e4cfc91, skip-cert-verify: true, udp: true}
+  - {name: "🇨🇳 台湾1", server: tw.node.qchwnd.moe, port: 44608, type: trojan, password: 7def61a2-9aff-4691-ad6b-4564e9639b6d, skip-cert-verify: true, udp: true}
+  - {name: "🇫🇷 法国*TG:＠yzcloud_13", server: 195.154.200.150, port: 2376, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7, udp: true}
+  - {name: "🇫🇷 法国*TG:＠yzcloud_13", server: 195.154.200.150, port: 2376, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7, udp: true}
+  - {name: "🇫🇷 法国|Netflix", server: fr.node.qchwnd.moe, port: 44612, type: trojan, password: 7def61a2-9aff-4691-ad6b-4564e9639b6d, skip-cert-verify: true, udp: true}
+  - {name: "🇭🇰 [VIP]香港4•HKT", server: hkt.node.qchwnd.moe, port: 44609, type: trojan, password: 7def61a2-9aff-4691-ad6b-4564e9639b6d, skip-cert-verify: true, udp: true}
+  - {name: "🇮🇳 印度*TG:＠yzcloud_13", server: 206.189.136.113, port: 46786, type: ss, cipher: chacha20-ietf-poly1305, password: 5e04bdc6-6f09-4f5e-a3c7-edf4d3220ad3, udp: true}
+  - {name: "🇰🇷 [VIP]韩国1", server: 138.2.127.240, port: 44600, type: trojan, password: 7def61a2-9aff-4691-ad6b-4564e9639b6d, skip-cert-verify: true, udp: true}
+  - {name: "🇰🇷 [VIP]韩国2", server: 129.154.53.120, port: 44600, type: trojan, password: 7def61a2-9aff-4691-ad6b-4564e9639b6d, skip-cert-verify: true, udp: true}
+  - {name: "🇰🇷 [VIP]韩国4", server: 144.24.76.223, port: 44600, type: trojan, password: 7def61a2-9aff-4691-ad6b-4564e9639b6d, skip-cert-verify: true, udp: true}
+  - {name: "🇷🇺 俄罗斯*13", server: 185.4.65.6, port: 21247, type: ss, cipher: aes-256-cfb, password: vDS9G2p, udp: true}
+  - {name: "🇷🇺 俄罗斯*13", server: 185.4.65.6, port: 21247, type: ss, cipher: aes-256-cfb, password: vDS9G2p, udp: true}
+  - {name: "🇷🇺 俄罗斯1", server: ru.node.qchwnd.moe, port: 44606, type: trojan, password: 7def61a2-9aff-4691-ad6b-4564e9639b6d, skip-cert-verify: true, udp: true}
+  - {name: "🇸🇬 新加坡*2", server: 195.154.200.150, port: 2376, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7, udp: true}
+  - {name: "🇸🇬 新加坡*4", server: 185.4.65.6, port: 21247, type: ss, cipher: aes-256-cfb, password: vDS9G2p, udp: true}
+  - {name: "🇸🇬 新加坡*4", server: 185.4.65.6, port: 21247, type: ss, cipher: aes-256-cfb, password: vDS9G2p, udp: true}
+  - {name: "🇸🇬 新加坡*7", server: 206.189.136.113, port: 46786, type: ss, cipher: chacha20-ietf-poly1305, password: 5e04bdc6-6f09-4f5e-a3c7-edf4d3220ad3, udp: true}
+  - {name: "🇸🇬 欢迎使用Welink345 请定期更新订阅", server: tw.node.qchwnd.moe, port: 44608, type: trojan, password: 7def61a2-9aff-4691-ad6b-4564e9639b6d, skip-cert-verify: true, udp: true}
+  - {name: "🇺🇸 美国*37", server: 164.92.99.126, port: 52441, type: ss, cipher: chacha20-ietf-poly1305, password: 1c0e4a18-4d7a-4231-a55d-1dee0fe6732a, udp: true}
