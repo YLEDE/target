@@ -13,7 +13,7 @@
 			"searchable":0,
 			"quickSearch":1,
 			"filterable":1,
-			"ext":"https://rlede.coding.net/p/cattv/d/maotv/git/raw/master/cokemv.json"
+			"ext":"https://rlede.coding.net/p/maotv/d/xpath/git/tree/master/cokemv.json"
 		},
 		{
 			"key": "csp_xpath_Ysgc",
@@ -23,7 +23,7 @@
 			"searchable": 0,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext":"https://rlede.coding.net/p/cattv/d/maotv/git/raw/master/ysgc.json"
+			"ext":"https://rlede.coding.net/p/maotv/d/xpath/git/tree/master/ysgc.json"
 		}, 
 		{
 			"key":"csp_DiDuan",
@@ -42,7 +42,7 @@
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":0,
-			"ext":"https://rlede.coding.net/p/cattv/d/maotv/git/raw/master/lezhutv.json"
+			"ext":"https://rlede.coding.net/p/maotv/d/xpath/git/tree/master/lezhutv.json"
 		},		
 		{
 			"key":"csp_CZSPP",
@@ -70,7 +70,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 0,
-			"ext": "https://rlede.coding.net/p/cattv/d/maotv/git/raw/master/lanmei.json"
+			"ext": "https://rlede.coding.net/p/maotv/d/xpath/git/tree/master/lanmei.json"
 		},
 		{
 			"key":"csp_xpath_juhu",
@@ -80,7 +80,7 @@
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":1,
-			"ext":"https://rlede.coding.net/p/cattv/d/maotv/git/raw/master/juhuang.json"
+			"ext":"https://rlede.coding.net/p/maotv/d/xpath/git/tree/master/juhuang.json"
 		},
 		{
 			"key": "csp_xpath_348",
@@ -90,7 +90,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": "https://rlede.coding.net/p/cattv/d/maotv/git/raw/master/348z.json"
+			"ext": "https://rlede.coding.net/p/maotv/d/xpath/git/tree/master/348z.json"
 		},
 		{
 			"key": "csp_xpath_1090",
@@ -100,7 +100,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": "https://rlede.coding.net/p/cattv/d/maotv/git/raw/master/1090.json"
+			"ext": "https://rlede.coding.net/p/maotv/d/xpath/git/tree/master/1090.json"
 		},    
 		{
 			"key": "csp_xpath_newfii",
@@ -110,7 +110,7 @@
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":0,
-			"ext": "https://rlede.coding.net/p/cattv/d/maotv/git/raw/master/newfii.json"
+			"ext": "https://rlede.coding.net/p/maotv/d/xpath/git/tree/master/newfii.json"
 		},
 		{
 			"key":"csp_xpath_wuguiyy",
@@ -120,7 +120,7 @@
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":0,
-			"ext":"https://rlede.coding.net/p/cattv/d/maotv/git/raw/master/wuguiyy.json"
+			"ext":"https://rlede.coding.net/p/maotv/d/xpath/git/tree/master/wuguiyy.json"
 		},
 		{
 			"key": "csp_xpath_hdmoli",
@@ -130,7 +130,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": "https://rlede.coding.net/p/cattv/d/maotv/git/raw/master/hdmoli.json"
+			"ext": "https://rlede.coding.net/p/maotv/d/xpath/git/tree/master/hdmoli.json"
 		},
 		{
 			"key":"csp_appysv2_天空影视",
@@ -180,7 +180,7 @@
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":1,
-			"ext":"https://rlede.coding.net/p/cattv/d/maotv/git/raw/master/libv.json"
+			"ext":"https://rlede.coding.net/p/maotv/d/xpath/git/tree/master/libv.json"
 		},
 		{
 			"key":"csp_xpath_9ekk",
@@ -190,7 +190,7 @@
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":0,
-			"ext":"https://rlede.coding.net/p/cattv/d/maotv/git/raw/master/9ekk.json"
+			"ext":"https://rlede.coding.net/p/maotv/d/xpath/git/tree/master/9ekk.json"
 		},	
 		{
 			"key":"csp_xpath_dmntv",
@@ -200,7 +200,7 @@
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":1,
-			"ext":"https://rlede.coding.net/p/cattv/d/maotv/git/raw/master/dmntv.json"
+			"ext":"https://rlede.coding.net/p/maotv/d/xpath/git/tree/master/dmntv.json"
 		},
 		{
 			"key":"csp_xpath_789kp",
@@ -210,7 +210,7 @@
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":1,
-			"ext":"https://rlede.coding.net/p/cattv/d/maotv/git/raw/master/789kp.json"
+			"ext":"https://rlede.coding.net/p/maotv/d/xpath/git/tree/master/789kp.json"
 		},
 		{
 			"key": "csp_Auete",
@@ -220,7 +220,7 @@
 			"searchable": 1,
 			"quickSearch": 0,
 			"filterable": 1,
-			"ext":"https://rlede.coding.net/p/cattv/d/maotv/git/raw/master/auete.json"
+			"ext":"https://rlede.coding.net/p/maotv/d/xpath/git/tree/master/auete.json"
 		},
 		{
 			"key": "csp_xpath_zjdr",
@@ -230,7 +230,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": "https://rlede.coding.net/p/cattv/d/maotv/git/raw/master/vipmv.json"
+			"ext": "https://rlede.coding.net/p/maotv/d/xpath/git/tree/master/vipmv.json"
 		},
 		{
 			"key":"csp_xpath_Jumi",
@@ -240,7 +240,7 @@
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":1,
-			"ext":"https://rlede.coding.net/p/cattv/d/maotv/git/raw/master/Gimy.json"
+			"ext":"https://rlede.coding.net/p/maotv/d/xpath/git/tree/master/Gimy.json"
 		},		
 		{
 			"key": "csp_xpath_555",
@@ -250,7 +250,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 0,
-			"ext": "https://rlede.coding.net/p/cattv/d/maotv/git/raw/master/555.json"
+			"ext": "https://rlede.coding.net/p/maotv/d/xpath/git/tree/master/555.json"
 		},
 		{
 			"key": "csp_xpath_jpys",
@@ -260,7 +260,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": "https://rlede.coding.net/p/cattv/d/maotv/git/raw/master/jpys.json"
+			"ext": "https://rlede.coding.net/p/maotv/d/xpath/git/tree/master/jpys.json"
 		},	
 		{
 			"key": "csp_xpath_tvci",
@@ -270,7 +270,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 0,
-			"ext": "https://rlede.coding.net/p/cattv/d/maotv/git/raw/master/tvci.json"
+			"ext": "https://rlede.coding.net/p/maotv/d/xpath/git/tree/master/tvci.json"
 		},
 		{
 			"key":"csp_xpath_yanet",
@@ -280,7 +280,7 @@
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":1,
-			"ext":"https://rlede.coding.net/p/cattv/d/maotv/git/raw/master/yanet.json"
+			"ext":"https://rlede.coding.net/p/maotv/d/xpath/git/tree/master/yanet.json"
 		},		
 		{
 			"key": "csp_xpath_94sm",
@@ -290,7 +290,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 0,
-			"ext": "https://rlede.coding.net/p/cattv/d/maotv/git/raw/master/94sm.json"
+			"ext": "https://rlede.coding.net/p/maotv/d/xpath/git/tree/master/94sm.json"
 		},
 		{
 			"key":"csp_xpath_agefans",
@@ -300,7 +300,7 @@
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":1,
-			"ext": "https://rlede.coding.net/p/cattv/d/maotv/git/raw/master/agefans.json"
+			"ext": "https://rlede.coding.net/p/maotv/d/xpath/git/tree/master/agefans.json"
 		},		
 		{
 			"key": "csp_xpath_duboku",
@@ -310,7 +310,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 0,
-			"ext": "https://rlede.coding.net/p/cattv/d/maotv/git/raw/master/duboku.json"
+			"ext": "https://rlede.coding.net/p/maotv/d/xpath/git/tree/master/duboku.json"
 		},
 		{
 			"key": "csp_xpath_dm84",
@@ -320,7 +320,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 0,
-			"ext": "https://rlede.coding.net/p/cattv/d/maotv/git/raw/master/dm84.json"
+			"ext": "https://rlede.coding.net/p/maotv/d/xpath/git/tree/master/dm84.json"
 		},
 		{
 			"key":"csp_xpath_4kpianku",
@@ -330,7 +330,7 @@
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":1,
-			"ext":"https://rlede.coding.net/p/cattv/d/maotv/git/raw/master/4kpianku.json"
+			"ext":"https://rlede.coding.net/p/maotv/d/xpath/git/tree/master/4kpianku.json"
 		},
 		{
 			"key": "csp_xpath_tvby",
@@ -340,7 +340,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": "https://rlede.coding.net/p/cattv/d/maotv/git/raw/master/tvb.json"
+			"ext": "https://rlede.coding.net/p/maotv/d/xpath/git/tree/master/tvb.json"
 		},
 		{
 			"key":"m3u8资源",
