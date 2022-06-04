@@ -27,7 +27,7 @@
 		}, 
 		{
 			"key":"csp_DiDuan",
-			"name":"低端(SP)",
+			"name":"低端",
 			"type":3,
 			"api":"csp_DiDuan",
 			"searchable":0,
@@ -46,7 +46,7 @@
 		},		
 		{
 			"key":"csp_CZSPP",
-			"name":"厂长(SP)",
+			"name":"厂长",
 			"type":3,
 			"api":"csp_CZSPP",
 			"searchable":1,
@@ -63,18 +63,8 @@
 			"filterable":0
 		},
 		{
-			"key": "csp_xpath_lanmei",
-			"name": "蓝莓影视(XPath)",
-			"type": 3,
-			"api": "csp_XPathFilter",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 0,
-			"ext": "https://rlede.coding.net/p/maotv/d/xpath/git/raw/master/lanmei.json"
-		},
-		{
 			"key":"csp_xpath_juhu",
-			"name":"剧荒(XP)",
+			"name":"剧荒",
 			"type":3,
 			"api":"csp_XPathMacFilter",
 			"searchable":1,
@@ -84,7 +74,7 @@
 		},
 		{
 			"key": "csp_xpath_348",
-			"name": "348电影(XP)",
+			"name": "348电影",
 			"type": 3,
 			"api": "csp_XPathFilter",
 			"searchable": 1,
@@ -94,7 +84,7 @@
 		},
 		{
 			"key": "csp_xpath_1090",
-			"name": "1090影视(XP)",
+			"name": "1090影视",
 			"type": 3,
 			"api": "csp_XPathFilter",
 			"searchable": 1,
@@ -124,7 +114,7 @@
 		},
 		{
 			"key": "csp_xpath_bd4k",
-			"name": "哔嘀影视(XP)",
+			"name": "哔嘀影视",
 			"type": 3,
 			"api": "csp_XPathFilter",
 			"searchable": 1,
@@ -133,14 +123,14 @@
 			"ext": "https://rlede.coding.net/p/maotv/d/xpath/git/raw/master/bdys.json"
 		},
 		{
-			"key": "csp_xpath_hdmoli",
-			"name": "hdmoli(XP)",
+			"key": "csp_xpath_lanmei",
+			"name": "蓝莓影视",
 			"type": 3,
 			"api": "csp_XPathFilter",
 			"searchable": 1,
 			"quickSearch": 1,
-			"filterable": 1,
-			"ext": "https://rlede.coding.net/p/maotv/d/xpath/git/raw/master/hdmoli.json"
+			"filterable": 0,
+			"ext": "https://rlede.coding.net/p/maotv/d/xpath/git/raw/master/lanmei.json"
 		},
 		{
 			"key":"csp_appysv2_天空影视",
@@ -224,7 +214,7 @@
 		},
 		{
 			"key": "csp_Auete",
-			"name": "Auete(爬虫)",
+			"name": "Auete",
 			"type": 3,
 			"api": "csp_Auete",
 			"searchable": 1,
@@ -234,7 +224,7 @@
 		},
 		{
 			"key": "csp_xpath_zjdr",
-			"name": "追剧达人(XP)",
+			"name": "追剧达人",
 			"type": 3,
 			"api": "csp_XPathMacFilter",
 			"searchable": 1,
@@ -244,7 +234,7 @@
 		},
 		{
 			"key":"csp_xpath_Jumi",
-			"name":"剧迷TV(XPMac)",
+			"name":"剧迷TV",
 			"type":3,
 			"api":"csp_XPathFilter",
 			"searchable":1,
@@ -254,7 +244,7 @@
 		},		
 		{
 			"key": "csp_xpath_555",
-			"name": "555电影(XPath)",
+			"name": "555电影",
 			"type": 3,
 			"api": "csp_XPathFilter",
 			"searchable": 1,
@@ -264,7 +254,7 @@
 		},
 		{
 			"key": "csp_xpath_jpys",
-			"name": "极品影视(XPMac)",
+			"name": "极品影视",
 			"type": 3,
 			"api": "csp_XPathMacFilter",
 			"searchable": 1,
@@ -273,8 +263,18 @@
 			"ext": "https://rlede.coding.net/p/maotv/d/xpath/git/raw/master/jpys.json"
 		},	
 		{
+			"key": "csp_xpath_tvby",
+			"name": "TVB云播(XP)",
+			"type": 3,
+			"api": "csp_XPathFilter",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": "https://rlede.coding.net/p/maotv/d/xpath/git/raw/master/tvb.json"
+		},
+		{
 			"key": "csp_xpath_tvci",
-			"name": "大师兄(XPath)",
+			"name": "大师兄",
 			"type": 3,
 			"api": "csp_XPath",
 			"searchable": 1,
@@ -284,7 +284,7 @@
 		},
 		{
 			"key":"csp_xpath_yanet",
-			"name":"鸭奈飞(XP)",
+			"name":"鸭奈飞",
 			"type":3,
 			"api":"csp_XPathFilter",
 			"searchable":1,
@@ -294,7 +294,7 @@
 		},		
 		{
 			"key": "csp_xpath_94sm",
-			"name": "94神马(XPath)",
+			"name": "94神马",
 			"type": 3,
 			"api": "csp_XPath",
 			"searchable": 1,
@@ -303,28 +303,8 @@
 			"ext": "https://rlede.coding.net/p/maotv/d/xpath/git/raw/master/94sm.json"
 		},
 		{
-			"key": "csp_xpath_hdmoli",
-			"name": "hdmoli(XP)",
-			"type": 3,
-			"api": "csp_XPathFilter",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"ext": "https://rlede.coding.net/p/maotv/d/xpath/git/raw/master/hdmoli.json"
-		},
-		{
-			"key":"csp_xpath_agefans",
-			"name":"Age动漫(XP)",
-			"type":3,
-			"api":"csp_XPath",
-			"searchable":1,
-			"quickSearch":1,
-			"filterable":1,
-			"ext": "https://rlede.coding.net/p/maotv/d/xpath/git/raw/master/agefans.json"
-		},		
-		{
 			"key": "csp_xpath_duboku",
-			"name": "独播库(XPath)",
+			"name": "独播库",
 			"type": 3,
 			"api": "csp_XPathFilter",
 			"searchable": 1,
@@ -333,15 +313,16 @@
 			"ext": "https://rlede.coding.net/p/maotv/d/xpath/git/raw/master/duboku.json"
 		},
 		{
-			"key": "csp_xpath_dm84",
-			"name": "动漫巴士(XPath)",
+			"key": "csp_xpath_hdmoli",
+			"name": "hdmoli",
 			"type": 3,
-			"api": "csp_XPath",
+			"api": "csp_XPathFilter",
 			"searchable": 1,
 			"quickSearch": 1,
-			"filterable": 0,
-			"ext": "https://rlede.coding.net/p/maotv/d/xpath/git/raw/master/dm84.json"
+			"filterable": 1,
+			"ext": "https://rlede.coding.net/p/maotv/d/xpath/git/raw/master/hdmoli.json"
 		},
+		
 		{
 			"key":"csp_xpath_4kpianku",
 			"name":"4k片库网(XP)",
@@ -353,14 +334,24 @@
 			"ext":"https://rlede.coding.net/p/maotv/d/xpath/git/raw/master/4kpianku.json"
 		},
 		{
-			"key": "csp_xpath_tvby",
-			"name": "TVB云播(XP)",
+			"key":"csp_xpath_agefans",
+			"name":"Age动漫",
+			"type":3,
+			"api":"csp_XPath",
+			"searchable":1,
+			"quickSearch":1,
+			"filterable":1,
+			"ext": "https://rlede.coding.net/p/maotv/d/xpath/git/raw/master/agefans.json"
+		},
+		{
+			"key": "csp_xpath_dm84",
+			"name": "动漫巴士(XPath)",
 			"type": 3,
-			"api": "csp_XPathFilter",
+			"api": "csp_XPath",
 			"searchable": 1,
 			"quickSearch": 1,
-			"filterable": 1,
-			"ext": "https://rlede.coding.net/p/maotv/d/xpath/git/raw/master/tvb.json"
+			"filterable": 0,
+			"ext": "https://rlede.coding.net/p/maotv/d/xpath/git/raw/master/dm84.json"
 		},
 		{
 			"key":"m3u8资源",
