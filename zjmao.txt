@@ -256,7 +256,7 @@
 			"key": "csp_xpath_555",
 			"name": "555电影(XPath)",
 			"type": 3,
-			"api": "csp_XPath",
+			"api": "csp_XPathFilter",
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 0,
