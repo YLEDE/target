@@ -243,14 +243,14 @@
 			"ext":"https://rlede.coding.net/p/maotv/d/xpath/git/raw/master/789kp.json"
 		},
 		{
-			"key": "csp_biubiu_Auete",
+			"key": "csp_xpath_Auete",
 			"name": "Auete",
 			"type": 3,
 			"api": "csp_XBiubiu",
 			"searchable": 1,
 			"quickSearch": 1,
-			"filterable": 0,
-			"ext": "https://raw.githubusercontents.com/YLEDE/OneClickRun/master/MaooXB/Auete影视.json"
+			"filterable": 1,
+			"ext": "https://raw.githubusercontents.com/YLEDE/OneClickRun/master/MaooXP/Auete2.json"
 		},
 		{
 			"key": "csp_xpath_zjdr",
