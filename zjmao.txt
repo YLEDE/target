@@ -246,7 +246,7 @@
 			"key": "csp_biubiu_Auete",
 			"name": "Auete",
 			"type": 3,
-			"api": "csp_Biubiu",
+			"api": "csp_XBiubiu",
 			"searchable": 1,
 			"quickSearch": 0,
 			"filterable": 1,
