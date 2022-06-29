@@ -246,7 +246,7 @@
 			"key": "csp_xpath_Auete",
 			"name": "Auete",
 			"type": 3,
-			"api": "XPathFilter",
+			"api": "csp_XPathFilter",
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
