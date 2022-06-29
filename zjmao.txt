@@ -110,7 +110,7 @@
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":0,
-			"ext": "https://raw.githubusercontents.com/YLEDE/OneClickRun/master/MaooXB/奈落影院.json"
+			"ext": "http://9xi4o.tk/OneClickRun/MaooXB/奈落影院.json"
 		},
 		{
 			"key": "csp_xpath_lkvod",
