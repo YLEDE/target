@@ -1,7 +1,7 @@
 {
 	"wallpaper":"http://api.btstu.cn/sjbz/api.php?lx=fengjing&format=images",
 
-	"spider":"https://raw.githubusercontents.com/YLEDE/OneClickRun/master/MaooXB/XBiubiuLA3.jar",
+	"spider":"https://raw.githubusercontents.com/YLEDE/OneClickRun/master/MaooXP/custom_spider.jar",
 
 	"sites":
 	[	
@@ -96,7 +96,7 @@
 			"key": "csp_xpath_newfii",
 			"name": "奈落影院",
 			"type":3,
-			"api": "csp_XPath",
+			"api": "csp_XPathFilter",
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":0,
