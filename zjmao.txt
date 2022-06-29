@@ -1,7 +1,7 @@
 {
 	"wallpaper":"http://api.btstu.cn/sjbz/api.php?lx=fengjing&format=images",
 
-	"spider":"https://raw.githubusercontents.com/YLEDE/OneClickRun/master/MaooXP/custom_spider.jar",
+	"spider":"https://raw.githubusercontents.com/YLEDE/OneClickRun/blob/master/MaooXB/XBiubiuLA3.jar",
 
 	"sites":
 	[	
