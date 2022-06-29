@@ -250,7 +250,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": "https://raw.githubusercontents.com/YLEDE/OneClickRun/master/MaooXP/Auete2.json"
+			"ext": "https://raw.githubusercontents.com/YLEDE/OneClickRun/master/MaooXP/auete.json"
 		},
 		{
 			"key": "csp_xpath_zjdr",
