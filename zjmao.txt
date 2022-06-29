@@ -16,14 +16,14 @@
 			"ext":"https://rlede.coding.net/p/maotv/d/xpath/git/raw/master/cokemv.json"
 		},
 		{
-			"key": "csp_xpath_Ysgc",
+			"key": "csp_biubiu_Ysgc",
 			"name": "影视工厂",
 			"type": 3,
-			"api": "csp_XPathFilter",
-			"searchable": 0,
+			"api": "csp_XBiubiu",
+			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext":"https://rlede.coding.net/p/maotv/d/xpath/git/raw/master/ysgc.json"
+			"ext":"https://raw.githubusercontents.com/YLEDE/OneClickRun/master/MaooXB/影视工厂.json"
 		}, 
 		{
 			"key":"csp_DiDuan",
