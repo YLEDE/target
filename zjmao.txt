@@ -101,9 +101,9 @@
 			"quickSearch": 1,
 			"filterable": 1,
 			"ext": "https://rlede.coding.net/p/maotv/d/xpath/git/raw/master/1090.json"
-		},    
+		},
 		{
-			"key": "csp_biubiu_newfii",
+			"key": "csp_biubiu_奈落影院",
 			"name": "奈落影院",
 			"type":3,
 			"api": "csp_XBiubiu",
