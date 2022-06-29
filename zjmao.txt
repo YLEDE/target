@@ -66,11 +66,11 @@
 			"key":"csp_xpath_juhu",
 			"name":"剧荒",
 			"type":3,
-			"api":"csp_XPathMacFilter",
+			"api":"csp_XPathFilter",
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":1,
-			"ext":"https://rlede.coding.net/p/maotv/d/xpath/git/raw/master/juhuang.json"
+			"ext":"https://raw.githubusercontents.com/YLEDE/OneClickRun/master/MaooXP/juhuang.json"
 		},
 		{
 			"key": "csp_xpath_348",
@@ -91,6 +91,26 @@
 			"quickSearch": 1,
 			"filterable": 1,
 			"ext": "https://rlede.coding.net/p/maotv/d/xpath/git/raw/master/1090.json"
+		},
+		{
+			"key": "csp_xpath_baibai",
+			"name": "剧白白",
+			"type": 3,
+			"api": "csp_XPathFilter",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": "https://raw.githubusercontents.com/YLEDE/OneClickRun/master/MaooXP/jubaibai.json"
+		},
+		{
+			"key": "csp_biubiu_喜鹊",
+			"name": "喜鹊影视",
+			"type": 3,
+			"api": "csp_XBiubiu",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 0,
+			"ext": "https://raw.githubusercontents.com/YLEDE/OneClickRun/master/MaooXB/喜鹊视频.json"
 		},
 		{
 			"key": "csp_biubiu_newfii",
@@ -133,14 +153,14 @@
 			"ext": "https://rlede.coding.net/p/maotv/d/xpath/git/raw/master/bdys.json"
 		},
 		{
-			"key": "csp_xpath_lanmei",
-			"name": "蓝莓影视",
+			"key": "csp_biubiu_星空",
+			"name": "星空影视",
 			"type": 3,
-			"api": "csp_XPathFilter",
+			"api": "csp_XBiubiu",
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 0,
-			"ext": "https://rlede.coding.net/p/maotv/d/xpath/git/raw/master/lanmei.json"
+			"ext": "https://raw.githubusercontents.com/YLEDE/OneClickRun/master/MaooXB/星空影视.json"
 		},
 		{
 			"key":"csp_appysv2_天空影视",
@@ -303,14 +323,14 @@
 			"ext":"https://rlede.coding.net/p/maotv/d/xpath/git/raw/master/yanet.json"
 		},		
 		{
-			"key": "csp_xpath_94sm",
+			"key": "csp_biubiu_瓜皮",
 			"name": "94神马",
 			"type": 3,
-			"api": "csp_XPath",
+			"api": "csp_XBiubiu",
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 0,
-			"ext": "https://rlede.coding.net/p/maotv/d/xpath/git/raw/master/94sm.json"
+			"ext": "https://raw.githubusercontents.com/YLEDE/OneClickRun/master/MaooXB/瓜皮TV.json"
 		},
 		{
 			"key": "csp_xpath_duboku",
@@ -323,16 +343,15 @@
 			"ext": "https://rlede.coding.net/p/maotv/d/xpath/git/raw/master/duboku.json"
 		},
 		{
-			"key": "csp_xpath_hdmoli",
+			"key": "csp_biubiu_hdmoli",
 			"name": "hdmoli",
 			"type": 3,
-			"api": "csp_XPathFilter",
+			"api": "csp_XBiubiu",
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": "https://rlede.coding.net/p/maotv/d/xpath/git/raw/master/hdmoli.json"
+			"ext": "https://raw.githubusercontents.com/YLEDE/OneClickRun/master/MaooXB/hdmoli.json"
 		},
-		
 		{
 			"key":"csp_xpath_4kpianku",
 			"name":"4k片库网(XP)",
