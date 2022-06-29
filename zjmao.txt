@@ -83,16 +83,6 @@
 			"ext": "https://rlede.coding.net/p/maotv/d/xpath/git/raw/master/348z.json"
 		},
 		{
-			"key": "csp_biubiu_1080",
-			"name": "1080影视",
-			"type": 3,
-			"api": "csp_XBiubiu",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"ext": "https://raw.githubusercontents.com/YLEDE/OneClickRun/master/MaooXB/1080Kkk.json"
-		},
-		{
 			"key": "csp_xpath_1090",
 			"name": "1090影视",
 			"type": 3,
@@ -263,14 +253,14 @@
 			"ext":"https://rlede.coding.net/p/maotv/d/xpath/git/raw/master/Gimy.json"
 		},		
 		{
-			"key": "csp_xpath_555",
+			"key": "csp_biubiu_555",
 			"name": "555电影",
 			"type": 3,
-			"api": "csp_XPathFilter",
+			"api": "csp_XBiubiu",
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 0,
-			"ext": "https://rlede.coding.net/p/maotv/d/xpath/git/raw/master/555.json"
+			"ext": "https://raw.githubusercontents.com/YLEDE/OneClickRun/master/MaooXB/555电影.json"
 		},
 		{
 			"key": "csp_xpath_jpys",
