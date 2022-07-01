@@ -153,10 +153,10 @@
 			"ext": "https://rlede.coding.net/p/maotv/d/xpath/git/raw/master/bdys.json"
 		},
 		{	
-			"key":"csp_xpath_lmys",
+			"key":"csp_biubiu_lmys",
 			"name": "蓝莓影视",
 			"type": 3,
-			"api":"csp_XPathFilter",
+			"api":"csp_XBiubiu",
 			"searchable": 1,
 			"quickSearch":1,
 			"filterable":0,
