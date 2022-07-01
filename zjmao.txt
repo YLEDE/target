@@ -43,7 +43,16 @@
 			"quickSearch":1,
 			"filterable":0,
 			"ext":"https://rlede.coding.net/p/maotv/d/xpath/git/raw/master/lezhutv.json"
-		},		
+		},
+		{
+			"key": "csp_Auete",
+			"name": "Auete",
+			"type": 3,
+			"api": "csp_Auete",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1
+		},
 		{
 			"key":"csp_CZSPP",
 			"name":"厂长",
@@ -241,16 +250,6 @@
 			"quickSearch":1,
 			"filterable":1,
 			"ext":"https://rlede.coding.net/p/maotv/d/xpath/git/raw/master/789kp.json"
-		},
-		{
-			"key": "csp_Auete",
-			"name": "Auete",
-			"type": 3,
-			"api": "csp_Auete",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"ext": "https://raw.githubusercontents.com/YLEDE/OneClickRun/master/MaooXP/auete.json"
 		},
 		{
 			"key": "csp_xpath_zjdr",
