@@ -63,14 +63,14 @@
 			"filterable":0
 		},
 		{
-			"key":"csp_xpath_juhu",
-			"name":"剧荒",
+			"key":"csp_biubiu_Nike",
+			"name":"🐛Nike影视网",
 			"type":3,
-			"api":"csp_XPathFilter",
+			"api":"csp_XBiubiu",
 			"searchable":1,
 			"quickSearch":1,
-			"filterable":1,
-			"ext":"https://raw.githubusercontents.com/YLEDE/OneClickRun/master/MaooXP/juhuang.json"
+			"filterable":0,
+			"ext":"https://raw.githubusercontents.com/YLEDE/OneClickRun/master/MaooXP/Nike影视网.json"
 		},
 		{
 			"key": "csp_xpath_348",
@@ -152,15 +152,14 @@
 			"filterable": 1,
 			"ext": "https://rlede.coding.net/p/maotv/d/xpath/git/raw/master/bdys.json"
 		},
-		{
-			"key": "csp_biubiu_星空",
-			"name": "星空影视",
+		{	"key":"csp_xpath_lmys",
+			"name": "蓝莓影视",
 			"type": 3,
-			"api": "csp_XBiubiu",
+			"api":"csp_XPathFilter",
 			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 0,
-			"ext": "https://raw.githubusercontents.com/YLEDE/OneClickRun/master/MaooXB/星空影视.json"
+			"quickSearch":1,
+			"filterable":0,
+			"ext":"https://rlede.coding.net/p/maotv/d/xpath/git/raw/master/lmys.json"
 		},
 		{
 			"key":"csp_appysv2_天空影视",
