@@ -64,13 +64,13 @@
 		},
 		{
 			"key":"csp_biubiu_Nike",
-			"name":"🐛Nike影视网",
+			"name":"Nike影视网",
 			"type":3,
 			"api":"csp_XBiubiu",
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":0,
-			"ext":"https://raw.githubusercontents.com/YLEDE/OneClickRun/master/MaooXP/Nike影视网.json"
+			"ext":"https://raw.githubusercontents.com/YLEDE/OneClickRun/master/MaooXB/Nike影视网.json"
 		},
 		{
 			"key": "csp_xpath_348",
