@@ -153,14 +153,14 @@
 			"ext": "https://rlede.coding.net/p/maotv/d/xpath/git/raw/master/bdys.json"
 		},
 		{	
-			"key":"csp_biubiu_lmys",
-			"name": "蓝莓影视",
+			"key":"csp_biubiu_瓜皮",
+			"name": "瓜皮TV",
 			"type": 3,
 			"api":"csp_XBiubiu",
 			"searchable": 1,
 			"quickSearch":1,
 			"filterable":0,
-			"ext":"https://raw.githubusercontents.com/YLEDE/OneClickRun/master/MaooXB/蓝莓影视.json"
+			"ext":"https://raw.githubusercontents.com/YLEDE/OneClickRun/master/MaooXB/瓜皮TV.json"
 		},
 		{
 			"key":"csp_appysv2_天空影视",
