@@ -1,7 +1,7 @@
 {
 	"wallpaper":"http://api.btstu.cn/sjbz/api.php?lx=fengjing&format=images",
 
-	"spider":"https://raw.githubusercontents.com/YLEDE/OneClickRun/master/custom_spider.jar",
+	"spider":"https://raw.githubusercontents.com/YLEDE/TVBox/master/tvbox.jar",
 
 	"sites":
 	[	
@@ -12,55 +12,17 @@
 			"api":"csp_XPathFilter",
 			"searchable":0,
 			"quickSearch":1,
-			"filterable":1,
-			"ext":"https://rlede.coding.net/p/maotv/d/xpath/git/raw/master/cokemv.json"
+			"filterable":0,
+			"ext":"https://raw.githubusercontents.com/YLEDE/TVBox/master/xpath/cokemv.json"
 		},
-		{
-			"key": "csp_biubiu_Ysgc",
-			"name": "影视工厂",
-			"type": 3,
-			"api": "csp_XBiubiu",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"ext":"https://raw.githubusercontents.com/YLEDE/OneClickRun/master/MaooXB/影视工厂.json"
-		}, 
 		{
 			"key":"csp_DiDuan",
 			"name":"低端",
 			"type":3,
 			"api":"csp_DiDuan",
-			"searchable":0,
+			"searchable":1,
 			"quickSearch":1,
 			"filterable":1
-		},	
-		{
-			"key":"csp_xpath_lezhutv",
-			"name":"乐猪TV",
-			"type":3,
-			"api":"csp_XPathFilter",
-			"searchable":1,
-			"quickSearch":1,
-			"filterable":0,
-			"ext":"https://rlede.coding.net/p/maotv/d/xpath/git/raw/master/lezhutv.json"
-		},
-		{
-			"key": "csp_Auete",
-			"name": "Auete",
-			"type": 3,
-			"api": "csp_Auete",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1
-		},
-		{
-			"key":"csp_CZSPP",
-			"name":"厂长",
-			"type":3,
-			"api":"csp_CZSPP",
-			"searchable":1,
-			"quickSearch":1,
-			"filterable":0
 		},
 		{
 			"key":"csp_GitCafe",
@@ -69,107 +31,25 @@
 			"api":"csp_GitCafe",
 			"searchable":1,
 			"quickSearch":1,
-			"filterable":0
+			"filterable":1
 		},
 		{
-			"key":"csp_biubiu_Nike",
-			"name":"Nike影视网",
+			"key":"csp_CZSPP",
+			"name":"厂长",
 			"type":3,
-			"api":"csp_XBiubiu",
+			"api":"csp_CZSPP",
 			"searchable":1,
 			"quickSearch":1,
-			"filterable":0,
-			"ext":"https://raw.githubusercontents.com/YLEDE/OneClickRun/master/MaooXB/Nike影视网.json"
+			"filterable":1
 		},
 		{
-			"key": "csp_xpath_348",
-			"name": "348电影",
+			"key": "csp_Auete",
+			"name": "Auete(爬虫)",
 			"type": 3,
-			"api": "csp_XPathFilter",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"ext": "https://rlede.coding.net/p/maotv/d/xpath/git/raw/master/348z.json"
-		},
-		{
-			"key": "csp_xpath_1090",
-			"name": "1090影视",
-			"type": 3,
-			"api": "csp_XPathFilter",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"ext": "https://rlede.coding.net/p/maotv/d/xpath/git/raw/master/1090.json"
-		},
-		{
-			"key": "csp_xpath_baibai",
-			"name": "剧白白",
-			"type": 3,
-			"api": "csp_XPathFilter",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"ext": "https://raw.githubusercontents.com/YLEDE/OneClickRun/master/MaooXP/jubaibai.json"
-		},
-		{
-			"key": "csp_biubiu_喜鹊",
-			"name": "喜鹊影视",
-			"type": 3,
-			"api": "csp_XBiubiu",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 0,
-			"ext": "https://raw.githubusercontents.com/YLEDE/OneClickRun/master/MaooXB/喜鹊视频.json"
-		},
-		{
-			"key": "csp_biubiu_newfii",
-			"name": "奈落影院",
-			"type":3,
-			"api": "csp_XBiubiu",
+			"api": "csp_Auete",
 			"searchable":1,
 			"quickSearch":1,
-			"filterable":0,
-			"ext": "https://raw.githubusercontents.com/YLEDE/OneClickRun/master/MaooXB/奈落影院.json"
-		},
-		{
-			"key": "csp_xpath_lkvod",
-			"name": "耐看点播",
-			"type":3,
-			"api": "csp_XPath",
-			"searchable":1,
-			"quickSearch":1,
-			"filterable":0,
-			"ext": "https://rlede.coding.net/p/maotv/d/xpath/git/raw/master/lkvod.json"
-		},
-		{
-			"key":"csp_xpath_wuguiyy",
-			"name":"乌龟影院",
-			"type":3,
-			"api":"csp_XPath",
-			"searchable":1,
-			"quickSearch":1,
-			"filterable":0,
-			"ext":"https://rlede.coding.net/p/maotv/d/xpath/git/raw/master/wuguiyy.json"
-		},
-		{
-			"key": "csp_xpath_bd4k",
-			"name": "哔嘀影视",
-			"type": 3,
-			"api": "csp_XPathFilter",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"ext": "https://rlede.coding.net/p/maotv/d/xpath/git/raw/master/bdys.json"
-		},
-		{	
-			"key":"csp_biubiu_瓜皮",
-			"name": "瓜皮TV",
-			"type": 3,
-			"api":"csp_XBiubiu",
-			"searchable": 1,
-			"quickSearch":1,
-			"filterable":0,
-			"ext":"https://raw.githubusercontents.com/YLEDE/OneClickRun/master/MaooXB/瓜皮TV.json"
+			"filterable": 1
 		},
 		{
 			"key":"csp_appysv2_天空影视",
@@ -178,7 +58,7 @@
 			"api":"csp_AppYsV2",
 			"searchable":1,
 			"quickSearch":1,
-			"filterable":1,
+			"filterable":0,
 			"ext":"https://www.tkys.tv/xgapp.php/v2/"
 		},
 		{
@@ -188,28 +68,168 @@
 			"api":"csp_AppYsV2",
 			"searchable":1,
 			"quickSearch":1,
-			"filterable":1,
+			"filterable":0,
 			"ext":"http://www.lltpys.com/api.php/app/"
 		},
 		{
-			"key":"csp_appysv2_雪人资源",
-			"name":"雪人影视",
-			"type":3,
-			"api":"csp_AppYsV2",
-			"searchable":1,
-			"quickSearch":1,
-			"filterable":1,
-			"ext":"http://qqtvapp.com/xgapp.php/v1/"
-		},
-		{
 			"key": "csp_AppYsV2_MX",
-			"name": "MX影视(laodi)",
+			"name": "MX影视",
 			"type": 3,
 			"api": "csp_AppYsV2",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
+			"searchable":1,
+			"quickSearch":1,
+			"filterable":0,
 			"ext": "http://mkk.gotka.top/api.php/v1.vod"
+		},
+		{
+			"key":"csp_xpath_lezhutv",
+			"name":"乐猪TV",
+			"type":3,
+			"api":"csp_XPathFilter",
+			"searchable":1,
+			"quickSearch":1,
+			"filterable":0,
+			"ext":"https://raw.githubusercontents.com/YLEDE/TVBox/master/xpath/lezhutv.json"
+		},
+		{
+			"key": "csp_biubiu_Ysgc",
+			"name": "影视工厂",
+			"type": 3,
+			"api": "csp_XBiubiu",
+			"searchable":1,
+			"quickSearch":1,
+			"filterable":0,
+			"ext":"https://raw.githubusercontents.com/YLEDE/TVBox/master/xpath/ysgc.json"
+		}, 		
+		{
+			"key":"csp_biubiu_Nike",
+			"name":"Nike影视网",
+			"type":3,
+			"api":"csp_XBiubiu",
+			"searchable":1,
+			"quickSearch":1,
+			"filterable":0,
+			"ext":"https://raw.githubusercontents.com/YLEDE/TVBox/master/xpath/Nike.json"
+		},
+		{
+			"key": "csp_xpath_348",
+			"name": "348电影",
+			"type": 3,
+			"api": "csp_XPathFilter",
+			"searchable":1,
+			"quickSearch":1,
+			"filterable":0,
+			"ext": "https://raw.githubusercontents.com/YLEDE/TVBox/master/xpath/348z.json"
+		},
+		{
+			"key": "csp_xpath_1090",
+			"name": "1090影视",
+			"type": 3,
+			"api": "csp_XPathFilter",
+			"searchable":1,
+			"quickSearch":1,
+			"filterable":0,
+			"ext": "https://raw.githubusercontents.com/YLEDE/TVBox/master/xpath/1090.json"
+		},
+		{
+			"key": "csp_xpath_baibai",
+			"name": "剧白白",
+			"type": 3,
+			"api": "csp_XPathFilter",
+			"searchable":1,
+			"quickSearch":1,
+			"filterable":0,
+			"ext": "https://raw.githubusercontents.com/YLEDE/TVBox/master/xpath/jubaibai.json"
+		},
+		{
+			"key": "csp_biubiu_喜鹊",
+			"name": "喜鹊影视",
+			"type": 3,
+			"api": "csp_XBiubiu",
+			"searchable":1,
+			"quickSearch":1,
+			"filterable":0,
+			"ext": "https://raw.githubusercontents.com/YLEDE/TVBox/master/xpath/xique.json"
+		},
+		{
+			"key": "csp_biubiu_newfii",
+			"name": "奈落影院",
+			"type":3,
+			"api": "csp_XBiubiu",
+			"searchable":1,
+			"quickSearch":1,
+			"filterable":0,
+			"ext": "https://raw.githubusercontents.com/YLEDE/TVBox/master/xpath/newfii.json"
+		},
+		{
+			"key": "csp_biubiu_dmxq",
+			"name": "大米星球",
+			"type":3,
+			"api": "csp_XBiubiu",
+			"searchable":1,
+			"quickSearch":1,
+			"filterable":0,
+			"ext": "https://raw.githubusercontents.com/YLEDE/TVBox/master/xpath/dmxq.json"
+		},
+		{
+			"key": "csp_biubiu_xxys",
+			"name": "小熊影视",
+			"type":3,
+			"api": "csp_XBiubiu",
+			"searchable":1,
+			"quickSearch":1,
+			"filterable":0,
+			"ext": "https://raw.githubusercontents.com/YLEDE/TVBox/master/xpath/xxys.json"
+		},
+		{
+			"key": "csp_biubiu_94sm",
+			"name": "神马影院",
+			"type":3,
+			"api": "csp_XBiubiu",
+			"searchable":1,
+			"quickSearch":1,
+			"filterable":0,
+			"ext": "https://raw.githubusercontents.com/YLEDE/TVBox/master/xpath/94sm.json"
+		},
+		{
+			"key": "csp_xpath_lkvod",
+			"name": "耐看点播",
+			"type":3,
+			"api": "csp_XPath",
+			"searchable":1,
+			"quickSearch":1,
+			"filterable":0,
+			"ext": "https://raw.githubusercontents.com/YLEDE/TVBox/master/xpath/lkvod.json"
+		},
+		{
+			"key":"csp_xpath_wuguiyy",
+			"name":"乌龟影院",
+			"type":3,
+			"api":"csp_XPath",
+			"searchable":1,
+			"quickSearch":1,
+			"filterable":0,
+			"ext":"https://raw.githubusercontents.com/YLEDE/TVBox/master/xpath/wuguiyy.json"
+		},
+		{
+			"key": "csp_xpath_bd4k",
+			"name": "哔嘀影视",
+			"type": 3,
+			"api": "csp_XPathFilter",
+			"searchable":1,
+			"quickSearch":1,
+			"filterable":0,
+			"ext": "https://raw.githubusercontents.com/YLEDE/TVBox/master/xpath/bdys.json"
+		},
+		{	
+			"key":"csp_biubiu_瓜皮",
+			"name": "瓜皮TV",
+			"type": 3,
+			"api":"csp_XBiubiu",
+			"searchable":1,
+			"quickSearch":1,
+			"filterable":0,
+			"ext":"https://raw.githubusercontents.com/YLEDE/TVBox/master/xpath/guapitv.json"
 		},
 		{
 			"key":"csp_xpath_libv",
@@ -218,8 +238,8 @@
 			"api":"csp_XPathFilter",
 			"searchable":1,
 			"quickSearch":1,
-			"filterable":1,
-			"ext":"https://rlede.coding.net/p/maotv/d/xpath/git/raw/master/libv.json"
+			"filterable":0,
+			"ext":"https://raw.githubusercontents.com/YLEDE/TVBox/master/xpath/libv.json"
 		},
 		{
 			"key":"csp_xpath_9ekk",
@@ -229,7 +249,7 @@
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":0,
-			"ext":"https://rlede.coding.net/p/maotv/d/xpath/git/raw/master/9ekk.json"
+			"ext":"https://raw.githubusercontents.com/YLEDE/TVBox/master/xpath/9ekk.json"
 		},	
 		{
 			"key":"csp_xpath_dmntv",
@@ -238,8 +258,8 @@
 			"api":"csp_XPathFilter",
 			"searchable":1,
 			"quickSearch":1,
-			"filterable":1,
-			"ext":"https://rlede.coding.net/p/maotv/d/xpath/git/raw/master/dmntv.json"
+			"filterable":0,
+			"ext":"https://raw.githubusercontents.com/YLEDE/TVBox/master/xpath/dmntv.json"
 		},
 		{
 			"key":"csp_xpath_789kp",
@@ -248,18 +268,18 @@
 			"api":"csp_XPathFilter",
 			"searchable":1,
 			"quickSearch":1,
-			"filterable":1,
-			"ext":"https://rlede.coding.net/p/maotv/d/xpath/git/raw/master/789kp.json"
+			"filterable":0,
+			"ext":"https://raw.githubusercontents.com/YLEDE/TVBox/master/xpath/789kp.json"
 		},
 		{
 			"key": "csp_xpath_zjdr",
 			"name": "追剧达人",
 			"type": 3,
 			"api": "csp_XPathFilter",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"ext": "https://rlede.coding.net/p/maotv/d/xpath/git/raw/master/vipmv.json"
+			"searchable":1,
+			"quickSearch":1,
+			"filterable":0,
+			"ext": "https://raw.githubusercontents.com/YLEDE/TVBox/master/xpath/vipmv.json"
 		},
 		{
 			"key":"csp_xpath_Jumi",
@@ -268,48 +288,48 @@
 			"api":"csp_XPathFilter",
 			"searchable":1,
 			"quickSearch":1,
-			"filterable":1,
-			"ext":"https://rlede.coding.net/p/maotv/d/xpath/git/raw/master/Gimy.json"
+			"filterable":0,
+			"ext":"https://raw.githubusercontents.com/YLEDE/TVBox/master/xpath/Gimy.json"
 		},		
 		{
 			"key": "csp_biubiu_555",
 			"name": "555电影",
 			"type": 3,
 			"api": "csp_XBiubiu",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 0,
-			"ext": "https://raw.githubusercontents.com/YLEDE/OneClickRun/master/MaooXB/555电影.json"
+			"searchable":1,
+			"quickSearch":1,
+			"filterable":0,
+			"ext": "https://raw.githubusercontents.com/YLEDE/TVBox/master/xpath/555电影.json"
 		},
 		{
 			"key": "csp_xpath_jpys",
 			"name": "极品影视",
 			"type": 3,
 			"api": "csp_XPathMacFilter",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"ext": "https://rlede.coding.net/p/maotv/d/xpath/git/raw/master/jpys.json"
+			"searchable":1,
+			"quickSearch":1,
+			"filterable":0,
+			"ext": "https://raw.githubusercontents.com/YLEDE/TVBox/master/xpath/jpys.json"
 		},	
 		{
 			"key": "csp_xpath_tvby",
 			"name": "TVB云播(XP)",
 			"type": 3,
 			"api": "csp_XPathFilter",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"ext": "https://rlede.coding.net/p/maotv/d/xpath/git/raw/master/tvb.json"
+			"searchable":1,
+			"quickSearch":1,
+			"filterable":0,
+			"ext": "https://raw.githubusercontents.com/YLEDE/TVBox/master/xpath/tvb.json"
 		},
 		{
 			"key": "csp_xpath_tvci",
 			"name": "大师兄",
 			"type": 3,
 			"api": "csp_XPath",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 0,
-			"ext": "https://rlede.coding.net/p/maotv/d/xpath/git/raw/master/tvci.json"
+			"searchable":1,
+			"quickSearch":1,
+			"filterable":0,
+			"ext": "https://raw.githubusercontents.com/YLEDE/TVBox/master/xpath/tvci.json"
 		},
 		{
 			"key":"csp_xpath_yanet",
@@ -318,38 +338,38 @@
 			"api":"csp_XPathFilter",
 			"searchable":1,
 			"quickSearch":1,
-			"filterable":1,
-			"ext":"https://rlede.coding.net/p/maotv/d/xpath/git/raw/master/yanet.json"
+			"filterable":0,
+			"ext":"https://raw.githubusercontents.com/YLEDE/TVBox/master/xpath/yanet.json"
 		},		
 		{
-			"key": "csp_biubiu_瓜皮",
-			"name": "94神马",
+			"key": "csp_biubiu_lgys",
+			"name": "蓝光影视",
 			"type": 3,
 			"api": "csp_XBiubiu",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 0,
-			"ext": "https://raw.githubusercontents.com/YLEDE/OneClickRun/master/MaooXB/瓜皮TV.json"
+			"searchable":1,
+			"quickSearch":1,
+			"filterable":0,
+			"ext": "https://raw.githubusercontents.com/YLEDE/TVBox/master/xpath/csp_biubiu_lgys.json"
 		},
 		{
 			"key": "csp_xpath_duboku",
 			"name": "独播库",
 			"type": 3,
 			"api": "csp_XPathFilter",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 0,
-			"ext": "https://rlede.coding.net/p/maotv/d/xpath/git/raw/master/duboku.json"
+			"searchable":1,
+			"quickSearch":1,
+			"filterable":0,
+			"ext": "https://raw.githubusercontents.com/YLEDE/TVBox/master/xpath/duboku.json"
 		},
 		{
 			"key": "csp_biubiu_hdmoli",
 			"name": "hdmoli",
 			"type": 3,
 			"api": "csp_XBiubiu",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"ext": "https://raw.githubusercontents.com/YLEDE/OneClickRun/master/MaooXB/hdmoli.json"
+			"searchable":1,
+			"quickSearch":1,
+			"filterable":0,
+			"ext": "https://raw.githubusercontents.com/YLEDE/TVBox/master/xpath/hdmoli.json"
 		},
 		{
 			"key":"csp_xpath_4kpianku",
@@ -358,8 +378,8 @@
 			"api":"csp_XPathFilter",
 			"searchable":1,
 			"quickSearch":1,
-			"filterable":1,
-			"ext":"https://rlede.coding.net/p/maotv/d/xpath/git/raw/master/4kpianku.json"
+			"filterable":0,
+			"ext":"https://raw.githubusercontents.com/YLEDE/TVBox/master/xpath/4kpianku.json"
 		},
 		{
 			"key":"csp_xpath_agefans",
@@ -368,18 +388,18 @@
 			"api":"csp_XPath",
 			"searchable":1,
 			"quickSearch":1,
-			"filterable":1,
-			"ext": "https://rlede.coding.net/p/maotv/d/xpath/git/raw/master/agefans.json"
+			"filterable":0,
+			"ext": "https://raw.githubusercontents.com/YLEDE/TVBox/master/xpath/agefans.json"
 		},
 		{
 			"key": "csp_xpath_dm84",
 			"name": "动漫巴士(XPath)",
 			"type": 3,
 			"api": "csp_XPathFilter",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 0,
-			"ext": "https://rlede.coding.net/p/maotv/d/xpath/git/raw/master/dm84.json"
+			"searchable":1,
+			"quickSearch":1,
+			"filterable":0,
+			"ext": "https://raw.githubusercontents.com/YLEDE/TVBox/master/xpath/dm84.json"
 		},
 		{
 			"key":"m3u8资源",
@@ -388,7 +408,7 @@
 			"api":"http://www.zycaiji.net:7788/api.php/provide/vod/?ac=list",
 			"searchable":1,
 			"quickSearch":1,
-			"filterable":0
+			"filterable":1
 		} ,
 		{
 			"key":"8090资源",
@@ -397,7 +417,7 @@
 			"api":"http://zy.yilans.net:8090/api.php/provide/vod/at/xml/",
 			"searchable":1,
 			"quickSearch":1,
-			"filterable":0
+			"filterable":1
 		}  
 	],
 
@@ -406,7 +426,7 @@
 		{
 			"group":"redirect","channels":
 			[{
-				"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9rZHMyLmNvZGluZy5uZXQvcC9rL2Qvay9naXQvcmF3L21hc3Rlci9tYW9saXZlLnR4dA=="]
+				"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cDovL3R2LnN0ZXZlZWUueHl6L2ZpbGVzLzYyYzRkZjhmNjA5YWUvbXl0diUyMCgxKS50eHQ="]
 			}]
 		} 
 	],
@@ -432,7 +452,7 @@
 		{"name":"王牌解析","url": "https://za.kuanjv.com/?url="},
 		{"name":"江湖直解","url":"http://api.vip123kan.vip/?url="},
 		{"name":"wudu","url":"https://aa.xkys.tv/json.php?url="},
-		{"name":"乐多","url":"https://ldy.jx.cn/wp-api/getvodurl.php?token=1001&vid="},
+		{"name":"乐多","url":"https://api.ldjx.cc/wp-api/getvodurl.php?token=1001&vid="},
 		{"name":"无名","url":"https://www.administratorw.com/index/qqvod.php?url="},
 		{"name":"parwix1","url":"https://jx.parwix.com:4433/player/?url="},
 		{"name":"parwix2","url":"https://jx.parwix.com:4433/player/analysis.php?v="},
