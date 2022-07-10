@@ -149,7 +149,7 @@
 		{"name":"B哩轮播","fanye":"aHR0cHM6Ly9hcGkubGl2ZS5iaWxpYmlsaS5jb20veGxpdmUvd2ViLWludGVyZmFjZS92MS9zZWNvbmQvZ2V0TGlzdD9wbGF0Zm9ybT13ZWImcGFyZW50X2FyZWFfaWQ9MTAmYXJlYV9pZD0zMyZzb3J0X3R5cGU9b25saW5lJnBhZ2U9","qianzhui": "aHR0cHM6Ly9lcGcuMTEyMTE0Lnh5ei9iaWxpLw=="}],
 	"zhujiexi":"https://json.5lp.net/json.php?url=#http://api.vip123kan.vip/url=#https://jx.xmflv.com/?url=#https://jx.300ys.xyz/json/jianghu.php/?url=#https://vip.legendwhb.cn/m3u8.php?url=#https://aa.xkys.tv/json.php?url=#https://vip.rongxingvr.top/api/?key=JJEZkZIhzkA4cUtBfR&url=#https://jx.zhanlangbu.com/json.php/?url=#https://za.kuanjv.com/?url=#https://json.pangujiexi.com:12345/json.phpurl=#https://jhpc.manduhu.com/j1217.php?url=",
 	"beiyongjiexi":"http://api.diliktv.xyz/vip/jx.php?url=#https://nbjx.vip/?url=#https://jx.blbo.cc:4433/?url=#https://api.iztyy.com/jiexi/?url=#http://47.100.138.210:92/?url=#https://jx.parwix.com:4433/player/?url=#https://www.nxflv.com/?url=#https://jx.xl6.top/json/?url=#http://app.jhys.top/1080kan/fuck.php?url=#https://app.json.suoyo.cc/jh.php?url=#http://106.52.51.138:52013/lt.php?url=#http://42.157.128.15:8899/fuck.php?url=#https://jhpc.manduhu.com/j1217.php?url=#https://sbsb.i8k.cc/?url=#https://jx.xuanqi.pro/?url=#https://play.tkys.tv/jh/longteng.php/?url=#https://humaosp.com/json.php?url=",
-	"dianshizhibo":"https://rlede.coding.net/p/maotv/d/xpath/git/raw/master/live.txt",
+	"dianshizhibo":"https://raw.githubusercontents.com/YLEDE/TVBox/master/tv/live.txt",
 	"tiyuzhibo": "https://m.zhibo8.net",
 	"reci": "https://v.sogou.com",
 	"guolvdizhi": "player.css#url=#cnzz.com#51.la",
