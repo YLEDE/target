@@ -333,7 +333,7 @@
 		},	
 		{
 			"key": "csp_xpath_tvby",
-			"name": "TVB云播(XP)",
+			"name": "TVB云播",
 			"type": 3,
 			"api": "csp_XPathFilter",
 			"searchable":1,
@@ -393,7 +393,7 @@
 		},
 		{
 			"key":"csp_xpath_4kpianku",
-			"name":"4k片库网(XP)",
+			"name":"4k片库网",
 			"type":3,
 			"api":"csp_XPathFilter",
 			"searchable":1,
@@ -413,7 +413,7 @@
 		},
 		{
 			"key": "csp_xpath_dm84",
-			"name": "动漫巴士(XPath)",
+			"name": "动漫巴士",
 			"type": 3,
 			"api": "csp_XPathFilter",
 			"searchable":1,
