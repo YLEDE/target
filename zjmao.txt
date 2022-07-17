@@ -202,14 +202,24 @@
 			"ext": "https://raw.githubusercontents.com/YLEDE/TVBox/master/xpath/94sm.json"
 		},
 		{
-			"key": "csp_xpath_lkvod",
+			"key": "csp_biubiu_lkvod",
 			"name": "耐看点播",
 			"type":3,
-			"api": "csp_XPath",
+			"api": "csp_XBiubiu",
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":0,
 			"ext": "https://raw.githubusercontents.com/YLEDE/TVBox/master/xpath/lkvod.json"
+		},
+		{
+			"key": "csp_biubiu_voflix",
+			"name": "VOFLIX",
+			"type":3,
+			"api": "csp_XBiubiu",
+			"searchable":1,
+			"quickSearch":1,
+			"filterable":0,
+			"ext": "https://raw.githubusercontents.com/YLEDE/TVBox/master/xpath/voflix.json"
 		},
 		{
 			"key":"csp_xpath_wuguiyy",
