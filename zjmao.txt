@@ -7,14 +7,13 @@
 	[	
 
 		{
-			"key":"csp_xpath_Cokemv",
+			"key":"csp_Cokemv",
 			"name":"Cokemv",
 			"type":3,
-			"api":"csp_XPathFilter",
+			"api":"csp_Cokemv",
 			"searchable":1,
 			"quickSearch":1,
-			"filterable":1,
-			"ext":"https://raw.githubusercontents.com/YLEDE/TVBox/master/xpath/cokemv.json"
+			"filterable":1
 		},
 		{
 			"key":"csp_77",
@@ -152,7 +151,7 @@
 			"type":3,
 			"filterable":1,
 			"quickSearch":1,
-			"searchable":1,	
+			"searchable":1,
 			"ext":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7IklEIjoyNTU5OSwiQ3JlYXRlZEF0IjoiMjAyMi0wNy0xN1QwOTo1OTowMy43MzIrMDg6MDAiLCJVcGRhdGVkQXQiOiIyMDIyLTA3LTE3VDA5OjU5OjAzLjczMiswODowMCIsIkRlbGV0ZWRBdCI6bnVsbCwidXNlcl9lbWFpbCI6ImppYW55aW5nOTk5QHFxLmNvbSIsInVzZXJfbmFtZSI6IiIsInVzZXJfcHdkIjoiIiwidXNlcl9pZCI6IjA1NzRiMzAyLTc5MzUtNGFlZi1hOTBkLTFlZjdjMTU3Y2U2MyIsInVzZXJfYW5zd2VyIjoiIiwibG9ja19pcyI6IkZhbHNlIiwiaXNfdHYiOiIiLCJpc19hZG1pbiI6IkZhbHNlIiwicmVnX3RpbWUiOm51bGwsInJlZ19rZXkiOiIiLCJ0dl90aW1lIjpudWxsLCJ0dl9rZXkiOiIifSwiZXhwIjoxNjU5MjQwNzQzLCJpc3MiOiJBbGZyZWRvIE1lbmRvemEifQ.xB1ZZAaYwrkyLF8bD1KyQKC2tmW0myIZgUQvTVQWELk"
 		},
 		{
@@ -214,6 +213,26 @@
 			"quickSearch":1,
 			"filterable":0,
 			"ext":"https://raw.githubusercontents.com/YLEDE/TVBox/master/xpath/Nike.json"
+		},
+		{
+			"key": "csp_biubiu_lanmei",
+			"name": "蓝莓影视",
+			"type":3,
+			"api": "csp_XBiubiu",
+			"searchable":1,
+			"quickSearch":1,
+			"filterable":0,
+			"ext": "https://raw.githubusercontents.com/YLEDE/TVBox/master/xpath/lanmei.json"
+		},
+		{
+			"key": "csp_biubiu_newfii",
+			"name": "奈落影院",
+			"type":3,
+			"api": "csp_XBiubiu",
+			"searchable":1,
+			"quickSearch":1,
+			"filterable":0,
+			"ext": "https://raw.githubusercontents.com/YLEDE/TVBox/master/xpath/newfii.json"
 		},
 		{
 			"key": "csp_biubiu_dmxq",
@@ -294,36 +313,6 @@
 			"quickSearch":1,
 			"filterable":0,
 			"ext": "https://raw.githubusercontents.com/YLEDE/TVBox/master/xpath/348z.json"
-		},
-		{
-			"key": "csp_xpath_lanmei",
-			"name": "蓝莓影视",
-			"type":3,
-			"api": "csp_XPathFilter",
-			"searchable":1,
-			"quickSearch":1,
-			"filterable":0,
-			"ext": "https://raw.githubusercontents.com/YLEDE/TVBox/master/xpath/lanmei.json"
-		},
-		{
-			"key": "csp_xpath_newfii",
-			"name": "奈落影院",
-			"type":3,
-			"api": "csp_XPathFilter",
-			"searchable":1,
-			"quickSearch":1,
-			"filterable":0,
-			"ext": "https://raw.githubusercontents.com/YLEDE/TVBox/master/xpath/newfii.json"
-		},
-		{
-			"key": "csp_xpath_dandan",
-			"name": "蛋蛋",
-			"type": 3,
-			"api": "csp_XPathFilter",
-			"searchable":1,
-			"quickSearch":1,
-			"filterable":0,
-			"ext": "https://raw.githubusercontents.com/YLEDE/TVBox/master/xpath/dandan.json"
 		},
 		{
 			"key": "csp_xpath_baibai",
