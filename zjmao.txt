@@ -331,16 +331,6 @@
 			"ext": "https://raw.githubusercontents.com/YLEDE/TVBox/master/xpath/jubaibai.json"
 		},
 		{
-			"key": "csp_xpath_dandan",
-			"name": "蛋蛋",
-			"type": 3,
-			"api": "csp_XPathFilter",
-			"searchable":1,
-			"quickSearch":1,
-			"filterable":0,
-			"ext": "https://raw.githubusercontents.com/YLEDE/TVBox/master/xpath/dandan.json"
-		},
-		{
 			"key": "csp_xpath_juhuang",
 			"name": "剧荒",
 			"type": 3,
@@ -462,10 +452,10 @@
 			"ext": "https://raw.githubusercontents.com/YLEDE/TVBox/master/xpath/tvb.json"
 		},
 		{
-			"key": "csp_xpath_tvci",
+			"key": "csp_biubiu_tvci",
 			"name": "大师兄",
-			"type": 3,
-			"api": "csp_XPathFilter",
+			"type":3,
+			"api": "csp_XBiubiu",
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":0,
