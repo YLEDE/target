@@ -5,7 +5,6 @@
 
 	"sites":
 	[	
-
 		{
 			"key":"csp_Cokemv",
 			"name":"Cokemv",
@@ -14,6 +13,33 @@
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":1
+		},
+		{
+			"key": "csp_QQ",
+			"name": "腾讯视频",
+			"api": "csp_QQ",
+			"type": 3,
+			"filterable": 1,
+			"quickSearch": 1,
+			"searchable": 1
+		},
+		{
+			"key": "爱奇艺",
+			"name": "爱奇艺",
+			"api": "csp_IQIYI",
+			"type": 3,
+			"filterable": 1,
+			"quickSearch": 1,
+			"searchable": 1
+		},
+		{
+			"key": "csp_MGTV",
+			"name": "芒果TV",
+			"api": "csp_MGTV",
+			"type": 3,
+			"filterable": 1,
+			"quickSearch": 1,
+			"searchable": 1
 		},
 		{
 			"key":"csp_77",
@@ -42,6 +68,16 @@
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":0
+		},
+		{
+			"key": "Smdyy_spider",
+			"name": "神马影视",
+			"api": "csp_Smdyy",
+			"type": 3,
+			"filterable": 1,
+			"quickSearch": 1,
+			"searchable": 1,
+			"ext": ""
 		},
 		{
 			"key":"csp_LibVio",
@@ -590,7 +626,7 @@
 		{"name":"盘古解析","type":1,"url":"https://json.pangujiexi.com:12345/json.php?url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果"]}},
 		{"name":"欢雨","type":1,"url":"http://www.youhuifuligou.com/json/?id=7&url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","letv","乐视","xigua","西瓜"]}}
 	],
-  "flags":["youku","qq","iqiyi","qiyi","letv","sohu","tudou","pptv","mgtv","wasu","bilibili","renrenmi", "xigua", "优酷", "西瓜", "乐视", "芒果", "腾讯", "爱奇艺", "奇艺", "ltnb", "rx", "CL4K", "xfyun", "wuduzy", "哔哩哔哩", "哔哩"],
+	"flags":["youku","qq","iqiyi","qiyi","letv","sohu","tudou","pptv","mgtv","wasu","bilibili","renrenmi", "xigua", "优酷", "西瓜", "乐视", "芒果", "腾讯", "爱奇艺", "奇艺", "ltnb", "rx", "CL4K", "xfyun", "wuduzy", "哔哩哔哩", "哔哩"],
 	"ijk":[
 		{"group":"软解码","options":[
 			{"category":4,"name":"opensles","value":"0"},
