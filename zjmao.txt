@@ -15,33 +15,6 @@
 			"filterable":1
 		},
 		{
-			"key": "csp_QQ",
-			"name": "腾讯视频",
-			"api": "csp_QQ",
-			"type": 3,
-			"filterable": 1,
-			"quickSearch": 1,
-			"searchable": 1
-		},
-		{
-			"key": "爱奇艺",
-			"name": "爱奇艺",
-			"api": "csp_IQIYI",
-			"type": 3,
-			"filterable": 1,
-			"quickSearch": 1,
-			"searchable": 1
-		},
-		{
-			"key": "csp_MGTV",
-			"name": "芒果TV",
-			"api": "csp_MGTV",
-			"type": 3,
-			"filterable": 1,
-			"quickSearch": 1,
-			"searchable": 1
-		},
-		{
 			"key":"csp_77",
 			"name":"七七",
 			"type":3,
