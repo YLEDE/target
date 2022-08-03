@@ -442,7 +442,7 @@
 			"ext": "https://raw.githubusercontents.com/YLEDE/TVBox/master/xpath/jpys.json"
 		},	
 		{
-			"key": "csp_xpath_tvby",
+			"key": "csp_xpath_tvb",
 			"name": "TVB云播",
 			"type": 3,
 			"api": "csp_XPathFilter",
@@ -452,10 +452,10 @@
 			"ext": "https://raw.githubusercontents.com/YLEDE/TVBox/master/xpath/tvb.json"
 		},
 		{
-			"key": "csp_biubiu_tvci",
+			"key": "csp_xpath_tvci",
 			"name": "大师兄",
-			"type":3,
-			"api": "csp_XBiubiu",
+			"type": 3,
+			"api": "csp_XPathFilter",
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":0,
