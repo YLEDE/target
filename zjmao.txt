@@ -6,13 +6,14 @@
 	"sites":
 	[	
 		{
-			"key":"csp_Cokemv",
+			"key":"csp_xpath_Cokemv",
 			"name":"Cokemv",
 			"type":3,
-			"api":"csp_Cokemv",
+			"api":"csp_XPathFilter",
 			"searchable":1,
 			"quickSearch":1,
-			"filterable":1
+			"filterable":1,
+			"ext":"https://raw.githubusercontents.com/YLEDE/TVBox/master/xpath/cokemv.json"
 		},
 		{
 			"key":"csp_77",
