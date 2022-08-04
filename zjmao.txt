@@ -23,33 +23,7 @@
 			"quickSearch":1,
 			"filterable":1
 		},
-		{
-			"key": "AliPS",
-			"name": "盘搜",
-			"type": 3,
-			"api": "csp_AliPanSou",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1
-		},
-		{
-			"key": "Gitcafe",
-			"name": "小纸条",
-			"type": 3,
-			"api": "csp_GitCafe",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1
-		},
-		{
-			"key": "FindZY",
-			"name": "找资源",
-			"type": 3,
-			"api": "csp_FindZY",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1
-		},
+		
 		{
 			"key":"csp_CZSPP",
 			"name":"厂长资源",
@@ -167,6 +141,33 @@
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":0
+		},
+		{
+			"key": "Gitcafe",
+			"name": "小纸条",
+			"type": 3,
+			"api": "csp_GitCafe",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1
+		},
+		{
+			"key": "AliPS",
+			"name": "盘搜",
+			"type": 3,
+			"api": "csp_AliPanSou",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1
+		},
+		{
+			"key": "FindZY",
+			"name": "找资源",
+			"type": 3,
+			"api": "csp_FindZY",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1
 		},
 		{
 			"key":"csp_hbys",
