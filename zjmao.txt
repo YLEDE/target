@@ -291,7 +291,7 @@
 		},
 		{
 			"key": "csp_biubiu_juzi",
-			"name": "橘子TV",
+			"name": "桔子TV",
 			"type": 3,
 			"api": "csp_XBiubiu",
 			"searchable":1,
