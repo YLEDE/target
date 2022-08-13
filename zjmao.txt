@@ -220,16 +220,6 @@
 			"ext": "https://raw.githubusercontents.com/YLEDE/TVBox/master/xpath/bxhd.json"
 		},
 		{
-			"key": "csp_biubiu_xmm",
-			"name": "小猫咪",
-			"type": 3,
-			"api": "csp_XBiubiu",
-			"searchable":1,
-			"quickSearch":1,
-			"filterable":0,
-			"ext": "https://raw.githubusercontents.com/YLEDE/TVBox/master/xpath/xmm.json"
-		},
-		{
 			"key":"csp_biubiu_nf",
 			"name":"奈菲",
 			"type":3,
