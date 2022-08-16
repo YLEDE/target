@@ -300,16 +300,6 @@
 			"ext":"https://raw.githubusercontents.com/YLEDE/TVBox/master/xpath/guapitv.json"
 		},
 		{
-			"key":"csp_xpath_555",
-			"name":"555电影",
-			"type":3,
-			"api":"csp_XPathFilter",
-			"searchable":1,
-			"quickSearch":1,
-			"filterable":0,
-			"ext": "https://raw.githubusercontents.com/YLEDE/TVBox/master/xpath/555.json"
-		},
-		{
 			"key": "csp_biubiu_juzi",
 			"name": "桔子TV",
 			"type": 3,
@@ -338,6 +328,16 @@
 			"quickSearch":1,
 			"filterable":0,
 			"ext": "https://raw.githubusercontents.com/YLEDE/TVBox/master/xpath/voflix.json"
+		},
+		{
+			"key":"csp_xpath_555",
+			"name":"555电影",
+			"type":3,
+			"api":"csp_XPathFilter",
+			"searchable":1,
+			"quickSearch":1,
+			"filterable":0,
+			"ext": "https://raw.githubusercontents.com/YLEDE/TVBox/master/xpath/555.json"
 		},
 		{
 			"key":"csp_xpath_lezhutv",
