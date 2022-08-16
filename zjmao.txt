@@ -300,10 +300,10 @@
 			"ext":"https://raw.githubusercontents.com/YLEDE/TVBox/master/xpath/guapitv.json"
 		},
 		{
-			"key": "csp_biubiu_555",
+			"key": "csp_xpath_555",
 			"name": "555电影",
-			"type": 3,
-			"api": "csp_XBiubiu",
+			"type":3,
+			"api": "csp_XPathFilter",
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":0,
