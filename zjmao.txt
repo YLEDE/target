@@ -270,10 +270,10 @@
 			"ext": "https://raw.githubusercontents.com/YLEDE/TVBox/master/xpath/lanmei.json"
 		},
 		{
-			"key":"csp_xpath_newfii",
+			"key":"csp_biubiu_newfii",
 			"name":"奈落影视",
 			"type":3,
-			"api":"csp_XPathFilter",
+			"api":"csp_XBiubiu",
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":0,
