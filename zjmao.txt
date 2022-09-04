@@ -204,16 +204,6 @@
 			"ext":"https://raw.githubusercontents.com/YLEDE/TVBox/master/xpath/Nike.json"
 		},
 		{
-			"key":"csp_biubiu_xmm",
-			"name":"小猫咪",
-			"type":3,
-			"api":"csp_XBiubiu",
-			"searchable":1,
-			"quickSearch":1,
-			"filterable":0,
-			"ext": "https://raw.githubusercontents.com/YLEDE/TVBox/master/xpath/xmm.json"
-		},
-		{
 			"key": "csp_biubiu_dmxq",
 			"name": "大米星球",
 			"type":3,
@@ -373,17 +363,6 @@
 			"filterable":0,
 			"ext": "https://raw.githubusercontents.com/YLEDE/TVBox/master/xpath/vipmv.json"
 		},
-		{
-			"key":"csp_xpath_Jumi",
-			"name":"剧迷TV",
-			"type":3,
-			"api":"csp_XPathFilter",
-			"searchable":1,
-			"quickSearch":1,
-			"filterable":0,
-			"ext":"https://raw.githubusercontents.com/YLEDE/TVBox/master/xpath/Gimy.json"
-		},		
-
 		{
 			"key": "csp_xpath_jpys",
 			"name": "极品影视",
