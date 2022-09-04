@@ -1,7 +1,7 @@
 {
 	"wallpaper":"http://api.btstu.cn/sjbz/api.php?lx=fengjing&format=images",
 
-	"spider":"https://feitianhu.top/jar/904.jar;md5;5926ca80f46b25503e7853027e4d0207",
+	"spider":"https://raw.githubusercontents.com/YLEDE/TVBox/master/tvbox.jar",
 
 	"sites":
 	[	
@@ -32,7 +32,6 @@
 			"quickSearch":1,
 			"filterable":1
 		},
-
 		{
 			"key":"csp_CZSPP",
 			"name":"厂长资源",
@@ -87,7 +86,6 @@
 			"quickSearch":1,
 			"filterable":1
 		},
-
 		{
 			"key":"csp_kuaikan",
 			"name":"快看影视",
@@ -165,6 +163,16 @@
 			"ext":"https://raw.githubusercontents.com/YLEDE/TVBox/master/xpath/tkys.json"
 		},
 		{
+			"key":"csp_biubiu_星空影视",
+			"name":"星空影视",
+			"type":3,
+			"api":"csp_XBiubiu",
+			"searchable":1,
+			"quickSearch":1,
+			"filterable":0,
+			"ext":"https://raw.githubusercontents.com/YLEDE/TVBox/master/xpath/xkys.json"
+		},
+		{
 			"key": "csp_biubiu_bxhd",
 			"name": "宝仙HD",
 			"type": 3,
@@ -183,16 +191,6 @@
 			"quickSearch":1,
 			"filterable":0,
 			"ext":"https://raw.githubusercontents.com/YLEDE/TVBox/master/xpath/naifei.josn"
-		},
-		{
-			"key":"csp_biubiu_星空影视",
-			"name":"星空影视",
-			"type":3,
-			"api":"csp_XBiubiu",
-			"searchable":1,
-			"quickSearch":1,
-			"filterable":0,
-			"ext":"https://raw.githubusercontents.com/YLEDE/TVBox/master/xpath/xkys.json"
 		},
 		{
 			"key": "csp_biubiu_Ysgc",
@@ -265,7 +263,7 @@
 			"ext": "https://raw.githubusercontents.com/YLEDE/TVBox/master/xpath/ftys.json"
 		},
 		{
-			"key":"csp_biubiu_rxjs
+			"key":"csp_biubiu_rxjs",
 			"name":"锐行加速",
 			"type":3,
 			"api":"csp_XBiubiu",
