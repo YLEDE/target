@@ -90,7 +90,7 @@
 		},
 		{
             		"key": "csp_Wmkk",
-            		"name": "完美看看(爬虫)",
+            		"name": "完美看看",
             		"api":"csp_Wmkk",
             		"type":3,
             		"filterable":1,
