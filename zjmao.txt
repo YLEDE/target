@@ -152,15 +152,6 @@
 			"filterable": 1
 		},
 		{
-			"key": "小熊",
-			"name": "小熊TV(SP)",
-			"type": 3,
-			"api": "csp_Xxys",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1
-		},
-		{
 			"key": "AliPS",
 			"name": "盘搜",
 			"type": 3,
@@ -330,13 +321,23 @@
 		},
 		{
 			"key": "csp_biubiu_ftys",
-			"name": "VOFLIX",
+			"name": "饭团影视",
 			"type":3,
 			"api": "csp_XBiubiu",
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":0,
 			"ext": "https://raw.githubusercontents.com/YLEDE/TVBox/master/xpath/ftys.json"
+		},
+		{
+			"key": "csp_biubiu_wnyy",
+			"name": "万能影院",
+			"type":3,
+			"api": "csp_XBiubiu",
+			"searchable":1,
+			"quickSearch":1,
+			"filterable":0,
+			"ext": "https://raw.githubusercontents.com/YLEDE/TVBox/master/xpath/wnyy.json"
 		},
 		{
 			"key":"csp_xpath_555",
