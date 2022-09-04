@@ -379,10 +379,10 @@
 			"ext": "https://raw.githubusercontents.com/YLEDE/TVBox/master/xpath/348z.json"
 		},
 		{
-			"key": "csp_biubiu_baibai",
+			"key": "csp_xpath_baibai",
 			"name": "剧白白",
 			"type": 3,
-			"api": "csp_XBiubiu",
+			"api": "csp_XPathFilter",
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":0,
