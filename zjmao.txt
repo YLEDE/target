@@ -134,8 +134,8 @@
 		},
 		{
 			"key":"csp_Jianying","
-			name":"简影",
-			"api":"csp_JianYing",
+				name":"简影",
+				"api":"csp_JianYing",
 			"type":3,
 			"searchable":1,
 			"quickSearch":1,
