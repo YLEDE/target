@@ -71,15 +71,6 @@
 			"ext":""
 		},
 		{
-			"key":"csp_apple",
-			"name":"小苹果",
-			"type":3,
-			"api":"csp_LiteApple",
-			"searchable":1,
-			"quickSearch":1,
-			"filterable":1
-		},
-		{
 			"key":"追剧喵",
 			"name":"追剧喵",
 			"type":3,
@@ -97,15 +88,6 @@
             		"quickSearch":1,
             		"searchable":1
         	},
-		{
-			"key":"csp_Ikan",
-			"name":"爱看",
-			"api":"csp_Ikan",
-			"type":3,
-			"filterable":1,
-			"quickSearch":1,
-			"searchable":1
-		},
 		{
 			"key":"csp_kuaikan",
 			"name":"快看影视",
@@ -132,24 +114,6 @@
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":1
-		},
-		{
-			"key":"csp_DiDuan",
-			"name":"低端",
-			"type":3,
-			"api":"csp_DiDuan",
-			"searchable":1,
-			"quickSearch":1,
-			"filterable":0
-		},
-		{
-			"key": "Gitcafe",
-			"name": "小纸条",
-			"type": 3,
-			"api": "csp_GitCafe",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1
 		},
 		{
 			"key": "AliPS",
@@ -200,16 +164,6 @@
 			"ext":"https://raw.githubusercontents.com/YLEDE/TVBox/master/xpath/tkys.json"
 		},
 		{
-			"key": "csp_biubiu_yklg",
-			"name": "夜空蓝光",
-			"type": 3,
-			"api": "csp_XBiubiu",
-			"searchable":1,
-			"quickSearch":1,
-			"filterable":0,
-			"ext": "https://raw.githubusercontents.com/YLEDE/TVBox/master/xpath/yklg.json"
-		},
-		{
 			"key": "csp_biubiu_bxhd",
 			"name": "宝仙HD",
 			"type": 3,
@@ -218,16 +172,6 @@
 			"quickSearch":1,
 			"filterable":0,
 			"ext": "https://raw.githubusercontents.com/YLEDE/TVBox/master/xpath/bxhd.json"
-		},
-		{
-			"key":"csp_biubiu_nf",
-			"name":"奈菲",
-			"type":3,
-			"api":"csp_XBiubiu",
-			"searchable":1,
-			"quickSearch":1,
-			"filterable":0,
-			"ext":"https://raw.githubusercontents.com/YLEDE/TVBox/master/xpath/nf.json"
 		},
 		{
 			"key":"csp_biubiu_星空影视",
@@ -258,16 +202,6 @@
 			"quickSearch":1,
 			"filterable":0,
 			"ext":"https://raw.githubusercontents.com/YLEDE/TVBox/master/xpath/Nike.json"
-		},
-		{
-			"key": "csp_biubiu_lanmei",
-			"name": "蓝莓影视",
-			"type":3,
-			"api": "csp_XBiubiu",
-			"searchable":1,
-			"quickSearch":1,
-			"filterable":0,
-			"ext": "https://raw.githubusercontents.com/YLEDE/TVBox/master/xpath/lanmei.json"
 		},
 		{
 			"key":"csp_biubiu_xmm",
@@ -328,16 +262,6 @@
 			"quickSearch":1,
 			"filterable":0,
 			"ext": "https://raw.githubusercontents.com/YLEDE/TVBox/master/xpath/ftys.json"
-		},
-		{
-			"key": "csp_xpath_wnyy",
-			"name": "万能影院",
-			"type":3,
-			"api": "csp_XPathFilter",
-			"searchable":1,
-			"quickSearch":1,
-			"filterable":0,
-			"ext": "https://raw.githubusercontents.com/YLEDE/TVBox/master/xpath/wnyy.json"
 		},
 		{
 			"key":"csp_xpath_555",
@@ -410,16 +334,6 @@
 			"ext":"https://raw.githubusercontents.com/YLEDE/TVBox/master/xpath/lgys.json"
 		},
 		{
-			"key": "csp_xpath_yqys",
-			"name": "云雀影视",
-			"type":3,
-			"api": "csp_XPathFilter",
-			"searchable":1,
-			"quickSearch":1,
-			"filterable":0,
-			"ext": "https://raw.githubusercontents.com/YLEDE/TVBox/master/xpath/yqys.json"
-		},
-		{
 			"key":"csp_xpath_wuguiyy",
 			"name":"乌龟影院",
 			"type":3,
@@ -449,26 +363,6 @@
 			"filterable":0,
 			"ext":"https://raw.githubusercontents.com/YLEDE/TVBox/master/xpath/9ekk.json"
 		},	
-		{
-			"key":"csp_xpath_wnyy",
-			"name":"万能影院",
-			"type":3,
-			"api":"csp_XPathFilter",
-			"searchable":1,
-			"quickSearch":1,
-			"filterable":0,
-			"ext":"https://raw.githubusercontents.com/YLEDE/TVBox/master/xpath/wnyy.json"
-		},
-		{
-			"key":"csp_xpath_789kp",
-			"name":"789看片",
-			"type":3,
-			"api":"csp_XPathFilter",
-			"searchable":1,
-			"quickSearch":1,
-			"filterable":0,
-			"ext":"https://raw.githubusercontents.com/YLEDE/TVBox/master/xpath/789kp.json"
-		},
 		{
 			"key": "csp_xpath_zjdr",
 			"name": "追剧达人",
