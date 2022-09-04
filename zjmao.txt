@@ -15,6 +15,15 @@
 			"filterable":1
 		},
 		{
+			"key":"KanSJ_spider",
+			"name":"看视界",
+			"api":"csp_KanSJ",
+			"type":3,
+			"filterable":1,
+			"quickSearch":1,
+			"searchable":1
+		},
+		{
 			"key":"csp_77",
 			"name":"七七",
 			"type":3,
@@ -116,13 +125,14 @@
 			"filterable":1
 		},
 		{
-			"key": "Gitcafe",
+			"key":"csp_GitCafe",
 			"name":"小纸条",
-			"type": 3,
-			"api": "csp_Gitcafe",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1
+			"type":3,
+			"api":"csp_Gitcafe",
+			"searchable":1,
+			"quickSearch":1,
+			"filterable":1,
+			"ext": "4acb3ad2f2254ba1b566279f7cd98ba3"
 		},
 		{
 			"key":"csp_Jianying","
@@ -163,6 +173,16 @@
 			"quickSearch":1,
 			"filterable":0,
 			"ext": "https://raw.githubusercontents.com/YLEDE/TVBox/master/xpath/bxhd.json"
+		},
+		{
+			"key":"csp_biubiu_奈菲影院",
+			"name":"奈菲影院",
+			"type":3,
+			"api":"csp_XBiubiu",
+			"searchable":1,
+			"quickSearch":1,
+			"filterable":0,
+			"ext":"https://raw.githubusercontents.com/YLEDE/TVBox/master/xpath/naifei.josn"
 		},
 		{
 			"key":"csp_biubiu_星空影视",
@@ -243,6 +263,16 @@
 			"quickSearch":1,
 			"filterable":0,
 			"ext": "https://raw.githubusercontents.com/YLEDE/TVBox/master/xpath/ftys.json"
+		},
+		{
+			"key":"csp_biubiu_rxjs
+			"name":"锐行加速",
+			"type":3,
+			"api":"csp_XBiubiu",
+			"searchable":1,
+			"quickSearch":1,
+			"filterable":0,
+			"ext": "https://raw.githubusercontents.com/YLEDE/TVBox/master/xpath/rxjiasu.json"
 		},
 		{
 			"key":"csp_XYQBiu_yqys",
