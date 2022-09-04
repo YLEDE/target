@@ -254,6 +254,26 @@
 			"ext": "https://raw.githubusercontents.com/YLEDE/TVBox/master/xpath/ftys.json"
 		},
 		{
+			"key": "csp_biubiu_yqys",
+			"name": "云雀影视",
+			"type":3,
+			"api": "csp_XBiubiu",
+			"searchable":1,
+			"quickSearch":1,
+			"filterable":0,
+			"ext": "https://raw.githubusercontents.com/YLEDE/TVBox/master/xpath/yqys.json"
+		},
+		{
+			"key": "csp_biubiu_wnyy",
+			"name": "万能影院",
+			"type":3,
+			"api": "csp_XBiubiu",
+			"searchable":1,
+			"quickSearch":1,
+			"filterable":0,
+			"ext": "https://raw.githubusercontents.com/YLEDE/TVBox/master/xpath/wnyy.json"
+		},
+		{
 			"key":"csp_xpath_555",
 			"name":"555电影",
 			"type":3,
