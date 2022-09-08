@@ -263,6 +263,16 @@
 			"ext": "https://raw.githubusercontents.com/YLEDE/TVBox/master/xpath/ftys.json"
 		},
 		{
+			"key":"csp_XYQBiu_yqys",
+			"name":"云雀影视",
+			"type":3,
+			"api":"csp_XYQBiu",
+			"searchable":1,
+			"quickSearch":1,
+			"filterable":0,
+			"ext": "https://raw.githubusercontents.com/YLEDE/TVBox/master/xpath/yqys.json"
+		},
+		{
 			"key":"csp_biubiu_rxjs",
 			"name":"锐行加速",
 			"type":3,
