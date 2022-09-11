@@ -442,10 +442,10 @@
 			"ext": "https://raw.githubusercontents.com/YLEDE/TVBox/master/xpath/vipmv.json"
 		},
 		{
-			"key": "csp_xpath_jpys",
+			"key": "csp_biubiu_mzt",
 			"name": "极品影视",
 			"type": 3,
-			"api": "csp_XPathMacFilter",
+			"api": "csp_XBiubiu",
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":0,
