@@ -51,13 +51,13 @@
 			"searchable": 1
 		},
 		{
-			"key":"csp_LibVio",
+			"key":"csp_Lib",
 			"name":"Libvio",
-			"type":3,
-			"api":"csp_Lib",
+			"type": 3,
+			"api": "csp_Lib",
 			"searchable":1,
 			"quickSearch":1,
-			"filterable":0
+			"filterable":1
 		},
 		{
 			"key":"csp_Auete",
