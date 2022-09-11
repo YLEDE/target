@@ -15,7 +15,7 @@
 			"filterable":1
 		},
 		{
-			"key":"KanSJ_spider",
+			"key":"csp_KanSJ",
 			"name":"看视界",
 			"api":"csp_KanSJ",
 			"type":3,
@@ -42,7 +42,7 @@
 			"filterable":1
 		},
 		{
-			"key": "Smdyy_spider",
+			"key": "csp_Smdyy",
 			"name": "神马影视",
 			"api": "csp_Smdyy",
 			"type": 3,
@@ -96,7 +96,7 @@
 			"filterable":1
 		},
 		{
-			"key": "Ikan",
+			"key": "csp_Ikan",
 			"name": "爱看影视",
 			"type": 3,
 			"api": "csp_IKan",
@@ -105,7 +105,7 @@
 			"filterable": 1
 		},
 		{
-			"key":"360_spider",
+			"key":"csp_360",
 			"name":"360影视",
 			"api":"csp_SP360",
 			"type":3,
