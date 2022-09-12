@@ -429,7 +429,17 @@
 			"filterable":0,
 			"ext": "https://raw.githubusercontents.com/YLEDE/TVBox/master/xpath/jubaibai.json"
 		},
-		 {
+		{
+			"key":"csp_xpath_xiangdao",
+			"name":"农民影视",
+			"type":3,
+			"api":"csp_XPathMacFilter",
+			"searchable":1,
+			"quickSearch":1,
+			"filterable":1,
+			"ext":"https://raw.githubusercontents.com/YLEDE/TVBox/master/xpath/xiangdao.json"
+		},
+		{
 		 	"key":"csp_xpath_mlys",
 			"name":"喵乐影视",
 			"type":3,
