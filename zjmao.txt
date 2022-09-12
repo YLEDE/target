@@ -32,6 +32,15 @@
 			"filterable":1
 		},
 		{
+			"key":"小苹果",
+			"name":"小苹果",
+			"type":3,
+			"api":"csp_LiteApple",
+			"searchable":1,
+			"quickSearch":1,
+			"filterable":1
+		},
+		{
 			"key":"csp_CZSPP",
 			"name":"厂长资源",
 			"type":3,
@@ -250,6 +259,16 @@
 			"filterable":0,
 			"ext": "https://raw.githubusercontents.com/YLEDE/TVBox/master/xpath/hdmoli.json"
 		},
+		 {
+		 	"key":"csp_biubiu_4kan",
+			"name":"4kan",
+			"type":3,
+			"api":"csp_XBiubiu",
+			"searchable":1,
+			"quickSearch":1,
+			"filterable":0,
+			"ext":"https://raw.githubusercontents.com/YLEDE/TVBox/master/xpath/4kan.json"
+		},
 		{
 			"key": "csp_biubiu_voflix",
 			"name": "VOFLIX",
@@ -259,6 +278,36 @@
 			"quickSearch":1,
 			"filterable":0,
 			"ext": "https://raw.githubusercontents.com/YLEDE/TVBox/master/xpath/voflix.json"
+		},
+		{
+		 	"key":"csp_biubiu_newfii",
+			"name":"奈落影院",
+			"type":3,
+			"api":"csp_XBiubiu",
+			"searchable":1,
+			"quickSearch":1,
+			"filterable":0,
+			"ext":"https://raw.githubusercontents.com/YLEDE/TVBox/master/xpath/newfii.json"
+		},
+    		{
+			"key":"csp_biubiu_1010",
+			"name":"双十电影",
+			"type":3,
+			"api":"csp_XBiubiu",
+			"searchable":1,
+			"quickSearch":1,
+			"filterable":0,
+			"ext":"https://raw.githubusercontents.com/YLEDE/TVBox/master/xpath/1010.json"
+		},
+		{
+			"key":"csp_biubiu_xqm",
+			"name":"小强迷",
+			"type":3,
+			"api":"csp_XBiubiu",
+			"searchable":1,
+			"quickSearch":1,
+			"filterable":0,
+			"ext":"https://raw.githubusercontents.com/YLEDE/TVBox/master/xpath/xqm.json"
 		},
 		{
 			"key": "csp_biubiu_ftys",
@@ -279,6 +328,16 @@
 			"quickSearch":1,
 			"filterable":0,
 			"ext": "https://raw.githubusercontents.com/YLEDE/TVBox/master/xpath/mzt.json"
+		},
+		{
+			"key":"csp_biubiu_nmtv",
+			"name":"牛马TV",
+			"type":3,
+			"api":"csp_XBiubiu",
+			"searchable":1,
+			"quickSearch":1,
+			"filterable":0,
+			"ext":"https://raw.githubusercontents.com/YLEDE/TVBox/master/xpath/nmtv.json"
 		},
 		{
 			"key":"csp_XYQBiu_yqys",
@@ -370,6 +429,16 @@
 			"filterable":0,
 			"ext": "https://raw.githubusercontents.com/YLEDE/TVBox/master/xpath/jubaibai.json"
 		},
+		 {
+		 	"key":"csp_xpath_mlys",
+			"name":"喵乐影视",
+			"type":3,
+			"api":"csp_XPathMacFilter",
+			"searchable":1,
+			"quickSearch":1,
+			"filterable":1,
+			"ext":"https://raw.githubusercontents.com/YLEDE/TVBox/master/xpath/mlys.json"
+		},
 		{
 			"key": "csp_xpath_juhuang",
 			"name": "剧荒",
@@ -459,16 +528,6 @@
 			"quickSearch":1,
 			"filterable":0,
 			"ext": "https://raw.githubusercontents.com/YLEDE/TVBox/master/xpath/duboku.json"
-		},
-		{
-			"key":"csp_xpath_4kpianku",
-			"name":"4k片库网",
-			"type":3,
-			"api":"csp_XPathFilter",
-			"searchable":1,
-			"quickSearch":1,
-			"filterable":0,
-			"ext":"https://raw.githubusercontents.com/YLEDE/TVBox/master/xpath/4kpianku.json"
 		},
 		{
 			"key":"csp_xpath_agefans",
