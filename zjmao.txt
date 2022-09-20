@@ -359,6 +359,16 @@
 			"ext": "https://raw.githubusercontents.com/YLEDE/TVBox/master/xpath/rxjs.json"
 		},
 		{
+			"key":"csp_XYQBiu_H",
+			"name":"氢视频",
+			"type":3,
+			"api":"csp_XYQBiu",
+			"searchable":1,
+			"quickSearch":1,
+			"filterable":0,
+			"ext": "https://raw.githubusercontents.com/YLEDE/TVBox/master/xpath/H.json"
+		},
+		{
 			"key":"csp_XYQBiu_xmm",
 			"name":"小猫咪",
 			"type":3,
