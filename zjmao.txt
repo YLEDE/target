@@ -161,16 +161,6 @@
 			"ext": "http://mkk.gotka.top/api.php/v1.vod"
 		},
 		{
-			"key":"csp_biubiu_天空影视",
-			"name":"天空影视",
-			"type":3,
-			"api":"csp_XBiubiu",
-			"searchable":1,
-			"quickSearch":1,
-			"filterable":0,
-			"ext":"https://raw.githubusercontents.com/YLEDE/TVBox/master/xpath/tkys.json"
-		},
-		{
 			"key": "csp_biubiu_Ikan",
 			"name": "爱看影视",
 			"type": 3,
@@ -179,6 +169,16 @@
 			"quickSearch": 1,
 			"filterable": 0,
 			"ext":"https://raw.githubusercontents.com/YLEDE/TVBox/master/xpath/ikys.json"
+		},
+		{
+			"key":"csp_biubiu_天空影视",
+			"name":"天空影视",
+			"type":3,
+			"api":"csp_XBiubiu",
+			"searchable":1,
+			"quickSearch":1,
+			"filterable":0,
+			"ext":"https://raw.githubusercontents.com/YLEDE/TVBox/master/xpath/tkys.json"
 		},
 		{
 			"key":"csp_biubiu_星空影视",
