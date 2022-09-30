@@ -161,26 +161,24 @@
 			"ext": "http://mkk.gotka.top/api.php/v1.vod"
 		},
 		{
-			"key": "csp_xb_qsp",
+			"key": "csp_biubiu_qsp",
 			"name": " 氢视频",
 			"type": 3,
-			"api": "csp_XBiu",
+			"api": "csp_XBiubiu",
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 0,
-			"ext": "http://h1080p.com/index.php/vod/show/by/{by}/id/{cateId}/page/{catePg}/year/{year}.html",
-			"jar":"https://raw.githubusercontents.com/heroaku/TVboxo/main/Jar/XBiu.jar"
+			"ext": "http://h1080p.com/index.php/vod/show/by/{by}/id/{cateId}/page/{catePg}/year/{year}.html"
 		},
 		{
-			"key": "csp_xb_aikan ",
+			"key": "csp_biubiu_aikan ",
 			"name": " 爱看影视",
 			"type": 3,
-			"api": "csp_XBiu",
+			"api": "csp_XBiubiu",
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 0,
-			"ext": "https://ikan6.vip/vodshow/{cateId}--------{catePg}---",
-			"jar":"https://raw.githubusercontents.com/heroaku/TVboxo/main/Jar/XBiu.jar"
+			"ext": "https://ikan6.vip/vodshow/{cateId}--------{catePg}---"
 		},
 		{
 			"key":"csp_XBPQ_jpys",
