@@ -14,16 +14,6 @@
 			"filterable":1
 		},
 		{
-			"key":"csp_XBPQ_Cokemv",
-			"name":"Cokemv",
-			"type":3,
-			"api":"csp_xBPQ",
-			"searchable":1,
-			"quickSearch":1,
-			"filterable":1,
-			"ext":"https://raw.githubusercontents.com/heroaku/TVboxo/main/XBPQ/Cokemv.json"
-		},
-		{
 			"key":"csp_KanSJ",
 			"name":"看视界",
 			"api":"csp_KanSJ",
@@ -191,6 +181,26 @@
 			"filterable": 0,
 			"ext": "https://ikan6.vip/vodshow/{cateId}--------{catePg}---",
 			"jar":"https://raw.githubusercontents.com/heroaku/TVboxo/main/Jar/XBiu.jar"
+		},
+		{
+			"key":"csp_XBPQ_jpys",
+			"name":"极品影视",
+			"type":3,
+			"api":"csp_xBPQ",
+			"searchable":1,
+			"quickSearch":1,
+			"filterable":1,
+			"ext":"https://raw.githubusercontents.com/YLEDE/TVBox/master/xpath/jpys.json"
+		},
+		{
+			"key":"csp_XBPQ_Cokemv",
+			"name":"Cokemv",
+			"type":3,
+			"api":"csp_xBPQ",
+			"searchable":1,
+			"quickSearch":1,
+			"filterable":1,
+			"ext":"https://raw.githubusercontents.com/heroaku/TVboxo/main/XBPQ/Cokemv.json"
 		},
 		{
 			"key":"csp_biubiu_天空影视",
@@ -371,16 +381,6 @@
 			"quickSearch":1,
 			"filterable":0,
 			"ext": "https://raw.githubusercontents.com/YLEDE/TVBox/master/xpath/rxjs.json"
-		},
-		{
-			"key":"csp_XBPQ_jpys",
-			"name":"极品影视",
-			"type":3,
-			"api":"csp_xBPQ",
-			"searchable":1,
-			"quickSearch":1,
-			"filterable":1,
-			"ext":"https://raw.githubusercontents.com/YLEDE/TVBox/master/xpath/jpys.json"
 		},
 		{
 			"key":"csp_XYQBiu_xmm",
