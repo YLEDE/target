@@ -596,7 +596,6 @@
 		{"name":"聚合","type":3,"url":"Demo"},
 		{"name":"并发","type":2,"url":"Parallel"},
 		{"name":"轮询","type":2,"url":"Sequence"},
-		{"name":"Yoyo","type":1,"url":"https://json.legendwhb.cn/json.php/?url="},
 		{"name":"vip解析","type":1,"url":"https://vip.agoni.top/?url="},
 		{"name":"PPJ解析","type":1,"url":"https://jx.ppjbk.cn/?url="},
 		{"name":"bz2","type":0,"url":"https://h5.freejson.xyz/player/?url="},
