@@ -193,7 +193,7 @@
 			"filterable":1,
 			"ext":"https://raw.fastgit.org/heroaku/TVboxo/main/XBPQ/Cokemv.json"
 		},
-				{
+		{
 			"key":"csp_XBPQ_Fositv",
 			"name":"Fositv",
 			"type":3,
