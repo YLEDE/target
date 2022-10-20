@@ -1,7 +1,7 @@
 {
 	"wallpaper":"http://api.btstu.cn/sjbz/api.php?lx=fengjing&format=images",
 
-	"spider":"https://raw.fastgit.org/YLEDE/TVBox/master/tvbox.jar",
+	"spider":"https://gitee.com/RTXRui/tvbox/raw/master/tvbox.jar",
 
 	"sites":[	
 		{
