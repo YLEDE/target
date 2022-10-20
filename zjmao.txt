@@ -50,15 +50,6 @@
 			"filterable":0
 		},
 		{
-			"key":"csp_CZSPP",
-			"name":"厂长资源",
-			"type":3,
-			"api":"csp_Czsapp",
-			"searchable":1,
-			"quickSearch":1,
-			"filterable":1
-		},
-		{
 			"key":"csp_Lib",
 			"name":"Libvio",
 			"type": 3,
@@ -201,6 +192,16 @@
 			"quickSearch":1,
 			"filterable":1,
 			"ext":"https://raw.fastgit.org/heroaku/TVboxo/main/XBPQ/Cokemv.json"
+		},
+				{
+			"key":"csp_XBPQ_Fositv",
+			"name":"Fositv",
+			"type":3,
+			"api":"csp_xBPQ",
+			"searchable":1,
+			"quickSearch":1,
+			"filterable":1,
+			"ext":"https://raw.fastgit.org/YLEDE/TVBox/master/xpath/Fositv.json"
 		},
 		{
 			"key":"csp_biubiu_天空影视",
