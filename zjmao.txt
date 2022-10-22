@@ -135,9 +135,9 @@
 			"key": "Smdyy",
 			"name": "神马影院",
 			"type": 3,
-			"api": "csp_Smdyy","
-				searchable": 1,
-				"quickSearch": 1,
+			"api": "csp_Smdyy",
+			"searchable": 1,
+			"quickSearch": 1,
 			"filterable": 1
 		},
 		{
@@ -184,7 +184,7 @@
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":1,
-			"ext": "3865f0ab8f124688ad786a262af9b940"
+			"ext": "https://agit.ai/lem85930/OneClickRun/raw/branch/master/TXT/al.txt"
 		},
 		{
 			"key":"csp_Jianying",
