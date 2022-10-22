@@ -131,6 +131,15 @@
 			"filterable":1
 		},
 		{
+			"key": "Dy1010",
+			"name": "双十电影",
+			"type": 3,
+			"api": "csp_Dy1010",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1
+		},
+		{
 			"key":"csp_GitCafe",
 			"name":"小纸条",
 			"type":3,
@@ -139,6 +148,24 @@
 			"quickSearch":1,
 			"filterable":1,
 			"ext": "3865f0ab8f124688ad786a262af9b940"
+		},
+		{
+			"key":"spider_IKan",
+			"name":"爱看",
+			"type":3,
+			"api":"csp_IKan",
+			"quickSearch":1,
+			"searchable":1,
+			"filterable":1
+		},
+		{
+			"key": "Bdys01",
+			"name": "哔嘀影视",
+			"type": 3,
+			"api": "csp_Bdys01",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1
 		},
 		{
 			"key":"csp_Jianying",
@@ -161,26 +188,23 @@
 			"ext": "http://mkk.gotka.top/api.php/v1.vod"
 		},
 		{
-			"key": "csp_xb_qsp",
-			"name": " 氢视频",
-			"type": 3,
-			"api": "csp_XBiu",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 0,
-			"ext": "http://h1080p.com/index.php/vod/show/by/{by}/id/{cateId}/page/{catePg}/year/{year}.html",
-			"jar":"https://raw.fastgit.org/heroaku/TVboxo/main/Jar/XBiu.jar"
-		},
+			"key":"csp_XYQHiker_氢视频",
+			"name":"氢视频",
+			"type":3,
+			"api":"csp_XYQHiker",
+			"searchable":1,
+			"quickSearch":1,
+			"filterable":1,
+			"ext":"https://raw.fastgit.org/YLEDE/TVBox/master/xpath/H.json"},
 		{
-			"key": "csp_xb_aikan ",
-			"name": " 爱看影视",
-			"type": 3,
-			"api": "csp_XBiu",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 0,
-			"ext": "https://ikan6.vip/vodshow/{cateId}--------{catePg}---",
-			"jar":"https://raw.fastgit.org/heroaku/TVboxo/main/Jar/XBiu.jar"
+			"key":"csp_XBPQ_jpys",
+			"name":"极品影视",
+			"type":3,
+			"api":"csp_xBPQ",
+			"searchable":1,
+			"quickSearch":1,
+			"filterable":1,
+			"ext":"https://raw.fastgit.org/YLEDE/TVBox/master/xpath/jpys.json"
 		},
 		{
 			"key":"csp_XBPQ_jpys",
@@ -201,6 +225,16 @@
 			"quickSearch":1,
 			"filterable":1,
 			"ext":"https://raw.fastgit.org/YLEDE/TVBox/master/xpath/Fositv.json"
+		},
+		{
+			"key":"csp_xBPQ_素白白",
+			"name":"素白白",
+			"type":3,
+			"api":"csp_xBPQ",
+			"searchable":1,
+			"quickSearch":1,
+			"filterable":0,
+			"ext":"https://raw.fastgit.org/YLEDE/TVBox/master/xpath/subaibai.json"
 		},
 		{
 			"key":"csp_biubiu_天空影视",
