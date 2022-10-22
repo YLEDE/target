@@ -1,7 +1,7 @@
 {
 	"wallpaper":"http://api.btstu.cn/sjbz/api.php?lx=fengjing&format=images",
 
-	"spider":"https://ghproxy.com/https://raw.githubusercontent.com/YLEDE/TVBox/master/tvbox.jar",
+	"spider":"https://ghproxy.com/raw.githubusercontent.com/YLEDE/TVBox/master/tvbox.jar",
 
 	"sites":[	
 		{
@@ -214,7 +214,7 @@
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":1,
-			"ext":"https://ghproxy.com/https://raw.githubusercontent.com/YLEDE/TVBox/master/xpath/H.json"
+			"ext":"https://ghproxy.com/raw.githubusercontent.com/YLEDE/TVBox/master/xpath/H.json"
 		},
 		{
 			"key":"csp_XBPQ_buka",
@@ -224,7 +224,7 @@
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":1,
-			"ext":"https://ghproxy.com/https://raw.githubusercontent.com/YLEDE/TVBox/master/xpath/buka.json"
+			"ext":"https://ghproxy.com/raw.githubusercontent.com/YLEDE/TVBox/master/xpath/buka.json"
 		},
 		{
 			"key":"csp_XBPQ_jpys",
@@ -234,7 +234,7 @@
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":1,
-			"ext":"https://ghproxy.com/https://raw.githubusercontent.com/YLEDE/TVBox/master/xpath/jpys.json"
+			"ext":"https://ghproxy.com/raw.githubusercontent.com/YLEDE/TVBox/master/xpath/jpys.json"
 		},
 		{
 			"key":"csp_XBPQ_jpys",
@@ -244,7 +244,7 @@
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":1,
-			"ext":"https://ghproxy.com/https://raw.githubusercontent.com/YLEDE/TVBox/master/xpath/jpys.json"
+			"ext":"https://ghproxy.com/raw.githubusercontent.com/YLEDE/TVBox/master/xpath/jpys.json"
 		},
 		{
 			"key":"csp_XBPQ_Fositv",
@@ -254,7 +254,7 @@
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":1,
-			"ext":"https://ghproxy.com/https://raw.githubusercontent.com/YLEDE/TVBox/master/xpath/Fositv.json"
+			"ext":"https://ghproxy.com/raw.githubusercontent.com/YLEDE/TVBox/master/xpath/Fositv.json"
 		},
 		{
 			"key":"csp_xBPQ_素白白",
@@ -264,7 +264,7 @@
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":0,
-			"ext":"https://ghproxy.com/https://raw.githubusercontent.com/YLEDE/TVBox/master/xpath/subaibai.json"
+			"ext":"https://ghproxy.com/raw.githubusercontent.com/YLEDE/TVBox/master/xpath/subaibai.json"
 		},
 		{
 			"key":"csp_biubiu_天空影视",
@@ -274,7 +274,7 @@
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":0,
-			"ext":"https://ghproxy.com/https://raw.githubusercontent.com/YLEDE/TVBox/master/xpath/tkys.json"
+			"ext":"https://ghproxy.com/raw.githubusercontent.com/YLEDE/TVBox/master/xpath/tkys.json"
 		},
 		{
 			"key":"csp_biubiu_星空影视",
@@ -284,7 +284,7 @@
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":0,
-			"ext":"https://ghproxy.com/https://raw.githubusercontent.com/YLEDE/TVBox/master/xpath/xkys.json"
+			"ext":"https://ghproxy.com/raw.githubusercontent.com/YLEDE/TVBox/master/xpath/xkys.json"
 		},
 		{
 			"key": "csp_biubiu_bxhd",
@@ -294,7 +294,7 @@
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":0,
-			"ext": "https://ghproxy.com/https://raw.githubusercontent.com/YLEDE/TVBox/master/xpath/bxhd.json"
+			"ext": "https://ghproxy.com/raw.githubusercontent.com/YLEDE/TVBox/master/xpath/bxhd.json"
 		},
 		{
 			"key":"csp_biubiu_奈菲影院",
@@ -304,7 +304,7 @@
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":0,
-			"ext":"https://ghproxy.com/https://raw.githubusercontent.com/YLEDE/TVBox/master/xpath/naifei.json"
+			"ext":"https://ghproxy.com/raw.githubusercontent.com/YLEDE/TVBox/master/xpath/naifei.json"
 		},
 		{
 			"key": "csp_biubiu_Ysgc",
@@ -314,7 +314,7 @@
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":0,
-			"ext":"https://ghproxy.com/https://raw.githubusercontent.com/YLEDE/TVBox/master/xpath/ysgc.json"
+			"ext":"https://ghproxy.com/raw.githubusercontent.com/YLEDE/TVBox/master/xpath/ysgc.json"
 		},
 		{
 			"key":"csp_biubiu_Nike",
@@ -324,7 +324,7 @@
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":0,
-			"ext":"https://ghproxy.com/https://raw.githubusercontent.com/YLEDE/TVBox/master/xpath/Nike.json"
+			"ext":"https://ghproxy.com/raw.githubusercontent.com/YLEDE/TVBox/master/xpath/Nike.json"
 		},
 		{
 			"key": "csp_biubiu_dmxq",
@@ -334,7 +334,7 @@
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":0,
-			"ext": "https://ghproxy.com/https://raw.githubusercontent.com/YLEDE/TVBox/master/xpath/dmxq.json"
+			"ext": "https://ghproxy.com/raw.githubusercontent.com/YLEDE/TVBox/master/xpath/dmxq.json"
 		},	
 		{	
 			"key":"csp_biubiu_瓜皮",
@@ -344,7 +344,7 @@
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":0,
-			"ext":"https://ghproxy.com/https://raw.githubusercontent.com/YLEDE/TVBox/master/xpath/guapitv.json"
+			"ext":"https://ghproxy.com/raw.githubusercontent.com/YLEDE/TVBox/master/xpath/guapitv.json"
 		},
 		{
 			"key": "csp_biubiu_hdmoli",
@@ -354,7 +354,7 @@
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":0,
-			"ext": "https://ghproxy.com/https://raw.githubusercontent.com/YLEDE/TVBox/master/xpath/hdmoli.json"
+			"ext": "https://ghproxy.com/raw.githubusercontent.com/YLEDE/TVBox/master/xpath/hdmoli.json"
 		},
 		{
 			"key":"csp_biubiu_4kan",
@@ -364,7 +364,7 @@
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":0,
-			"ext":"https://ghproxy.com/https://raw.githubusercontent.com/YLEDE/TVBox/master/xpath/4kan.json"
+			"ext":"https://ghproxy.com/raw.githubusercontent.com/YLEDE/TVBox/master/xpath/4kan.json"
 		},
 		{
 			"key": "csp_biubiu_voflix",
@@ -374,7 +374,7 @@
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":0,
-			"ext": "https://ghproxy.com/https://raw.githubusercontent.com/YLEDE/TVBox/master/xpath/voflix.json"
+			"ext": "https://ghproxy.com/raw.githubusercontent.com/YLEDE/TVBox/master/xpath/voflix.json"
 		},
 		{
 			"key":"csp_biubiu_newfii",
@@ -384,7 +384,7 @@
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":0,
-			"ext":"https://ghproxy.com/https://raw.githubusercontent.com/YLEDE/TVBox/master/xpath/newfii.json"
+			"ext":"https://ghproxy.com/raw.githubusercontent.com/YLEDE/TVBox/master/xpath/newfii.json"
 		},
 		{
 			"key":"csp_biubiu_1010",
@@ -394,7 +394,7 @@
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":0,
-			"ext":"https://ghproxy.com/https://raw.githubusercontent.com/YLEDE/TVBox/master/xpath/1010.json"
+			"ext":"https://ghproxy.com/raw.githubusercontent.com/YLEDE/TVBox/master/xpath/1010.json"
 		},
 		{
 			"key":"csp_biubiu_xqm",
@@ -404,7 +404,7 @@
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":0,
-			"ext":"https://ghproxy.com/https://raw.githubusercontent.com/YLEDE/TVBox/master/xpath/xqm.json"
+			"ext":"https://ghproxy.com/raw.githubusercontent.com/YLEDE/TVBox/master/xpath/xqm.json"
 		},
 		{
 			"key": "csp_biubiu_ftys",
@@ -414,7 +414,7 @@
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":0,
-			"ext": "https://ghproxy.com/https://raw.githubusercontent.com/YLEDE/TVBox/master/xpath/ftys.json"
+			"ext": "https://ghproxy.com/raw.githubusercontent.com/YLEDE/TVBox/master/xpath/ftys.json"
 		},
 		{
 			"key":"csp_biubiu_mzt",
@@ -424,7 +424,7 @@
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":0,
-			"ext": "https://ghproxy.com/https://raw.githubusercontent.com/YLEDE/TVBox/master/xpath/mzt.json"
+			"ext": "https://ghproxy.com/raw.githubusercontent.com/YLEDE/TVBox/master/xpath/mzt.json"
 		},
 		{
 			"key":"csp_biubiu_nmtv",
@@ -434,7 +434,7 @@
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":0,
-			"ext":"https://ghproxy.com/https://raw.githubusercontent.com/YLEDE/TVBox/master/xpath/nmtv.json"
+			"ext":"https://ghproxy.com/raw.githubusercontent.com/YLEDE/TVBox/master/xpath/nmtv.json"
 		},
 		{
 			"key":"csp_biubiu_rxjs",
@@ -444,7 +444,7 @@
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":0,
-			"ext": "https://ghproxy.com/https://raw.githubusercontent.com/YLEDE/TVBox/master/xpath/rxjs.json"
+			"ext": "https://ghproxy.com/raw.githubusercontent.com/YLEDE/TVBox/master/xpath/rxjs.json"
 		},
 		{
 			"key":"csp_XYQBiu_xmm",
@@ -454,7 +454,7 @@
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":0,
-			"ext": "https://ghproxy.com/https://raw.githubusercontent.com/YLEDE/TVBox/master/xpath/xmm.json"
+			"ext": "https://ghproxy.com/raw.githubusercontent.com/YLEDE/TVBox/master/xpath/xmm.json"
 		},	
 		{
 			"key":"csp_XYQBiu_city",
@@ -464,7 +464,7 @@
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":0,
-			"ext": "https://ghproxy.com/https://raw.githubusercontent.com/YLEDE/TVBox/master/xpath/city.json"
+			"ext": "https://ghproxy.com/raw.githubusercontent.com/YLEDE/TVBox/master/xpath/city.json"
 		},
 		{
 			"key":"csp_XYQBiu_wnys",
@@ -474,7 +474,7 @@
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":0,
-			"ext": "https://ghproxy.com/https://raw.githubusercontent.com/YLEDE/TVBox/master/xpath/wnyy.json"
+			"ext": "https://ghproxy.com/raw.githubusercontent.com/YLEDE/TVBox/master/xpath/wnyy.json"
 		},
 		{
 			"key":"csp_xpath_wanmeikk",
@@ -484,7 +484,7 @@
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":0,
-			"ext":"https://ghproxy.com/https://raw.githubusercontent.com/YLEDE/TVBox/master/xpath/wanmeikk.json"
+			"ext":"https://ghproxy.com/raw.githubusercontent.com/YLEDE/TVBox/master/xpath/wanmeikk.json"
 		},
 		{
 			"key":"csp_xpath_555",
@@ -494,7 +494,7 @@
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":0,
-			"ext": "https://ghproxy.com/https://raw.githubusercontent.com/YLEDE/TVBox/master/xpath/555.json"
+			"ext": "https://ghproxy.com/raw.githubusercontent.com/YLEDE/TVBox/master/xpath/555.json"
 		},
 		{
 			"key":"csp_xpath_lezhutv",
@@ -504,7 +504,7 @@
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":0,
-			"ext":"https://ghproxy.com/https://raw.githubusercontent.com/YLEDE/TVBox/master/xpath/lezhutv.json"
+			"ext":"https://ghproxy.com/raw.githubusercontent.com/YLEDE/TVBox/master/xpath/lezhutv.json"
 		},
 		{
 			"key": "csp_xpath_348",
@@ -514,7 +514,7 @@
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":0,
-			"ext": "https://ghproxy.com/https://raw.githubusercontent.com/YLEDE/TVBox/master/xpath/348z.json"
+			"ext": "https://ghproxy.com/raw.githubusercontent.com/YLEDE/TVBox/master/xpath/348z.json"
 		},
 		{
 			"key": "csp_xpath_baibai",
@@ -524,7 +524,7 @@
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":0,
-			"ext": "https://ghproxy.com/https://raw.githubusercontent.com/YLEDE/TVBox/master/xpath/jubaibai.json"
+			"ext": "https://ghproxy.com/raw.githubusercontent.com/YLEDE/TVBox/master/xpath/jubaibai.json"
 		},
 		{
 			"key":"csp_xpath_xiangdao",
@@ -534,7 +534,7 @@
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":1,
-			"ext":"https://ghproxy.com/https://raw.githubusercontent.com/YLEDE/TVBox/master/xpath/xiangdao.json"
+			"ext":"https://ghproxy.com/raw.githubusercontent.com/YLEDE/TVBox/master/xpath/xiangdao.json"
 		},
 		{
 			"key":"csp_xpath_mlys",
@@ -544,7 +544,7 @@
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":1,
-			"ext":"https://ghproxy.com/https://raw.githubusercontent.com/YLEDE/TVBox/master/xpath/mlys.json"
+			"ext":"https://ghproxy.com/raw.githubusercontent.com/YLEDE/TVBox/master/xpath/mlys.json"
 		},
 		{
 			"key": "csp_xpath_juhuang",
@@ -554,7 +554,7 @@
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":0,
-			"ext": "https://ghproxy.com/https://raw.githubusercontent.com/YLEDE/TVBox/master/xpath/juhuang.json"
+			"ext": "https://ghproxy.com/raw.githubusercontent.com/YLEDE/TVBox/master/xpath/juhuang.json"
 		},	
 		{
 			"key":"csp_xpath_lgys",
@@ -564,7 +564,7 @@
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":0,
-			"ext":"https://ghproxy.com/https://raw.githubusercontent.com/YLEDE/TVBox/master/xpath/lgys.json"
+			"ext":"https://ghproxy.com/raw.githubusercontent.com/YLEDE/TVBox/master/xpath/lgys.json"
 		},
 		{
 			"key":"csp_xpath_wuguiyy",
@@ -574,7 +574,7 @@
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":0,
-			"ext":"https://ghproxy.com/https://raw.githubusercontent.com/YLEDE/TVBox/master/xpath/wuguiyy.json"
+			"ext":"https://ghproxy.com/raw.githubusercontent.com/YLEDE/TVBox/master/xpath/wuguiyy.json"
 		},
 		{
 			"key": "csp_xpath_bd4k",
@@ -584,7 +584,7 @@
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":0,
-			"ext": "https://ghproxy.com/https://raw.githubusercontent.com/YLEDE/TVBox/master/xpath/bdys.json"
+			"ext": "https://ghproxy.com/raw.githubusercontent.com/YLEDE/TVBox/master/xpath/bdys.json"
 		},
 		{
 			"key":"csp_xpath_9ekk",
@@ -594,7 +594,7 @@
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":0,
-			"ext":"https://ghproxy.com/https://raw.githubusercontent.com/YLEDE/TVBox/master/xpath/9ekk.json"
+			"ext":"https://ghproxy.com/raw.githubusercontent.com/YLEDE/TVBox/master/xpath/9ekk.json"
 		},	
 		{
 			"key": "csp_xpath_zjdr",
@@ -604,7 +604,7 @@
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":0,
-			"ext": "https://ghproxy.com/https://raw.githubusercontent.com/YLEDE/TVBox/master/xpath/vipmv.json"
+			"ext": "https://ghproxy.com/raw.githubusercontent.com/YLEDE/TVBox/master/xpath/vipmv.json"
 		},
 		{
 			"key":"csp_biubiu_yanet",
@@ -614,7 +614,7 @@
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":0,
-			"ext":"https://ghproxy.com/https://raw.githubusercontent.com/YLEDE/TVBox/master/xpath/yanet.json"
+			"ext":"https://ghproxy.com/raw.githubusercontent.com/YLEDE/TVBox/master/xpath/yanet.json"
 		},		
 		{
 			"key": "csp_xpath_duboku",
@@ -624,7 +624,7 @@
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":0,
-			"ext": "https://ghproxy.com/https://raw.githubusercontent.com/YLEDE/TVBox/master/xpath/duboku.json"
+			"ext": "https://ghproxy.com/raw.githubusercontent.com/YLEDE/TVBox/master/xpath/duboku.json"
 		},
 		{
 			"key":"csp_xpath_agefans",
@@ -634,7 +634,7 @@
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":0,
-			"ext": "https://ghproxy.com/https://raw.githubusercontent.com/YLEDE/TVBox/master/xpath/agefans.json"
+			"ext": "https://ghproxy.com/raw.githubusercontent.com/YLEDE/TVBox/master/xpath/agefans.json"
 		},
 		{
 			"key": "csp_xpath_dm84",
@@ -644,7 +644,7 @@
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":0,
-			"ext": "https://ghproxy.com/https://raw.githubusercontent.com/YLEDE/TVBox/master/xpath/dm84.json"
+			"ext": "https://ghproxy.com/raw.githubusercontent.com/YLEDE/TVBox/master/xpath/dm84.json"
 		}
 	],
 	"lives":
