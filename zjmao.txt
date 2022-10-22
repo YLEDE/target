@@ -11,7 +11,8 @@
 			"api":"csp_Cokemv",
 			"searchable":1,
 			"quickSearch":1,
-			"filterable":1
+			"filterable":1,
+                        "jar":"https://gitea.com/Yoursmile99/Yoursmile/raw/branch/main/Yoursmile.txt"
 		},
 		{
 			"key":"csp_KanSJ",
@@ -85,6 +86,16 @@
 			"quickSearch":1,
 			"filterable":1
 		},
+                {
+                        "key":"csp_CZSPP",
+                        "name":"厂长资源",
+                        "type":3,
+                        "api":"csp_Czsapp",
+                        "searchable":1,
+                        "quickSearch":1,
+                        "filterable":1,
+                        "jar":"https://gitea.com/Yoursmile99/Yoursmile/raw/branch/main/Yoursmile.txt"
+                },
 		{
 			"key":"追剧喵",
 			"name":"追剧喵",
@@ -182,16 +193,6 @@
 			"quickSearch":1,
 			"filterable":1,
 			"ext":"https://raw.fastgit.org/YLEDE/TVBox/master/xpath/jpys.json"
-		},
-		{
-			"key":"csp_XBPQ_Cokemv",
-			"name":"Cokemv",
-			"type":3,
-			"api":"csp_xBPQ",
-			"searchable":1,
-			"quickSearch":1,
-			"filterable":1,
-			"ext":"https://raw.fastgit.org/heroaku/TVboxo/main/XBPQ/Cokemv.json"
 		},
 		{
 			"key":"csp_XBPQ_Fositv",
