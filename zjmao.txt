@@ -150,6 +150,15 @@
 			"filterable": 1
 		},
 		{
+			"key": "耐看电影",
+			"name": "耐看电影",
+			"type": 3,
+			"api": "csp_Nkdy",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1
+		},
+		{
 			"key": "Dy1010",
 			"name": "双十电影",
 			"type": 3,
@@ -205,7 +214,18 @@
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":1,
-			"ext":"https://raw.fastgit.org/YLEDE/TVBox/master/xpath/H.json"},
+			"ext":"https://raw.fastgit.org/YLEDE/TVBox/master/xpath/H.json"
+		},
+		{
+			"key":"csp_XBPQ_buka",
+			"name":"真不卡",
+			"type":3,
+			"api":"csp_xBPQ",
+			"searchable":1,
+			"quickSearch":1,
+			"filterable":1,
+			"ext":"https://raw.fastgit.org/YLEDE/TVBox/master/xpath/buka.json"
+		},
 		{
 			"key":"csp_XBPQ_jpys",
 			"name":"极品影视",
