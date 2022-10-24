@@ -15,7 +15,7 @@
 		},
 		{
 			"key":"csp_77",
-			"name":"七七",
+			"name":"酷云七七",
 			"type":3,
 			"api":"csp_Kunyu77",
 			"searchable":1,
@@ -33,7 +33,7 @@
 		},
 		{
 			"key":"spider_IKan",
-			"name":"爱看",
+			"name":"爱看影视",
 			"type":3,
 			"api":"csp_IKan",
 			"quickSearch":1,
@@ -111,6 +111,15 @@
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":0
+		},
+		{
+			"key": "Fantuan",
+			"name": "饭团影视",
+			"type": 3,
+			"api": "csp_Fantuan",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1
 		},
 		{
 			"key":"csp_Lib",
