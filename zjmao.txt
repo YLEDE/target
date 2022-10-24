@@ -217,13 +217,13 @@
 			"ext":"https://gitcdn.top/https://raw.githubusercontent.com/YLEDE/TVBox/master/xpath/H.json"
 		},
 		{
-			"key":"csp_XYQBiu_Fositv",
+			"key":"csp_XBPQ_Fositv",
 			"name":"Fositv",
 			"type":3,
-			"api":"csp_XYQBiu",
+			"api":"csp_xBPQ",
 			"searchable":1,
 			"quickSearch":1,
-			"filterable":0,
+			"filterable":1,
 			"ext":"https://gitcdn.top/https://raw.githubusercontent.com/YLEDE/TVBox/master/xpath/Fositv.json"
 		},
 		{
