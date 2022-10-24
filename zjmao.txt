@@ -1,7 +1,7 @@
 {
 	"wallpaper":"http://api.btstu.cn/sjbz/api.php?lx=fengjing&format=images",
 
-	"spider":"https://ghproxy.com/raw.githubusercontent.com/YLEDE/TVBox/master/tvbox.jar",
+	"spider":"https://gitcdn.top/https://raw.githubusercontent.com/YLEDE/TVBox/master/tvbox.jar",
 
 	"sites":[	
 		{
@@ -214,207 +214,7 @@
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":1,
-			"ext":"https://ghproxy.com/raw.githubusercontent.com/YLEDE/TVBox/master/xpath/H.json"
-		},
-		{
-			"key":"csp_XBPQ_buka",
-			"name":"真不卡",
-			"type":3,
-			"api":"csp_xBPQ",
-			"searchable":1,
-			"quickSearch":1,
-			"filterable":1,
-			"ext":"https://ghproxy.com/raw.githubusercontent.com/YLEDE/TVBox/master/xpath/buka.json"
-		},
-		{
-			"key":"csp_XBPQ_jpys",
-			"name":"极品影视",
-			"type":3,
-			"api":"csp_xBPQ",
-			"searchable":1,
-			"quickSearch":1,
-			"filterable":1,
-			"ext":"https://ghproxy.com/raw.githubusercontent.com/YLEDE/TVBox/master/xpath/jpys.json"
-		},
-		{
-			"key":"csp_xBPQ_素白白",
-			"name":"素白白",
-			"type":3,
-			"api":"csp_xBPQ",
-			"searchable":1,
-			"quickSearch":1,
-			"filterable":0,
-			"ext":"https://ghproxy.com/raw.githubusercontent.com/YLEDE/TVBox/master/xpath/subaibai.json"
-		},
-		{
-			"key":"csp_biubiu_天空影视",
-			"name":"天空影视",
-			"type":3,
-			"api":"csp_XBiubiu",
-			"searchable":1,
-			"quickSearch":1,
-			"filterable":0,
-			"ext":"https://ghproxy.com/raw.githubusercontent.com/YLEDE/TVBox/master/xpath/tkys.json"
-		},
-		{
-			"key":"csp_biubiu_星空影视",
-			"name":"星空影视",
-			"type":3,
-			"api":"csp_XBiubiu",
-			"searchable":1,
-			"quickSearch":1,
-			"filterable":0,
-			"ext":"https://ghproxy.com/raw.githubusercontent.com/YLEDE/TVBox/master/xpath/xkys.json"
-		},
-		{
-			"key": "csp_biubiu_bxhd",
-			"name": "宝仙HD",
-			"type": 3,
-			"api": "csp_XBiubiu",
-			"searchable":1,
-			"quickSearch":1,
-			"filterable":0,
-			"ext": "https://ghproxy.com/raw.githubusercontent.com/YLEDE/TVBox/master/xpath/bxhd.json"
-		},
-		{
-			"key":"csp_biubiu_奈菲影院",
-			"name":"奈菲影院",
-			"type":3,
-			"api":"csp_XBiubiu",
-			"searchable":1,
-			"quickSearch":1,
-			"filterable":0,
-			"ext":"https://ghproxy.com/raw.githubusercontent.com/YLEDE/TVBox/master/xpath/naifei.json"
-		},
-		{
-			"key": "csp_biubiu_Ysgc",
-			"name": "影视工厂",
-			"type": 3,
-			"api": "csp_XBiubiu",
-			"searchable":1,
-			"quickSearch":1,
-			"filterable":0,
-			"ext":"https://ghproxy.com/raw.githubusercontent.com/YLEDE/TVBox/master/xpath/ysgc.json"
-		},
-		{
-			"key":"csp_biubiu_Nike",
-			"name":"Nike影视网",
-			"type":3,
-			"api":"csp_XBiubiu",
-			"searchable":1,
-			"quickSearch":1,
-			"filterable":0,
-			"ext":"https://ghproxy.com/raw.githubusercontent.com/YLEDE/TVBox/master/xpath/Nike.json"
-		},
-		{
-			"key": "csp_biubiu_dmxq",
-			"name": "大米星球",
-			"type":3,
-			"api": "csp_XBiubiu",
-			"searchable":1,
-			"quickSearch":1,
-			"filterable":0,
-			"ext": "https://ghproxy.com/raw.githubusercontent.com/YLEDE/TVBox/master/xpath/dmxq.json"
-		},	
-		{	
-			"key":"csp_biubiu_瓜皮",
-			"name": "瓜皮TV",
-			"type": 3,
-			"api":"csp_XBiubiu",
-			"searchable":1,
-			"quickSearch":1,
-			"filterable":0,
-			"ext":"https://ghproxy.com/raw.githubusercontent.com/YLEDE/TVBox/master/xpath/guapitv.json"
-		},
-		{
-			"key": "csp_biubiu_hdmoli",
-			"name": "hdmoli",
-			"type": 3,
-			"api": "csp_XBiubiu",
-			"searchable":1,
-			"quickSearch":1,
-			"filterable":0,
-			"ext": "https://ghproxy.com/raw.githubusercontent.com/YLEDE/TVBox/master/xpath/hdmoli.json"
-		},
-		{
-			"key":"csp_biubiu_4kan",
-			"name":"4kan",
-			"type":3,
-			"api":"csp_XBiubiu",
-			"searchable":1,
-			"quickSearch":1,
-			"filterable":0,
-			"ext":"https://ghproxy.com/raw.githubusercontent.com/YLEDE/TVBox/master/xpath/4kan.json"
-		},
-		{
-			"key": "csp_biubiu_voflix",
-			"name": "VOFLIX",
-			"type":3,
-			"api": "csp_XBiubiu",
-			"searchable":1,
-			"quickSearch":1,
-			"filterable":0,
-			"ext": "https://ghproxy.com/raw.githubusercontent.com/YLEDE/TVBox/master/xpath/voflix.json"
-		},
-		{
-			"key":"csp_biubiu_newfii",
-			"name":"奈落影院",
-			"type":3,
-			"api":"csp_XBiubiu",
-			"searchable":1,
-			"quickSearch":1,
-			"filterable":0,
-			"ext":"https://ghproxy.com/raw.githubusercontent.com/YLEDE/TVBox/master/xpath/newfii.json"
-		},
-		{
-			"key":"csp_biubiu_xqm",
-			"name":"小强迷",
-			"type":3,
-			"api":"csp_XBiubiu",
-			"searchable":1,
-			"quickSearch":1,
-			"filterable":0,
-			"ext":"https://ghproxy.com/raw.githubusercontent.com/YLEDE/TVBox/master/xpath/xqm.json"
-		},
-		{
-			"key": "csp_biubiu_ftys",
-			"name": "饭团影视",
-			"type":3,
-			"api": "csp_XBiubiu",
-			"searchable":1,
-			"quickSearch":1,
-			"filterable":0,
-			"ext": "https://ghproxy.com/raw.githubusercontent.com/YLEDE/TVBox/master/xpath/ftys.json"
-		},
-		{
-			"key":"csp_biubiu_mzt",
-			"name":"莫扎兔",
-			"type":3,
-			"api":"csp_XBiubiu",
-			"searchable":1,
-			"quickSearch":1,
-			"filterable":0,
-			"ext": "https://ghproxy.com/raw.githubusercontent.com/YLEDE/TVBox/master/xpath/mzt.json"
-		},
-		{
-			"key":"csp_biubiu_nmtv",
-			"name":"牛马TV",
-			"type":3,
-			"api":"csp_XBiubiu",
-			"searchable":1,
-			"quickSearch":1,
-			"filterable":0,
-			"ext":"https://ghproxy.com/raw.githubusercontent.com/YLEDE/TVBox/master/xpath/nmtv.json"
-		},
-		{
-			"key":"csp_biubiu_rxjs",
-			"name":"锐行加速",
-			"type":3,
-			"api":"csp_XBiubiu",
-			"searchable":1,
-			"quickSearch":1,
-			"filterable":0,
-			"ext": "https://ghproxy.com/raw.githubusercontent.com/YLEDE/TVBox/master/xpath/rxjs.json"
+			"ext":"https://gitcdn.top/https://raw.githubusercontent.com/YLEDE/TVBox/master/xpath/H.json"
 		},
 		{
 			"key":"csp_XYQBiu_Fositv",
@@ -424,7 +224,207 @@
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":0,
-			"ext":"https://ghproxy.com/raw.githubusercontent.com/YLEDE/TVBox/master/xpath/Fositv.json"
+			"ext":"https://gitcdn.top/https://raw.githubusercontent.com/YLEDE/TVBox/master/xpath/Fositv.json"
+		},
+		{
+			"key":"csp_XBPQ_buka",
+			"name":"真不卡",
+			"type":3,
+			"api":"csp_xBPQ",
+			"searchable":1,
+			"quickSearch":1,
+			"filterable":1,
+			"ext":"https://gitcdn.top/https://raw.githubusercontent.com/YLEDE/TVBox/master/xpath/buka.json"
+		},
+		{
+			"key":"csp_XBPQ_jpys",
+			"name":"极品影视",
+			"type":3,
+			"api":"csp_xBPQ",
+			"searchable":1,
+			"quickSearch":1,
+			"filterable":1,
+			"ext":"https://gitcdn.top/https://raw.githubusercontent.com/YLEDE/TVBox/master/xpath/jpys.json"
+		},
+		{
+			"key":"csp_xBPQ_素白白",
+			"name":"素白白",
+			"type":3,
+			"api":"csp_xBPQ",
+			"searchable":1,
+			"quickSearch":1,
+			"filterable":0,
+			"ext":"https://gitcdn.top/https://raw.githubusercontent.com/YLEDE/TVBox/master/xpath/subaibai.json"
+		},
+		{
+			"key":"csp_biubiu_天空影视",
+			"name":"天空影视",
+			"type":3,
+			"api":"csp_XBiubiu",
+			"searchable":1,
+			"quickSearch":1,
+			"filterable":0,
+			"ext":"https://gitcdn.top/https://raw.githubusercontent.com/YLEDE/TVBox/master/xpath/tkys.json"
+		},
+		{
+			"key":"csp_biubiu_星空影视",
+			"name":"星空影视",
+			"type":3,
+			"api":"csp_XBiubiu",
+			"searchable":1,
+			"quickSearch":1,
+			"filterable":0,
+			"ext":"https://gitcdn.top/https://raw.githubusercontent.com/YLEDE/TVBox/master/xpath/xkys.json"
+		},
+		{
+			"key": "csp_biubiu_bxhd",
+			"name": "宝仙HD",
+			"type": 3,
+			"api": "csp_XBiubiu",
+			"searchable":1,
+			"quickSearch":1,
+			"filterable":0,
+			"ext": "https://gitcdn.top/https://raw.githubusercontent.com/YLEDE/TVBox/master/xpath/bxhd.json"
+		},
+		{
+			"key":"csp_biubiu_奈菲影院",
+			"name":"奈菲影院",
+			"type":3,
+			"api":"csp_XBiubiu",
+			"searchable":1,
+			"quickSearch":1,
+			"filterable":0,
+			"ext":"https://gitcdn.top/https://raw.githubusercontent.com/YLEDE/TVBox/master/xpath/naifei.json"
+		},
+		{
+			"key": "csp_biubiu_Ysgc",
+			"name": "影视工厂",
+			"type": 3,
+			"api": "csp_XBiubiu",
+			"searchable":1,
+			"quickSearch":1,
+			"filterable":0,
+			"ext":"https://gitcdn.top/https://raw.githubusercontent.com/YLEDE/TVBox/master/xpath/ysgc.json"
+		},
+		{
+			"key":"csp_biubiu_Nike",
+			"name":"Nike影视网",
+			"type":3,
+			"api":"csp_XBiubiu",
+			"searchable":1,
+			"quickSearch":1,
+			"filterable":0,
+			"ext":"https://gitcdn.top/https://raw.githubusercontent.com/YLEDE/TVBox/master/xpath/Nike.json"
+		},
+		{
+			"key": "csp_biubiu_dmxq",
+			"name": "大米星球",
+			"type":3,
+			"api": "csp_XBiubiu",
+			"searchable":1,
+			"quickSearch":1,
+			"filterable":0,
+			"ext": "https://gitcdn.top/https://raw.githubusercontent.com/YLEDE/TVBox/master/xpath/dmxq.json"
+		},	
+		{	
+			"key":"csp_biubiu_瓜皮",
+			"name": "瓜皮TV",
+			"type": 3,
+			"api":"csp_XBiubiu",
+			"searchable":1,
+			"quickSearch":1,
+			"filterable":0,
+			"ext":"https://gitcdn.top/https://raw.githubusercontent.com/YLEDE/TVBox/master/xpath/guapitv.json"
+		},
+		{
+			"key": "csp_biubiu_hdmoli",
+			"name": "hdmoli",
+			"type": 3,
+			"api": "csp_XBiubiu",
+			"searchable":1,
+			"quickSearch":1,
+			"filterable":0,
+			"ext": "https://gitcdn.top/https://raw.githubusercontent.com/YLEDE/TVBox/master/xpath/hdmoli.json"
+		},
+		{
+			"key":"csp_biubiu_4kan",
+			"name":"4kan",
+			"type":3,
+			"api":"csp_XBiubiu",
+			"searchable":1,
+			"quickSearch":1,
+			"filterable":0,
+			"ext":"https://gitcdn.top/https://raw.githubusercontent.com/YLEDE/TVBox/master/xpath/4kan.json"
+		},
+		{
+			"key": "csp_biubiu_voflix",
+			"name": "VOFLIX",
+			"type":3,
+			"api": "csp_XBiubiu",
+			"searchable":1,
+			"quickSearch":1,
+			"filterable":0,
+			"ext": "https://gitcdn.top/https://raw.githubusercontent.com/YLEDE/TVBox/master/xpath/voflix.json"
+		},
+		{
+			"key":"csp_biubiu_newfii",
+			"name":"奈落影院",
+			"type":3,
+			"api":"csp_XBiubiu",
+			"searchable":1,
+			"quickSearch":1,
+			"filterable":0,
+			"ext":"https://gitcdn.top/https://raw.githubusercontent.com/YLEDE/TVBox/master/xpath/newfii.json"
+		},
+		{
+			"key":"csp_biubiu_xqm",
+			"name":"小强迷",
+			"type":3,
+			"api":"csp_XBiubiu",
+			"searchable":1,
+			"quickSearch":1,
+			"filterable":0,
+			"ext":"https://gitcdn.top/https://raw.githubusercontent.com/YLEDE/TVBox/master/xpath/xqm.json"
+		},
+		{
+			"key": "csp_biubiu_ftys",
+			"name": "饭团影视",
+			"type":3,
+			"api": "csp_XBiubiu",
+			"searchable":1,
+			"quickSearch":1,
+			"filterable":0,
+			"ext": "https://gitcdn.top/https://raw.githubusercontent.com/YLEDE/TVBox/master/xpath/ftys.json"
+		},
+		{
+			"key":"csp_biubiu_mzt",
+			"name":"莫扎兔",
+			"type":3,
+			"api":"csp_XBiubiu",
+			"searchable":1,
+			"quickSearch":1,
+			"filterable":0,
+			"ext": "https://gitcdn.top/https://raw.githubusercontent.com/YLEDE/TVBox/master/xpath/mzt.json"
+		},
+		{
+			"key":"csp_biubiu_nmtv",
+			"name":"牛马TV",
+			"type":3,
+			"api":"csp_XBiubiu",
+			"searchable":1,
+			"quickSearch":1,
+			"filterable":0,
+			"ext":"https://gitcdn.top/https://raw.githubusercontent.com/YLEDE/TVBox/master/xpath/nmtv.json"
+		},
+		{
+			"key":"csp_biubiu_rxjs",
+			"name":"锐行加速",
+			"type":3,
+			"api":"csp_XBiubiu",
+			"searchable":1,
+			"quickSearch":1,
+			"filterable":0,
+			"ext": "https://gitcdn.top/https://raw.githubusercontent.com/YLEDE/TVBox/master/xpath/rxjs.json"
 		},
 		{
 			"key":"csp_XYQBiu_city",
@@ -434,7 +434,7 @@
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":0,
-			"ext": "https://ghproxy.com/raw.githubusercontent.com/YLEDE/TVBox/master/xpath/city.json"
+			"ext": "https://gitcdn.top/https://raw.githubusercontent.com/YLEDE/TVBox/master/xpath/city.json"
 		},
 		{
 			"key":"csp_XYQBiu_wnys",
@@ -444,7 +444,7 @@
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":0,
-			"ext": "https://ghproxy.com/raw.githubusercontent.com/YLEDE/TVBox/master/xpath/wnyy.json"
+			"ext": "https://gitcdn.top/https://raw.githubusercontent.com/YLEDE/TVBox/master/xpath/wnyy.json"
 		},
 		{
 			"key":"csp_xpath_wanmeikk",
@@ -454,7 +454,7 @@
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":0,
-			"ext":"https://ghproxy.com/raw.githubusercontent.com/YLEDE/TVBox/master/xpath/wanmeikk.json"
+			"ext":"https://gitcdn.top/https://raw.githubusercontent.com/YLEDE/TVBox/master/xpath/wanmeikk.json"
 		},
 		{
 			"key":"csp_xpath_555",
@@ -464,7 +464,7 @@
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":0,
-			"ext": "https://ghproxy.com/raw.githubusercontent.com/YLEDE/TVBox/master/xpath/555.json"
+			"ext": "https://gitcdn.top/https://raw.githubusercontent.com/YLEDE/TVBox/master/xpath/555.json"
 		},
 		{
 			"key":"csp_xpath_lezhutv",
@@ -474,7 +474,7 @@
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":0,
-			"ext":"https://ghproxy.com/raw.githubusercontent.com/YLEDE/TVBox/master/xpath/lezhutv.json"
+			"ext":"https://gitcdn.top/https://raw.githubusercontent.com/YLEDE/TVBox/master/xpath/lezhutv.json"
 		},
 		{
 			"key": "csp_xpath_348",
@@ -484,7 +484,7 @@
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":0,
-			"ext": "https://ghproxy.com/raw.githubusercontent.com/YLEDE/TVBox/master/xpath/348z.json"
+			"ext": "https://gitcdn.top/https://raw.githubusercontent.com/YLEDE/TVBox/master/xpath/348z.json"
 		},
 		{
 			"key": "csp_xpath_baibai",
@@ -494,7 +494,7 @@
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":0,
-			"ext": "https://ghproxy.com/raw.githubusercontent.com/YLEDE/TVBox/master/xpath/jubaibai.json"
+			"ext": "https://gitcdn.top/https://raw.githubusercontent.com/YLEDE/TVBox/master/xpath/jubaibai.json"
 		},
 		{
 			"key":"csp_xpath_xiangdao",
@@ -504,7 +504,7 @@
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":1,
-			"ext":"https://ghproxy.com/raw.githubusercontent.com/YLEDE/TVBox/master/xpath/xiangdao.json"
+			"ext":"https://gitcdn.top/https://raw.githubusercontent.com/YLEDE/TVBox/master/xpath/xiangdao.json"
 		},
 		{
 			"key": "csp_xpath_juhuang",
@@ -514,7 +514,7 @@
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":0,
-			"ext": "https://ghproxy.com/raw.githubusercontent.com/YLEDE/TVBox/master/xpath/juhuang.json"
+			"ext": "https://gitcdn.top/https://raw.githubusercontent.com/YLEDE/TVBox/master/xpath/juhuang.json"
 		},	
 		{
 			"key":"csp_xpath_lgys",
@@ -524,7 +524,7 @@
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":0,
-			"ext":"https://ghproxy.com/raw.githubusercontent.com/YLEDE/TVBox/master/xpath/lgys.json"
+			"ext":"https://gitcdn.top/https://raw.githubusercontent.com/YLEDE/TVBox/master/xpath/lgys.json"
 		},
 		{
 			"key":"csp_xpath_wuguiyy",
@@ -534,7 +534,7 @@
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":0,
-			"ext":"https://ghproxy.com/raw.githubusercontent.com/YLEDE/TVBox/master/xpath/wuguiyy.json"
+			"ext":"https://gitcdn.top/https://raw.githubusercontent.com/YLEDE/TVBox/master/xpath/wuguiyy.json"
 		},
 		{
 			"key":"csp_xpath_9ekk",
@@ -544,7 +544,7 @@
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":0,
-			"ext":"https://ghproxy.com/raw.githubusercontent.com/YLEDE/TVBox/master/xpath/9ekk.json"
+			"ext":"https://gitcdn.top/https://raw.githubusercontent.com/YLEDE/TVBox/master/xpath/9ekk.json"
 		},	
 		{
 			"key": "csp_xpath_zjdr",
@@ -554,7 +554,7 @@
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":0,
-			"ext": "https://ghproxy.com/raw.githubusercontent.com/YLEDE/TVBox/master/xpath/vipmv.json"
+			"ext": "https://gitcdn.top/https://raw.githubusercontent.com/YLEDE/TVBox/master/xpath/vipmv.json"
 		},
 		{
 			"key":"csp_biubiu_yanet",
@@ -564,7 +564,7 @@
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":0,
-			"ext":"https://ghproxy.com/raw.githubusercontent.com/YLEDE/TVBox/master/xpath/yanet.json"
+			"ext":"https://gitcdn.top/https://raw.githubusercontent.com/YLEDE/TVBox/master/xpath/yanet.json"
 		},		
 		{
 			"key": "csp_xpath_duboku",
@@ -574,7 +574,7 @@
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":0,
-			"ext": "https://ghproxy.com/raw.githubusercontent.com/YLEDE/TVBox/master/xpath/duboku.json"
+			"ext": "https://gitcdn.top/https://raw.githubusercontent.com/YLEDE/TVBox/master/xpath/duboku.json"
 		},
 		{
 			"key":"csp_xpath_agefans",
@@ -584,7 +584,7 @@
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":0,
-			"ext": "https://ghproxy.com/raw.githubusercontent.com/YLEDE/TVBox/master/xpath/agefans.json"
+			"ext": "https://gitcdn.top/https://raw.githubusercontent.com/YLEDE/TVBox/master/xpath/agefans.json"
 		},
 		{
 			"key": "csp_xpath_dm84",
@@ -594,7 +594,7 @@
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":0,
-			"ext": "https://ghproxy.com/raw.githubusercontent.com/YLEDE/TVBox/master/xpath/dm84.json"
+			"ext": "https://gitcdn.top/https://raw.githubusercontent.com/YLEDE/TVBox/master/xpath/dm84.json"
 		}
 	],
 	"lives":
