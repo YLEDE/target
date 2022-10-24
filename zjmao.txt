@@ -113,15 +113,6 @@
 			"filterable":0
 		},
 		{
-			"key": "Fantuan",
-			"name": "饭团影视",
-			"type": 3,
-			"api": "csp_Fantuan",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1
-		},
-		{
 			"key":"csp_Lib",
 			"name":"Libvio",
 			"type": 3,
@@ -222,7 +213,7 @@
 			"api":"csp_XYQHiker",
 			"searchable":1,
 			"quickSearch":1,
-			"filterable":1,
+			"filterable":0,
 			"ext":"https://gitcdn.top/https://raw.githubusercontent.com/YLEDE/TVBox/master/xpath/H.json"
 		},
 		{
@@ -232,7 +223,7 @@
 			"api":"csp_xBPQ",
 			"searchable":1,
 			"quickSearch":1,
-			"filterable":1,
+			"filterable":0,
 			"ext":"https://gitcdn.top/https://raw.githubusercontent.com/YLEDE/TVBox/master/xpath/Fositv.json"
 		},
 		{
@@ -242,7 +233,7 @@
 			"api":"csp_xBPQ",
 			"searchable":1,
 			"quickSearch":1,
-			"filterable":1,
+			"filterable":0,
 			"ext":"https://gitcdn.top/https://raw.githubusercontent.com/YLEDE/TVBox/master/xpath/buka.json"
 		},
 		{
@@ -252,7 +243,7 @@
 			"api":"csp_xBPQ",
 			"searchable":1,
 			"quickSearch":1,
-			"filterable":1,
+			"filterable":0,
 			"ext":"https://gitcdn.top/https://raw.githubusercontent.com/YLEDE/TVBox/master/xpath/jpys.json"
 		},
 		{
