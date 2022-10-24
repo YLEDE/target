@@ -217,10 +217,10 @@
 			"ext":"https://ghproxy.com/raw.githubusercontent.com/YLEDE/TVBox/master/xpath/H.json"
 		},
 		{
-			"key":"csp_XYQHiker_Fositv",
+			"key":"csp_XBPQ_Fositv",
 			"name":"Fositv",
 			"type":3,
-			"api":"csp_XYQHiker",
+			"api":"csp_xBPQ",
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":1,
