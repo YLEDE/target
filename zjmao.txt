@@ -217,6 +217,16 @@
 			"ext":"https://ghproxy.com/raw.githubusercontent.com/YLEDE/TVBox/master/xpath/H.json"
 		},
 		{
+			"key":"csp_XYQBiu_Fositv",
+			"name":"Fositv",
+			"type":3,
+			"api":"csp_XYQBiu",
+			"searchable":1,
+			"quickSearch":1,
+			"filterable":1,
+			"ext":"https://ghproxy.com/raw.githubusercontent.com/YLEDE/TVBox/master/xpath/Fositv.json"
+		},
+		{
 			"key":"csp_XBPQ_buka",
 			"name":"真不卡",
 			"type":3,
@@ -245,16 +255,6 @@
 			"quickSearch":1,
 			"filterable":1,
 			"ext":"https://ghproxy.com/raw.githubusercontent.com/YLEDE/TVBox/master/xpath/jpys.json"
-		},
-		{
-			"key":"csp_XBPQ_Fositv",
-			"name":"Fositv",
-			"type":3,
-			"api":"csp_xBPQ",
-			"searchable":1,
-			"quickSearch":1,
-			"filterable":1,
-			"ext":"https://ghproxy.com/raw.githubusercontent.com/YLEDE/TVBox/master/xpath/Fositv.json"
 		},
 		{
 			"key":"csp_xBPQ_素白白",
