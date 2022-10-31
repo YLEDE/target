@@ -209,6 +209,16 @@
 			"ext":"https://raw.fastgit.org/YLEDE/TVBox/master/xpath/H.json"
 		},
 		{
+			"key":"csp_XYQHiker_duboku",
+			"name":"独播库",
+			"type":3,
+			"api":"csp_XYQHiker",
+			"searchable":1,
+			"quickSearch":1,
+			"filterable":1,
+			"ext":"https://raw.fastgit.org/YLEDE/TVBox/master/xpath/duboku.json"
+		},
+		{
 			"key":"csp_XBPQ_Fositv",
 			"name":"Fositv",
 			"type":3,
@@ -577,16 +587,6 @@
 			"quickSearch":1,
 			"filterable":0,
 			"ext":"https://raw.fastgit.org/YLEDE/TVBox/master/xpath/9ekk.json"
-		},
-		{
-			"key":"csp_xpath_duboku",
-			"name":"独播库",
-			"type":3,
-			"api":"csp_XPathFilter",
-			"searchable":1,
-			"quickSearch":1,
-			"filterable":1,
-			"ext":"https://raw.fastgit.org/YLEDE/TVBox/master/xpath/duboku.json"
 		},
 		{
 			"key":"csp_xpath_agefans",
