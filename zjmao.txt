@@ -95,6 +95,15 @@
 			"searchable":1
 		},
 		{
+			"key": "Zjdr",
+			"name": "追剧达人",
+			"type":3,
+			"api": "csp_Zjdr",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1
+		},
+		{
 			"key": "Bdys02",
 			"name": "哔嘀影视",
 			"type": 3,
@@ -572,7 +581,7 @@
 			"key":"csp_xpath_duboku",
 			"name":"独播库",
 			"type":3,
-			"api":"csp_XPathMacFilter",
+			"api":"csp_XPathFilter",
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":1,
