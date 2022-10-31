@@ -459,6 +459,16 @@
 			"ext":"https://raw.fastgit.org/YLEDE/TVBox/master/xpath/yanet.json"
 		},
 		{
+			"key":"csp_biubiu_mdtv",
+			"name":"麦豆TV",
+			"type":3,
+			"api":"csp_XBiubiu",
+			"searchable":1,
+			"quickSearch":1,
+			"filterable":1,
+			"ext":"https://raw.fastgit.org/YLEDE/TVBox/master/xpath/mdtv.json"
+		},
+		{
 			"key": "csp_XYQBiu_dmxq",
 			"name": "大米星球",
 			"type":3,
