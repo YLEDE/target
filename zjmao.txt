@@ -95,15 +95,6 @@
 			"searchable":1
 		},
 		{
-			"key": "Zjdr",
-			"name": "追剧达人",
-			"type":3,
-			"api": "csp_Zjdr",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1
-		},
-		{
 			"key": "Bdys02",
 			"name": "哔嘀影视",
 			"type": 3,
@@ -306,6 +297,16 @@
 			"quickSearch":1,
 			"filterable":0,
 			"ext": "https://raw.fastgit.org/YLEDE/TVBox/master/xpath/juhuang.json"
+		},
+		{
+			"key": "csp_XBPQ_Zjdr",
+			"name": "追剧达人",
+			"type":3,
+			"api": "csp_xBPQ",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1，
+			"ext":"https://raw.fastgit.org/YLEDE/TVBox/master/xpath/vipmv.json"
 		},
 		{
 			"key":"csp_biubiu_天空影视",
