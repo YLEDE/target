@@ -95,42 +95,13 @@
 			"searchable":1
 		},
 		{
-			"key":"csp_Ddrk",
-			"name":"低端影视",
+			"key": "Zjdr",
+			"name": "追剧达人",
 			"type":3,
-			"api":"csp_Ddrk",
-			"searchable":1,
-			"quickSearch":1,
-			"filterable":0
-		},
-		{
-			"key":"在线之家",
-			"name":"在线之家",
-			"type":3,
-			"api":"csp_Zxzj",
-			"searchable":1,
-			"quickSearch":1,
-			"filterable":1
-		},
-		{
-			"key":"spider_IKan",
-			"name":"爱看影视",
-			"type":3,
-			"api":"csp_Dora",
-			"quickSearch":1,
-			"searchable":1,
-			"filterable":1,
-			"ext":"a4ce9a4ba7d4f4bced2ff9dfc4ab4e50"
-		},
-		{
-			"key": "Smdyy",
-			"name": "神马影院",
-			"type": 3,
-			"api": "csp_Dora",
+			"api": "csp_Zjdr",
 			"searchable": 1,
 			"quickSearch": 1,
-			"filterable": 1,
-			"ext":"16705ee9f4764be8499806f52d4bf1e7"
+			"filterable": 1
 		},
 		{
 			"key": "Bdys02",
@@ -167,6 +138,44 @@
 			"filterable":1,
 			"quickSearch":1,
 			"searchable":1
+		},
+		{
+			"key":"csp_Ddrk",
+			"name":"低端影视",
+			"type":3,
+			"api":"csp_Ddrk",
+			"searchable":1,
+			"quickSearch":1,
+			"filterable":0
+		},
+		{
+			"key":"在线之家",
+			"name":"在线之家",
+			"type":3,
+			"api":"csp_Zxzj",
+			"searchable":1,
+			"quickSearch":1,
+			"filterable":1
+		},
+		{
+			"key":"spider_IKan",
+			"name":"爱看影视",
+			"type":3,
+			"api":"csp_Dora",
+			"quickSearch":1,
+			"searchable":1,
+			"filterable":1,
+			"ext":"a4ce9a4ba7d4f4bced2ff9dfc4ab4e50"
+		},
+		{
+			"key": "Smdyy",
+			"name": "神马影院",
+			"type": 3,
+			"api": "csp_Dora",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext":"16705ee9f4764be8499806f52d4bf1e7"
 		},
 		{
 			"key":"csp_GitCafe",
@@ -479,26 +488,6 @@
 			"ext": "https://raw.fastgit.org/YLEDE/TVBox/master/xpath/wnyy.json"
 		},
 		{
-			"key": "csp_XYQBiu_zjdr",
-			"name": "追剧达人",
-			"type": 3,
-			"api": "csp_XYQBiu",
-			"searchable":1,
-			"quickSearch":1,
-			"filterable":0,
-			"ext": "https://raw.fastgit.org/YLEDE/TVBox/master/xpath/vipmv.json"
-		},
-		{
-			"key": "csp_XYQBiu_duboku",
-			"name": "独播库",
-			"type": 3,
-			"api": "csp_XYQBiu",
-			"searchable":1,
-			"quickSearch":1,
-			"filterable":0,
-			"ext": "https://raw.fastgit.org/YLEDE/TVBox/master/xpath/duboku.json"
-		},
-		{
 			"key":"csp_xpath_wanmeikk",
 			"name":"完美看看",
 			"type":3,
@@ -587,7 +576,17 @@
 			"quickSearch":1,
 			"filterable":0,
 			"ext":"https://raw.fastgit.org/YLEDE/TVBox/master/xpath/9ekk.json"
-		},			
+		},
+		{
+			"key":"csp_xpath_duboku",
+			"name":"独播库",
+			"type":3,
+			"api":"csp_XPathMacFilter",
+			"searchable":1,
+			"quickSearch":1,
+			"filterable":1,
+			"ext":"https://raw.fastgit.org/YLEDE/TVBox/master/xpath/duboku.json"
+		},
 		{
 			"key":"csp_xpath_agefans",
 			"name":"Age动漫",
