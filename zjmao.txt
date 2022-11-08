@@ -8,7 +8,7 @@
 		{
 			"group":"redirect","channels":
 			[{
-				"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9yYXcuZmFzdGdpdC5vcmcvWUxFREUvVFZCb3gvbWFzdGVyL3R2L2xpdmUudHh0"]
+				"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRlZS5jb20vcGVuZzk4L2lwdHYvcmF3L21hc3Rlci8lRTclOUIlQjQlRTYlOTIlQUQlRTYlQkElOTAvJUU3JTlCJUI0JUU2JTkyJUFEMy50eHQ="]
 			}]
 		} 
 	],
