@@ -240,6 +240,16 @@
 			"ext":"https://raw.fastgit.org/YLEDE/TVBox/master/xpath/buka.json"
 		},
 		{
+			"key":"csp_XBPQ_kanlm",
+			"name":"看了么",
+			"type":3,
+			"api":"csp_xBPQ",
+			"searchable":1,
+			"quickSearch":1,
+			"filterable":0,
+			"ext":"https://raw.fastgit.org/YLEDE/TVBox/master/xpath/kanlm.json"
+		},
+		{
 			"key":"csp_XBPQ_jpys",
 			"name":"极品影视",
 			"type":3,
