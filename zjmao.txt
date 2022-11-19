@@ -1,7 +1,7 @@
 {
 	"wallpaper":"http://api.btstu.cn/sjbz/api.php?lx=fengjing&format=images",
 
-	"spider":"https://agit.ai/n3rd/N3RD/raw/branch/master/J/lem1118.jar",
+	"spider":"https://raw.fastgit.org/YLEDE/TVBox/master/tvbox.jar",
 	
 	"lives":
 	[
@@ -51,10 +51,10 @@
 			"filterable":1
 		},
 		{
-			"key":"csp_AppTT",
+			"key":"Tutu_spider",
 			"name":"图图影视",
 			"type":3,
-			"api":"csp_AppTT",
+			"api":"csp_TutuYs",
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":1
