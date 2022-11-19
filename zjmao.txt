@@ -57,7 +57,8 @@
 			"api":"csp_TutuYs",
 			"searchable":1,
 			"quickSearch":1,
-			"filterable":1
+			"filterable":1,
+                        "ext":"http://45.207.11.9:5628"
 		},
 		{
 			"key":"csp_Auete",
