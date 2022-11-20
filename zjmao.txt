@@ -141,15 +141,15 @@
 			"filterable":1
 		},
 		{
-			"key":"spider_Tutu",
-			"name":"图图影视",
-			"type":3,
-			"api":"csp_TutuYs",
-			"searchable":1,
-			"quickSearch":1,
-			"filterable":1,
-                        "ext":"http://45.207.11.9:5628"
-		},
+                        "key":"Tutu_spider",
+                        "name":"图图影视",
+                        "api":"csp_TutuYs",
+                        "type":3,
+                        "filterable":1,
+                        "quickSearch":1,
+                        "searchable":1,
+                        "ext":"http://45.207.11.9:4433"
+                },
 		{
 			"key":"spider_IKan",
 			"name":"爱看影视",
