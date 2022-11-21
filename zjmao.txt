@@ -15,15 +15,6 @@
 
 	"sites":[	
 		{
-			"key":"csp_Cokemv",
-			"name":"Cokemv",
-			"type":3,
-			"api":"csp_Cokemv",
-			"searchable":1,
-			"quickSearch":1,
-			"filterable":1
-		},
-		{
 			"key":"csp_77",
 			"name":"酷云七七",
 			"type":3,
@@ -114,6 +105,15 @@
 			"quickSearch":1,
 			"searchable":1
 		},
+                {
+                        "key":"csp_Tkys",
+                        "name":"天空影视",
+                        "type": 3,
+                        "api": "csp_Tkys",
+                        "searchable": 1,
+                        "quickSearch": 1,
+                        "filterable": 1
+                },
 		{
 			"key":"csp_Ddrk",
 			"name":"低端影视",
@@ -201,6 +201,17 @@
 			"quickSearch":1,
 			"filterable":0,
 			"ext":"https://raw.fastgit.org/YLEDE/TVBox/master/xpath/H.json"
+		},
+		{
+			"key":"csp_XBPQ_Cokemv",
+			"name":"Cokemv",
+			"type":3,
+			"api":"csp_xBPQ",
+			"searchable":1,
+			"quickSearch":1,
+			"filterable":1,
+			"filterable":0,
+			"ext":"https://raw.fastgit.org/YLEDE/TVBox/master/xpath/cokemv.json"
 		},
 		{
 			"key":"csp_XBPQ_Fositv",
