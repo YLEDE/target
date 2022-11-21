@@ -86,7 +86,6 @@
 			"quickSearch": 1,
 			"filterable": 1
 		},
-		
 		{
 			"key": "Dy1010",
 			"name": "双十电影",
