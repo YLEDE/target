@@ -95,15 +95,7 @@
 			"quickSearch": 1,
 			"filterable": 1
 		},
-		{
-			"key": "耐看电影",
-			"name": "耐看电影",
-			"type": 3,
-			"api": "csp_Nkdy",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1
-		},
+		
 		{
 			"key": "Dy1010",
 			"name": "双十电影",
@@ -271,14 +263,14 @@
 			"ext":"https://raw.fastgit.org/YLEDE/TVBox/master/xpath/subaibai.json"
 		},
 		{
-			"key": "csp_xBPQ_baibai",
-			"name": "剧白白",
+			"key": "csp_xBPQ_fqys",
+			"name": "番茄影视",
 			"type": 3,
 			"api": "csp_xBPQ",
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":0,
-			"ext": "https://raw.fastgit.org/YLEDE/TVBox/master/xpath/jubaibai.json"
+			"ext": "https://raw.fastgit.org/YLEDE/TVBox/master/xpath/fqys.json"
 		},
 		{
 			"key": "csp_xBPQ_ftys",
@@ -289,6 +281,17 @@
 			"quickSearch":1,
 			"filterable":0,
 			"ext": "https://raw.fastgit.org/YLEDE/TVBox/master/xpath/ftys.json"
+		},
+                {
+			"key": "csp_xBPQ_nkdy",
+			"name": "耐看电影",
+			"type": 3,
+			"api": "csp_xBPQ",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+                        "filterable":0,
+			"ext": "https://raw.fastgit.org/YLEDE/TVBox/master/xpath/nkdy.json"
 		},
 		{
 			"key":"csp_xBPQ_555",
