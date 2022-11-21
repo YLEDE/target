@@ -374,16 +374,6 @@
 			"ext": "https://raw.fastgit.org/YLEDE/TVBox/master/xpath/bxhd.json"
 		},
 		{
-			"key": "csp_xBPQ_dmxq",
-			"name": "大米星球",
-			"type":3,
-			"api": "csp_xBPQ",
-			"searchable":1,
-			"quickSearch":1,
-			"filterable":0,
-			"ext": "https://raw.fastgit.org/YLEDE/TVBox/master/xpath/dmxq.json"
-		},
-		{
 			"key":"csp_biubiu_星空影视",
 			"name":"星空影视",
 			"type":3,
@@ -492,6 +482,16 @@
 			"quickSearch":1,
 			"filterable":0,
 			"ext":"https://raw.fastgit.org/YLEDE/TVBox/master/xpath/yanet.json"
+		},
+		{
+			"key": "csp_XYQBiu_dmxq",
+			"name": "大米星球",
+			"type":3,
+			"api": "csp_XYQBiu",
+			"searchable":1,
+			"quickSearch":1,
+			"filterable":0,
+			"ext": "https://raw.fastgit.org/YLEDE/TVBox/master/xpath/dmxq.json"
 		},
 		{
 			"key":"csp_XYQBiu_city",
