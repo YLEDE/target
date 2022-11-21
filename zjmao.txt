@@ -374,6 +374,16 @@
 			"ext": "https://raw.fastgit.org/YLEDE/TVBox/master/xpath/bxhd.json"
 		},
 		{
+			"key": "csp_xBPQ_dmxq",
+			"name": "大米星球",
+			"type":3,
+			"api": "csp_xBPQ",
+			"searchable":1,
+			"quickSearch":1,
+			"filterable":0,
+			"ext": "https://raw.fastgit.org/YLEDE/TVBox/master/xpath/dmxq.json"
+		},
+		{
 			"key":"csp_biubiu_星空影视",
 			"name":"星空影视",
 			"type":3,
@@ -464,16 +474,6 @@
 			"ext": "https://raw.fastgit.org/YLEDE/TVBox/master/xpath/mzt.json"
 		},
 		{
-			"key":"csp_biubiu_nmtv",
-			"name":"牛马TV",
-			"type":3,
-			"api":"csp_XBiubiu",
-			"searchable":1,
-			"quickSearch":1,
-			"filterable":0,
-			"ext":"https://raw.fastgit.org/YLEDE/TVBox/master/xpath/nmtv.json"
-		},
-		{
 			"key":"csp_biubiu_rxjs",
 			"name":"锐行加速",
 			"type":3,
@@ -492,26 +492,6 @@
 			"quickSearch":1,
 			"filterable":0,
 			"ext":"https://raw.fastgit.org/YLEDE/TVBox/master/xpath/yanet.json"
-		},
-		{
-			"key":"csp_biubiu_mdtv",
-			"name":"麦豆TV",
-			"type":3,
-			"api":"csp_XBiubiu",
-			"searchable":1,
-			"quickSearch":1,
-			"filterable":1,
-			"ext":"https://raw.fastgit.org/YLEDE/TVBox/master/xpath/mdtv.json"
-		},
-		{
-			"key": "csp_XYQBiu_dmxq",
-			"name": "大米星球",
-			"type":3,
-			"api": "csp_XYQBiu",
-			"searchable":1,
-			"quickSearch":1,
-			"filterable":0,
-			"ext": "https://raw.fastgit.org/YLEDE/TVBox/master/xpath/dmxq.json"
 		},
 		{
 			"key":"csp_XYQBiu_city",
