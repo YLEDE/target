@@ -243,6 +243,16 @@
 			"ext":"https://raw.fastgit.org/YLEDE/TVBox/master/xpath/buka.json"
 		},
 		{
+			"key":"csp_XBPQ_zjtu",
+			"name":"追剧兔",
+			"type":3,
+			"api":"csp_xBPQ",
+			"searchable":1,
+			"quickSearch":1,
+			"filterable":0,
+			"ext":"https://raw.fastgit.org/YLEDE/TVBox/master/xpath/zjtu.json"
+		},
+		{
 			"key":"csp_XBPQ_kanlm",
 			"name":"看了么",
 			"type":3,
@@ -273,7 +283,7 @@
 			"ext":"https://raw.fastgit.org/YLEDE/TVBox/master/xpath/subaibai.json"
 		},
 		{
-			"key":"csp_xBPQ_jubaibai",
+			"key":"csp_xBPQ_剧白白",
 			"name":"剧白白",
 			"type":3,
 			"api":"csp_xBPQ",
