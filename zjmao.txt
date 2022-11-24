@@ -132,14 +132,14 @@
 			"filterable":1
 		},
 		{
-                        "key":"Tutu_spider",
-                        "name":"图图影视",
-                        "api":"csp_TutuYs",
-                        "type":3,
-                        "filterable":1,
-                        "quickSearch":1,
-                        "searchable":1,
-                        "ext":"http://45.207.11.9:4433"
+                        "key":"AppTT",
+                        "name":"图图",
+                        "type":"3",
+                        "api":"csp_Dora",
+                        "searchable":"1",
+                        "quickSearch":"1",
+                        "filterable":"1",
+                        "ext":"110c922de7d69804467fb83d3bb664b5"
                 },
 		{
 			"key":"spider_IKan",
@@ -271,6 +271,16 @@
 			"quickSearch":1,
 			"filterable":0,
 			"ext":"https://raw.fastgit.org/YLEDE/TVBox/master/xpath/subaibai.json"
+		},
+		{
+			"key":"csp_xBPQ_jubaibai",
+			"name":"剧白白",
+			"type":3,
+			"api":"csp_xBPQ",
+			"searchable":1,
+			"quickSearch":1,
+			"filterable":0,
+			"ext":"https://raw.fastgit.org/YLEDE/TVBox/master/xpath/jubaibai.json"
 		},
 		{
 			"key": "csp_xBPQ_fqys",
