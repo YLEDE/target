@@ -261,14 +261,14 @@
 			"ext":"https://raw.fastgit.org/YLEDE/TVBox/master/xpath/buka.json"
 		},
 		{
-			"key":"csp_XBPQ_zjtu",
-			"name":"追剧兔",
+			"key":"csp_XBPQ_phys",
+			"name":"胖虎影视",
 			"type":3,
 			"api":"csp_xBPQ",
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":0,
-			"ext":"https://raw.fastgit.org/YLEDE/TVBox/master/xpath/zjtu.json"
+			"ext":"https://raw.fastgit.org/YLEDE/TVBox/master/xpath/phys.json"
 		},
 		{
 			"key":"csp_XBPQ_kanlm",
