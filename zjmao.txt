@@ -56,16 +56,6 @@
                         "ext":"110c922de7d69804467fb83d3bb664b5"
                 },
 		{
-			"key":"csp_ZJMiao",
-			"name":"追剧喵",
-			"type":3,
-			"api":"csp_ZJMiao",
-			"playerType":2,
-			"searchable":1,
-			"quickSearch":1,
-			"filterable":1
-		},
-		{
 			"key":"csp_Auete",
 			"name":"Auete",
 			"type": 3,
@@ -111,15 +101,6 @@
 			"type":3,
 			"api":"csp_Dy1010",
 			"playerType":2,
-			"searchable":1,
-			"quickSearch":1,
-			"filterable":1
-		},
-		{
-			"key":"293视频",
-			"name":"293视频",
-			"type":3,
-			"api":"csp_SP293",
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":1
