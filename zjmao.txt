@@ -1,7 +1,7 @@
 {
 	"wallpaper":"http://api.btstu.cn/sjbz/api.php?lx=fengjing&format=images",
 
-	"spider":"https://ghproxy.com/raw.githubusercontent.com/YLEDE/TVBox/master/tvbox.jar",
+	"spider":"https://agit.ai/n3rd/N3RD/raw/branch/master/J/lem1127.jar",
 	
 	"lives":
 	[
