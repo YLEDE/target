@@ -222,6 +222,16 @@
 			"ext":"https://raw.fastgit.org/YLEDE/TVBox/master/xpath/cokemv.json"
 		},
 		{
+			"key":"csp_XBPQ_lgg",
+			"name":"落攻阁",
+			"type":3,
+			"api":"csp_xBPQ",
+			"searchable":1,
+			"quickSearch":1,
+			"filterable":0,
+			"ext":"https://raw.fastgit.org/YLEDE/TVBox/master/xpath/lgg.json"
+		},
+		{
 			"key":"csp_XBPQ_Fositv",
 			"name":"Fositv",
 			"type":3,
