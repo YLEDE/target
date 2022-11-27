@@ -90,7 +90,7 @@
 		{
 			"key":"csp_Auete",
 			"name":"Auete",
-			"type": 3,
+			"type":3,
 			"api":"csp_Auete",
 			"playerType":2,
 			"searchable":1,
@@ -119,23 +119,23 @@
 		},
 		{
 			"key":"csp_Lib",
-			"name": "Libvio",
-			"type": 3,
-			"api": "csp_Lib",
+			"name":"Libvio",
+			"type":3,
+			"api":"csp_Lib",
 			"playerType":2,
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1
+			"searchable":1,
+			"quickSearch":1,
+			"filterable":1
 		},
 		{
-			"key": "Bdys02",
-			"name": "哔嘀影视",
-			"type": 3,
-			"api": "csp_Bdys02",
+			"key":"Bdys01",
+			"name":"哔嘀影视",
+			"type":3,
+			"api":"csp_Bdys01",
 			"playerType":2,
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1
+			"searchable":1,
+			"quickSearch":1,
+			"filterable":1
 		},
 		{
 			"key":"csp_Dy1010",
@@ -189,13 +189,13 @@
 		},
 		{
 			"key":"csp_Tkys",
-			"name": "天空影视",
-			"type": 3,
-			"api": "csp_Tkys",
+			"name":"天空影视",
+			"type":3,
+			"api":"csp_Tkys",
 			"playerType":2,
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1
+			"searchable":1,
+			"quickSearch":1,
+			"filterable":1
 		},
 		{
 			"key":"csp_Nkdy",
@@ -239,14 +239,14 @@
 			"ext":"a4ce9a4ba7d4f4bced2ff9dfc4ab4e50"
 		},
 		{
-			"key": "csp_Smdyy",
-			"name": "神马影院",
-			"type": 3,
-			"api": "csp_Dora",
+			"key":"csp_Smdyy",
+			"name":"神马影院",
+			"type":3,
+			"api":"csp_Dora",
 			"playerType":2,
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
+			"searchable":1,
+			"quickSearch":1,
+			"filterable":1,
 			"ext":"16705ee9f4764be8499806f52d4bf1e7"
 		},
 		{
@@ -301,7 +301,7 @@
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":1,
-			"ext": "https://agit.ai/lem85930/OneClickRun/raw/branch/master/TXT/al.txt"
+			"ext":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/TXT/al.txt"
 		},
 		{
 			"key":"csp_Jianying",
@@ -315,14 +315,14 @@
 			"ext":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7IklEIjozNDc4MiwiQ3JlYXRlZEF0IjoiMjAyMi0wOS0yNlQxMTowOTo0Ni43NDkrMDg6MDAiLCJVcGRhdGVkQXQiOiIyMDIyLTEwLTA1VDEwOjAwOjU5LjA3KzA4OjAwIiwiRGVsZXRlZEF0IjpudWxsLCJ1c2VyX2VtYWlsIjoiNTg3ODEzNDlAcXEuY29tIiwidXNlcl9uYW1lIjoiIiwidXNlcl9wd2QiOiIiLCJ1c2VyX2lkIjoiNTkwOWIyYTMtNTUzOS00NWE3LTg2MjUtODIwZmIwM2M5YzUwIiwidXNlcl9hbnN3ZXIiOiIiLCJsb2NrX2lzIjoiRmFsc2UiLCJpc190diI6IiIsImlzX2FkbWluIjoiRmFsc2UiLCJyZWdfdGltZSI6IjIwMjItMTAtMDVUMTA6MDA6NTkuMDcrMDg6MDAiLCJyZWdfa2V5IjoiNzMwODE2MjAiLCJ0dl90aW1lIjpudWxsLCJ0dl9rZXkiOiIifSwiZXhwIjoxNjY2MzIxNzQ3LCJpc3MiOiJBbGZyZWRvIE1lbmRvemEifQ.P2etFz7ILSDaL4AEUs5-z9E7Vlt0LCJE-UZ1hUa5fYg"
 		},
 		{
-			"key": "csp_AppYsV2_MX",
-			"name": "MX影视",
-			"type": 3,
-			"api": "csp_AppYsV2",
+			"key":"csp_AppYsV2_MX",
+			"name":"MX影视",
+			"type":3,
+			"api":"csp_AppYsV2",
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":0,
-			"ext": "http://mkk.gotka.top/api.php/v1.vod"
+			"ext":"http://mkk.gotka.top/api.php/v1.vod"
 		},
 		{
 			"key":"csp_XYQHiker_氢视频",
@@ -335,14 +335,14 @@
 			"ext":"https://raw.fastgit.org/YLEDE/TVBox/master/xpath/H.json"
 		},
 		{
-			"key": "csp_XYQBiu_dmxq",
-			"name": "大米星球",
+			"key":"csp_XYQBiu_dmxq",
+			"name":"大米星球",
 			"type":3,
-			"api": "csp_XYQBiu",
+			"api":"csp_XYQBiu",
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":0,
-			"ext": "https://raw.fastgit.org/YLEDE/TVBox/master/xpath/dmxq.json"
+			"ext":"https://raw.fastgit.org/YLEDE/TVBox/master/xpath/dmxq.json"
 		},
 		{
 			"key":"csp_XBPQ_Cokemv",
@@ -487,14 +487,14 @@
 			"ext":"https://raw.fastgit.org/YLEDE/TVBox/master/xpath/dadagui.json"
 		},
 		{
-			"key": "csp_xBPQ_fqys",
-			"name": "番茄影视",
-			"type": 3,
-			"api": "csp_xBPQ",
+			"key":"csp_xBPQ_fqys",
+			"name":"番茄影视",
+			"type":3,
+			"api":"csp_xBPQ",
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":0,
-			"ext": "https://raw.fastgit.org/YLEDE/TVBox/master/xpath/fqys.json"
+			"ext":"https://raw.fastgit.org/YLEDE/TVBox/master/xpath/fqys.json"
 		},
 		{
 			"key":"csp_xBPQ_rxjs",
@@ -517,24 +517,24 @@
 			"ext": "https://raw.fastgit.org/YLEDE/TVBox/master/xpath/wnyy.json"
 		},
 		{
-			"key": "csp_XBPQ_juhuang",
-			"name": "剧荒",
-			"type": 3,
-			"api": "csp_xBPQ",
+			"key":"csp_XBPQ_juhuang",
+			"name":"剧荒",
+			"type":3,
+			"api":"csp_xBPQ",
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":0,
-			"ext": "https://raw.fastgit.org/YLEDE/TVBox/master/xpath/juhuang.json"
+			"ext":"https://raw.fastgit.org/YLEDE/TVBox/master/xpath/juhuang.json"
 		},
 		{
-			"key": "csp_xBPQ_bxhd",
-			"name": "宝仙HD",
-			"type": 3,
-			"api": "csp_xBPQ",
+			"key":"csp_xBPQ_bxhd",
+			"name":"宝仙HD",
+			"type":3,
+			"api":"csp_xBPQ",
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":0,
-			"ext": "https://raw.fastgit.org/YLEDE/TVBox/master/xpath/bxhd.json"
+			"ext":"https://raw.fastgit.org/YLEDE/TVBox/master/xpath/bxhd.json"
 		},
 
 		{
@@ -588,14 +588,14 @@
 			"ext":"https://raw.fastgit.org/YLEDE/TVBox/master/xpath/tvb.json"
 		},
 		{
-			"key": "csp_biubiu_hdmoli",
-			"name": "hdmoli",
-			"type": 3,
-			"api": "csp_XBiubiu",
+			"key":"csp_biubiu_hdmoli",
+			"name":"hdmoli",
+			"type":3,
+			"api":"csp_XBiubiu",
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":0,
-			"ext": "https://raw.fastgit.org/YLEDE/TVBox/master/xpath/hdmoli.json"
+			"ext":"https://raw.fastgit.org/YLEDE/TVBox/master/xpath/hdmoli.json"
 		},
 		{
 			"key":"csp_biubiu_newfii",
@@ -618,14 +618,14 @@
 			"ext":"https://raw.fastgit.org/YLEDE/TVBox/master/xpath/szx.json"
 		},
 		{
-			"key": "csp_xpath_348",
-			"name": "348电影",
-			"type": 3,
-			"api": "csp_XPathFilter",
+			"key":"csp_xpath_348",
+			"name":"348电影",
+			"type":3,
+			"api":"csp_XPathFilter",
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":0,
-			"ext": "https://raw.fastgit.org/YLEDE/TVBox/master/xpath/348z.json"
+			"ext":"https://raw.fastgit.org/YLEDE/TVBox/master/xpath/348z.json"
 		},
 		{
 			"key":"csp_xpath_wuguiyy",
@@ -655,17 +655,17 @@
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":0,
-			"ext": "https://raw.fastgit.org/YLEDE/TVBox/master/xpath/agefans.json"
+			"ext":"https://raw.fastgit.org/YLEDE/TVBox/master/xpath/agefans.json"
 		},
 		{
-			"key": "csp_xpath_dm84",
-			"name": "动漫巴士",
-			"type": 3,
-			"api": "csp_XPathFilter",
+			"key":"csp_xpath_dm84",
+			"name":"动漫巴士",
+			"type":3,
+			"api":"csp_XPathFilter",
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":0,
-			"ext": "https://raw.fastgit.org/YLEDE/TVBox/master/xpath/dm84.json"
+			"ext":"https://raw.fastgit.org/YLEDE/TVBox/master/xpath/dm84.json"
 		}
 	],
 	"parses":[
