@@ -48,7 +48,7 @@
                         "key":"csp_AppTT",
 			"name":"图图",
 			"type":3,
-			"api":"csp_Dora",
+			"api":"csp_AppTT",
 			"playerType":2,
 			"searchable":1,
 			"quickSearch":1,
