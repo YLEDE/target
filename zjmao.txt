@@ -53,7 +53,7 @@
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":1,
-                        "ext":"110c922de7d69804467fb83d3bb664b5"
+                        "ext":"http://110.42.6.212:7788"
                 },
 		{
 			"key":"csp_Auete",
