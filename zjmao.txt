@@ -165,10 +165,11 @@
 			"key":"csp_555",
 			"name":"555电影",
 			"type":3,
-			"api":"csp_Dy555",
+			"api":"csp_Dora",
 			"searchable":1,
 			"quickSearch":1,
-			"filterable":1
+			"filterable":1,
+                        "ext":"f41992bd740145ed58cb212dc0876582"
 		},
 		{
 			"key":"csp_Tkys",
