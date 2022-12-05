@@ -144,16 +144,6 @@
 			"filterable":1
 		},
 		{
-			"key":"csp_Czsapp",
-			"name":"厂长资源",
-			"type":"3",
-			"api":"csp_Dora",
-			"searchable":"1",
-			"quickSearch":"1",
-			"filterable":"1",
-			"ext":"8ee655f702d0d21f3643504783babbc3"
-		},
-		{
 			"key":"csp_Ysgc",
 			"name":"影视工厂",
 			"type":3,
@@ -349,6 +339,16 @@
 			"quickSearch":1,
 			"filterable":0,
 			"ext":"https://raw.fastgit.org/YLEDE/TVBox/master/xpath/Nike.json"
+		},
+		{
+			"key":"csp_xBPQ_czzy",
+			"name":"厂长资源",
+			"type":3,
+			"api":"csp_xBPQ",
+			"searchable":1,
+			"quickSearch":1,
+			"filterable":0,
+			"ext":"https://raw.fastgit.org/YLEDE/TVBox/master/xpath/czzy.json"
 		},
 		{
 			"key":"csp_xBPQ_mzt",
