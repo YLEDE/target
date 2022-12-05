@@ -16,7 +16,7 @@
 	"sites":[
 		{
 			"key":"t4",
-			"name":"豆瓣推荐",
+			"name":"首页",
 			"type":4,
 			"api":"http://t4.ganggang.live:3812/vod",
 			"searchable": 0,
