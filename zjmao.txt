@@ -629,26 +629,6 @@
 			"quickSearch":1,
 			"filterable":0,
 			"ext":"https://raw.fastgit.org/YLEDE/TVBox/master/xpath/9ekk.json"
-		},
-		{
-			"key":"csp_xpath_agefans",
-			"name":"Age动漫",
-			"type":3,
-			"api":"csp_XPath",
-			"searchable":1,
-			"quickSearch":1,
-			"filterable":0,
-			"ext":"https://raw.fastgit.org/YLEDE/TVBox/master/xpath/agefans.json"
-		},
-		{
-			"key":"csp_xpath_dm84",
-			"name":"动漫巴士",
-			"type":3,
-			"api":"csp_XPathFilter",
-			"searchable":1,
-			"quickSearch":1,
-			"filterable":0,
-			"ext":"https://raw.fastgit.org/YLEDE/TVBox/master/xpath/dm84.json"
 		}
 	],
 	"parses":[
