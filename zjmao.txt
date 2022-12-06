@@ -147,11 +147,10 @@
 			"key":"csp_Czsapp",
 			"name":"厂长资源",
 			"type":3,
-			"api":"csp_Dora",
+			"api":"csp_Czsapp",
 			"searchable":1,
 			"quickSearch":1,
-			"filterable":1,
-			"ext":"8ee655f702d0d21f3643504783babbc3"
+			"filterable":1
 		},
 		{
 			"key":"csp_Ysgc",
