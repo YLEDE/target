@@ -329,16 +329,15 @@
 			"filterable":0,
 			"ext":"https://raw.fastgit.org/YLEDE/TVBox/master/xpath/cokemv.json"
 		},
-		{
-			"key":"csp_XBPQ_Lezhu",
-			"name":"乐猪影视",
+                {
+			"key":"csp_XBPQ_HDIK",
+			"name":"HDIK",
 			"type":3,
 			"api":"csp_xBPQ",
 			"searchable":1,
 			"quickSearch":1,
-			"filterable":1,
 			"filterable":0,
-			"ext":"https://raw.fastgit.org/YLEDE/TVBox/master/xpath/lezhutv.json"
+			"ext":"https://raw.fastgit.org/YLEDE/TVBox/master/xpath/HDIK.json"
 		},
 		{
 			"key":"csp_xBPQ_nike",
@@ -351,7 +350,17 @@
 			"ext":"https://raw.fastgit.org/YLEDE/TVBox/master/xpath/Nike.json"
 		},
 		{
-			"key":"csp_xBPQ_mzt",
+			"key":"csp_XBPQ_FREEOK",
+			"name":"FREEOK",
+			"type":3,
+			"api":"csp_xBPQ",
+			"searchable":1,
+			"quickSearch":1,
+			"filterable":0,
+			"ext":"https://raw.fastgit.org/YLEDE/TVBox/master/xpath/FREEOK.json"
+		},
+                {
+                        "key":"csp_xBPQ_mzt",
 			"name":"莫扎兔",
 			"type":3,
 			"api":"csp_xBPQ",
@@ -371,15 +380,16 @@
 			"ext":"https://raw.fastgit.org/YLEDE/TVBox/master/xpath/city.json"
 		},
 		{
-			"key":"csp_XBPQ_FREEOK",
-			"name":"FREEOK",
+			"key":"csp_XBPQ_Lezhu",
+			"name":"乐猪影视",
 			"type":3,
 			"api":"csp_xBPQ",
 			"searchable":1,
 			"quickSearch":1,
+			"filterable":1,
 			"filterable":0,
-			"ext":"https://raw.fastgit.org/YLEDE/TVBox/master/xpath/FREEOK.json"
-		},
+			"ext":"https://raw.fastgit.org/YLEDE/TVBox/master/xpath/lezhutv.json"
+		},	
 		{
 			"key":"csp_XBPQ_buka",
 			"name":"真不卡",
@@ -510,7 +520,6 @@
 			"filterable":0,
 			"ext":"https://raw.fastgit.org/YLEDE/TVBox/master/xpath/bxhd.json"
 		},
-
 		{
 			"key":"csp_XBPQ_lgg",
 			"name":"落攻阁",
