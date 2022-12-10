@@ -144,15 +144,6 @@
 			"filterable":1
 		},
 		{
-			"key":"csp_Czsapp",
-			"name":"厂长资源",
-			"type":3,
-			"api":"csp_Czsapp",
-			"searchable":1,
-			"quickSearch":1,
-			"filterable":1
-		},
-		{
 			"key":"csp_Ysgc",
 			"name":"影视工厂",
 			"type":3,
@@ -340,7 +331,7 @@
 			"ext":"https://raw.fastgit.org/YLEDE/TVBox/master/xpath/HDIK.json"
 		},
 		{
-			"key":"csp_xBPQ_nike",
+			"key":"csp_XBPQ_nike",
 			"name":"Nike",
 			"type":3,
 			"api":"csp_xBPQ",
@@ -359,8 +350,18 @@
 			"filterable":0,
 			"ext":"https://raw.fastgit.org/YLEDE/TVBox/master/xpath/FREEOK.json"
 		},
+		{
+			"key":"csp_XBPQ_czspp",
+			"name":"厂长资源",
+			"type":3,
+			"api":"csp_xBPQ",
+			"searchable":1,
+			"quickSearch":1,
+			"filterable":1,
+                        "ext":"https://raw.fastgit.org/YLEDE/TVBox/master/xpath/czspp.json"
+		},
                 {
-                        "key":"csp_xBPQ_mzt",
+                        "key":"csp_XBPQ_mzt",
 			"name":"莫扎兔",
 			"type":3,
 			"api":"csp_xBPQ",
@@ -370,7 +371,7 @@
 			"ext":"https://raw.fastgit.org/YLEDE/TVBox/master/xpath/mzt.json"
 		},
 		{
-			"key":"csp_xBPQ_city",
+			"key":"csp_XBPQ_city",
 			"name":"城市电影",
 			"type":3,
 			"api":"csp_xBPQ",
@@ -431,7 +432,7 @@
 			"ext":"https://raw.fastgit.org/YLEDE/TVBox/master/xpath/dyhz.json"
 		},
 		{
-			"key":"csp_xBPQ_素白白",
+			"key":"csp_XBPQ_素白白",
 			"name":"素白白",
 			"type":3,
 			"api":"csp_xBPQ",
@@ -441,7 +442,7 @@
 			"ext":"https://raw.fastgit.org/YLEDE/TVBox/master/xpath/subaibai.json"
 		},
 		{
-			"key":"csp_xBPQ_剧白白",
+			"key":"csp_XBPQ_剧白白",
 			"name":"剧白白",
 			"type":3,
 			"api":"csp_xBPQ",
@@ -451,7 +452,7 @@
 			"ext":"https://raw.fastgit.org/YLEDE/TVBox/master/xpath/jubaibai.json"
 		},
 		{
-			"key":"csp_xBPQ_xgys",
+			"key":"csp_XBPQ_xgys",
 			"name":"溪谷影视",
 			"type":3,
 			"api":"csp_xBPQ",
@@ -461,7 +462,7 @@
 			"ext":"https://raw.fastgit.org/YLEDE/TVBox/master/xpath/xgys.json"
 		},
 		{
-			"key":"csp_xBPQ_ddg",
+			"key":"csp_XBPQ_ddg",
 			"name":"达达龟",
 			"type":3,
 			"api":"csp_xBPQ",
@@ -471,7 +472,7 @@
 			"ext":"https://raw.fastgit.org/YLEDE/TVBox/master/xpath/dadagui.json"
 		},
 		{
-			"key":"csp_xBPQ_fqys",
+			"key":"csp_XBPQ_fqys",
 			"name":"番茄影视",
 			"type":3,
 			"api":"csp_xBPQ",
@@ -481,7 +482,7 @@
 			"ext":"https://raw.fastgit.org/YLEDE/TVBox/master/xpath/fqys.json"
 		},
 		{
-			"key":"csp_xBPQ_rxjs",
+			"key":"csp_XBPQ_rxjs",
 			"name":"️锐行加速",
 			"type":3,
 			"api":"csp_xBPQ",
@@ -491,7 +492,7 @@
 			"ext":"https://raw.fastgit.org/YLEDE/TVBox/master/xpath/rxjs.json"
 		},
 		{
-			"key":"csp_xBPQ_wnys",
+			"key":"csp_XBPQ_wnys",
 			"name":"万能影视",
 			"type":3,
 			"api":"csp_xBPQ",
@@ -511,7 +512,7 @@
 			"ext":"https://raw.fastgit.org/YLEDE/TVBox/master/xpath/juhuang.json"
 		},
 		{
-			"key":"csp_xBPQ_bxhd",
+			"key":"csp_XBPQ_bxhd",
 			"name":"宝仙HD",
 			"type":3,
 			"api":"csp_xBPQ",
