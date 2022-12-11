@@ -126,15 +126,6 @@
 			"filterable":1
 		},
 		{
-			"key":"Bdys02",
-			"name":"哔嘀影视",
-			"type":3,
-			"api":"csp_Bdys02",
-			"searchable":1,
-			"quickSearch":1,
-			"filterable":1
-		},
-		{
 			"key":"csp_Dy1010",
 			"name":"双十电影",
 			"type":3,
@@ -169,7 +160,8 @@
 			"api":"csp_Czsapp",
 			"searchable":1,
 			"quickSearch":1,
-			"filterable":1
+			"filterable":1,
+			"jar":"https://ghproxy.com/raw.githubusercontent.com/zhanghong1983/TVBOXZY/main/JAR/Yoursmile.jar"
 		},
 		{
 			"key":"csp_Tkys",
@@ -256,6 +248,15 @@
 			"filterable":1,
 			"quickSearch":1,
 			"searchable":1
+		},		
+		{
+			"key":"Bdys02",
+			"name":"哔嘀影视",
+			"type":3,
+			"api":"csp_Bdys02",
+			"searchable":1,
+			"quickSearch":1,
+			"filterable":1
 		},
 		{
 			"key":"csp_Ddrk",
