@@ -163,14 +163,13 @@
                         "ext":"f41992bd740145ed58cb212dc0876582"
 		},
 		{
-			"key":"csp_czspp",
+			"key":"csp_Czsapp",
 			"name":"厂长资源",
 			"type":3,
-			"api":"csp_czspp",
+			"api":"csp_Czsapp",
 			"searchable":1,
 			"quickSearch":1,
-			"filterable":1,
-                        "jar":"https://ghproxy.com/raw.githubusercontent.com/zhanghong1983/TVBOXZY/main/JAR/Yoursmile.jar"
+			"filterable":1
 		},
 		{
 			"key":"csp_Tkys",
