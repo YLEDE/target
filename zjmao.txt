@@ -194,7 +194,7 @@
 			"key":"csp_Zjdr",
 			"name":"追剧达人",
 			"type":3,
-			"api":"csp_Dora",
+			"api":"csp_Zjdr",
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":1,
