@@ -16,7 +16,7 @@
 	"sites":[
 		{
 			"key":"csp_apple",
-			"name":"小苹果",
+			"name":"苹果",
 			"type":3,
 			"api":"csp_LiteApple",
 			"searchable":1,
@@ -61,35 +61,6 @@
 			"filterable":1
 		},
 		{
-			"key":"csp_Nmys",
-			"name":"农民影视",
-			"type":3,
-			"api":"csp_Nmys",
-			"searchable":1,
-			"quickSearch":1,
-			"filterable":1,
-			"ext":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/XB/Nmys.json"
-		},
-		{
-			"key":"csp_Pang",
-			"name":"胖虎影视",
-			"type":3,
-			"api":"csp_Dora",
-			"searchable":1,
-			"quickSearch":1,
-			"filterable":1,
-			"ext":"c41fdb671b20925c76fa9b6ff8bad027"
-		},
-		{
-			"key":"csp_Lgyy",
-			"name":"蓝光影视",
-			"type":3,
-			"api":"csp_Lgyy",
-			"searchable":1,
-			"quickSearch":1,
-			"filterable":1
-		},
-		{
 			"key":"csp_Auete",
 			"name":"Auete",
 			"type":3,
@@ -124,28 +95,10 @@
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":1
-		},
-		{
-			"key":"csp_Dy1010",
-			"name":"双十电影",
-			"type":3,
-			"api":"csp_Dy1010",
-			"searchable":1,
-			"quickSearch":1,
-			"filterable":1
-		},
-		{
-			"key":"csp_Ysgc",
-			"name":"影视工厂",
-			"type":3,
-			"api":"csp_Ysgc",
-			"searchable":1,
-			"quickSearch":1,
-			"filterable":1
-		},
+		},	
 		{
 			"key":"csp_555",
-			"name":"555电影",
+			"name":"555",
 			"type":3,
 			"api":"csp_Dora",
 			"searchable":1,
@@ -154,18 +107,64 @@
                         "ext":"f41992bd740145ed58cb212dc0876582"
 		},
 		{
+			"key":"csp_Dy1010",
+			"name":"双十",
+			"type":3,
+			"api":"csp_Dy1010",
+			"searchable":1,
+			"quickSearch":1,
+			"filterable":1
+		},
+		{
+			"key":"csp_Ysgc",
+			"name":"工厂",
+			"type":3,
+			"api":"csp_Ysgc",
+			"searchable":1,
+			"quickSearch":1,
+			"filterable":1
+		},
+		{
+			"key":"csp_Lgyy",
+			"name":"蓝光",
+			"type":3,
+			"api":"csp_Lgyy",
+			"searchable":1,
+			"quickSearch":1,
+			"filterable":1
+		},
+		{
+			"key":"csp_Pang",
+			"name":"胖虎",
+			"type":3,
+			"api":"csp_Dora",
+			"searchable":1,
+			"quickSearch":1,
+			"filterable":1,
+			"ext":"c41fdb671b20925c76fa9b6ff8bad027"
+		},
+		{
+			"key":"csp_Nmys",
+			"name":"农民",
+			"type":3,
+			"api":"csp_Nmys",
+			"searchable":1,
+			"quickSearch":1,
+			"filterable":1,
+			"ext":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/XB/Nmys.json"
+		},
+		{
 			"key":"csp_Czsapp",
-			"name":"厂长资源",
+			"name":"厂长",
 			"type":3,
 			"api":"csp_Czsapp",
 			"searchable":1,
 			"quickSearch":1,
-			"filterable":1,
-			"jar":"https://ghproxy.com/raw.githubusercontent.com/zhanghong1983/TVBOXZY/main/JAR/Yoursmile.jar"
+			"filterable":1
 		},
 		{
 			"key":"csp_Tkys",
-			"name":"天空影视",
+			"name":"天空",
 			"type":3,
 			"api":"csp_Tkys",
 			"searchable":1,
@@ -174,7 +173,7 @@
 		},
 		{
 			"key":"csp_Nkdy",
-			"name":"耐看影视",
+			"name":"南柯",
 			"type":3,
 			"api":"csp_Nkdy",
 			"searchable":1,
@@ -183,7 +182,7 @@
 		},
 		{
 			"key":"csp_Wmkk",
-			"name":"完美看看",
+			"name":"完美",
 			"type":3,
 			"api":"csp_Wmkk",
 			"searchable":1,
@@ -192,17 +191,16 @@
 		},
 		{
 			"key":"csp_Zjdr",
-			"name":"追剧达人",
+			"name":"追剧",
 			"type":3,
 			"api":"csp_Zjdr",
 			"searchable":1,
 			"quickSearch":1,
-			"filterable":1,
-                        "jar":"https://ghproxy.com/raw.githubusercontent.com/zhanghong1983/TVBOXZY/main/JAR/Yoursmile.jar"
+			"filterable":1
 		},
 		{
 			"key":"spider_IKan",
-			"name":"爱看影视",
+			"name":"爱看",
 			"type":3,
 			"api":"csp_Dora",
 			"quickSearch":1,
@@ -212,13 +210,23 @@
 		},
 		{
 			"key":"csp_Smdyy",
-			"name":"神马影院",
+			"name":"神马",
 			"type":3,
 			"api":"csp_Dora",
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":1,
 			"ext":"16705ee9f4764be8499806f52d4bf1e7"
+		},	
+		{
+			"key":"YQK_spider",
+			"name":"一起看",
+			"api":"csp_YQKAPP",
+			"type":3,
+			"filterable":1,
+			"quickSearch":1,
+			"searchable":1,
+			"ext":"https://api-tx.shumaxc.xyz"
 		},
 		{
 			"key":"csp_Yanet",
@@ -231,18 +239,8 @@
 			"ext":"a369b1f623fe86605f1b029f0cf66349"
 		},
 		{
-			"key":"YQK_spider",
-			"name":"一起看TV",
-			"api":"csp_YQKAPP",
-			"type":3,
-			"filterable":1,
-			"quickSearch":1,
-			"searchable":1,
-			"ext":"https://api-tx.shumaxc.xyz"
-		},
-		{
 			"key":"csp_360",
-			"name":"360影视",
+			"name":"360",
 			"api":"csp_SP360",
 			"type":3,
 			"filterable":1,
@@ -251,7 +249,7 @@
 		},		
 		{
 			"key":"Bdys02",
-			"name":"哔嘀影视",
+			"name":"哔嘀",
 			"type":3,
 			"api":"csp_Bdys02",
 			"searchable":1,
@@ -260,7 +258,7 @@
 		},
 		{
 			"key":"csp_Ddrk",
-			"name":"低端影视",
+			"name":"低端",
 			"type":3,
 			"api":"csp_Ddrk",
 			"click": "ddys.tv;#vjsp > button",
@@ -270,7 +268,7 @@
 		},
 		{
 			"key":"csp_GitCafe",
-			"name":"小纸条",
+			"name":"纸条",
 			"type":3,
 			"api":"csp_Gitcafe",
 			"playerType":1,
