@@ -231,6 +231,15 @@
 			"searchable":1,
 			"ext":"https://api-tx.shumaxc.xyz"
 		},
+                {
+                        "key":"csp_Dy6080",
+                        "name":"新视觉",
+                        "type":3,
+                        "api":"csp_Dy6080",
+                        "searchable":1,
+                        "quickSearch":1,
+                        "filterable":1
+                },
 		{
 			"key":"csp_Yanet",
 			"name":"鸭奈飞",
@@ -350,6 +359,16 @@
 			"quickSearch":1,
 			"filterable":0,
 			"ext":"https://raw.fastgit.org/YLEDE/TVBox/master/xpath/Nike.json"
+		},
+		{
+			"key":"csp_XBPQ_Fositv",
+			"name":"Fositv",
+			"type":3,
+			"api":"csp_xBPQ",
+			"searchable":1,
+			"quickSearch":1,
+			"filterable":0,
+			"ext":"https://raw.fastgit.org/YLEDE/TVBox/master/xpath/Fositv.json"
 		},
 		{
 			"key":"csp_XBPQ_FREEOK",
