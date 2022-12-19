@@ -163,7 +163,7 @@
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":1,
-			"jar":"https://ghproxy.com/raw.githubusercontent.com/zhanghong1983/TVBOXZY/main/JAR/Yoursmile.jar"
+			"jar":"https://ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/jar/xo.jar"
 		},
 		{
 			"key":"csp_Tkys",
