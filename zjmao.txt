@@ -361,6 +361,16 @@
 			"ext":"https://raw.fastgit.org/YLEDE/TVBox/master/xpath/Nike.json"
 		},
 		{
+			"key":"csp_XBPQ_Fositv",
+			"name":"Fositv",
+			"type":3,
+			"api":"csp_xBPQ",
+			"searchable":1,
+			"quickSearch":1,
+			"filterable":0,
+			"ext":"https://raw.fastgit.org/YLEDE/TVBox/master/xpath/Fositv.json"
+		},
+		{
 			"key":"csp_XBPQ_FREEOK",
 			"name":"FREEOK",
 			"type":3,
