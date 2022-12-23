@@ -112,8 +112,7 @@
 			"api":"csp_Dy1010",
 			"searchable":1,
 			"quickSearch":1,
-			"filterable":1,
-			"jar":"https://gitlab.com/mai008/mt/-/raw/master/jarcf/Yoursmile.jar"
+			"filterable":1
 		},
 		{
 			"key":"csp_Ysgc",
@@ -159,8 +158,7 @@
 			"api":"csp_Czsapp",
 			"searchable":1,
 			"quickSearch":1,
-			"filterable":1,
-			"jar":"https://ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/jar/xo.jar"
+			"filterable":1
 		},
 		{
 			"key":"csp_Tkys",
@@ -188,7 +186,7 @@
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":1,
-			"jar":"https://gitlab.com/mai008/mt/-/raw/master/jarcf/Yoursmile.jar"
+			"jar":"https://agit.ai/n3rd/N3RD/raw/branch/master/J/lem1216.jar"
 		},
 		{
 			"key":"csp_Zjdr",
@@ -200,17 +198,6 @@
 			"filterable":1
 		},
 		{
-			"key":"spider_IKan",
-			"name":"爱看",
-			"type":3,
-			"api":"csp_Dora",
-			"quickSearch":1,
-			"searchable":1,
-			"filterable":1,
-			"jar":"https://ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/jar/cs.jar",
-			"ext":"a4ce9a4ba7d4f4bced2ff9dfc4ab4e50"
-		},
-		{
 			"key":"csp_Smdyy",
 			"name":"神马",
 			"type":3,
@@ -218,18 +205,8 @@
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":1
-		},	
-		{
-			"key":"YQK_spider",
-			"name":"一起看",
-			"api":"csp_Dora",
-			"type":3,
-			"filterable":1,
-			"quickSearch":1,
-			"searchable":1,
-			"jar":"https://ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/jar/cs.jar",
-			"ext":"8e3aefcba838d8dc5102ac786719d837"
 		},
+		
                 {
                         "key":"csp_Xinsj",
                         "name":"新视觉",
@@ -239,17 +216,6 @@
                         "quickSearch":1,
                         "filterable":1
                 },
-		{
-			"key":"csp_Yanet",
-			"name":"鸭奈飞",
-			"type":3,
-			"api":"csp_Dora",
-			"searchable":1,
-			"quickSearch":1,
-			"filterable":1,
-			"jar":"https://ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/jar/cs.jar",
-			"ext":"a369b1f623fe86605f1b029f0cf66349"
-		},
 		{
 			"key":"csp_360",
 			"name":"360",
@@ -279,7 +245,41 @@
 			"filterable":1
 		},
 		{
-			"key":"csp_GitCafe",
+			"key":"spider_IKan",
+			"name":"爱看",
+			"type":3,
+			"api":"csp_Dora",
+			"quickSearch":1,
+			"searchable":1,
+			"filterable":1,
+			"ext":"a4ce9a4ba7d4f4bced2ff9dfc4ab4e50",
+			"jar":"https://ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/jar/cs.jar"
+			
+		},
+		{
+			"key":"YQK_spider",
+			"name":"一起看",
+			"api":"csp_Dora",
+			"type":3,
+			"filterable":1,
+			"quickSearch":1,
+			"searchable":1,
+			"jar":"https://ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/jar/cs.jar",
+			"ext":"8e3aefcba838d8dc5102ac786719d837"
+		},
+		{
+			"key":"csp_Yanet",
+			"name":"鸭奈飞",
+			"type":3,
+			"api":"csp_Dora",
+			"searchable":1,
+			"quickSearch":1,
+			"filterable":1,
+			"jar":"https://ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/jar/cs.jar",
+			"ext":"a369b1f623fe86605f1b029f0cf66349"
+		},
+		{
+			"key":"csp_Gitcafe",
 			"name":"纸条",
 			"type":3,
 			"api":"csp_Gitcafe",
@@ -287,8 +287,8 @@
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":1,
-			"jar":"https://ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/jar/cs.jar",
-			"ext":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/TXT/al.txt"
+			"jar":"https://agit.ai/n3rd/N3RD/raw/branch/master/J/lem1216.jar"
+			"ext":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/TXT/al.txt
 		},
 		{
 			"key":"csp_Jianying",
