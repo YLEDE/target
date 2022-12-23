@@ -133,10 +133,10 @@
 			"filterable":1
 		},
 		{
-			"key":"csp_Pang",
+			"key":"csp_Panghu",
 			"name":"胖虎",
 			"type":3,
-			"api":"csp_Dora",
+			"api":"csp_Panghu",
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":1
