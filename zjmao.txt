@@ -225,7 +225,7 @@
 			"searchable":1
 		},		
 		{
-			"key":"Bdys02",
+			"key":"Bdys01",
 			"name":"哔嘀",
 			"type":3,
 			"api":"csp_Bdys01",
