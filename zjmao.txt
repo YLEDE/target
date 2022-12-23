@@ -1,7 +1,7 @@
 {
 	"wallpaper":"http://api.btstu.cn/sjbz/api.php?lx=fengjing&format=images",
 
-	"spider":"https://ghproxy.com/raw.githubusercontent.com/zhanghong1983/TVBOXZY/main/JAR/Yoursmile.jar",
+	"spider":"https://ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/jar/xo.txt",
 
 	"lives":
 	[
