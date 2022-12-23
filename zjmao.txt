@@ -1,7 +1,7 @@
 {
 	"wallpaper":"http://api.btstu.cn/sjbz/api.php?lx=fengjing&format=images",
 
-	"spider":"https://ghproxy.com/raw.githubusercontent.com/YLEDE/TVBox/master/tvbox.jar",
+	"spider":"https://ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/jar/xo.txt",
 
 	"lives":
 	[
@@ -45,11 +45,11 @@
 			"key":"csp_AppTT",
 			"name":"图图",
 			"type":3,
-			"api":"csp_Dora",
+			"api":"csp_AppTT",
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":1,
-			"ext":"110c922de7d69804467fb83d3bb664b5"
+			"ext":"http://121.205.88.126:7788"
 		},
 		{
 			"key":"csp_fant",
@@ -100,11 +100,10 @@
 			"key":"csp_555",
 			"name":"555",
 			"type":3,
-			"api":"csp_Dora",
+			"api":"csp_Dy555",
 			"searchable":1,
 			"quickSearch":1,
-			"filterable":1,
-                        "ext":"f41992bd740145ed58cb212dc0876582"
+			"filterable":1
 		},
 		{
 			"key":"csp_Dy1010",
@@ -113,7 +112,8 @@
 			"api":"csp_Dy1010",
 			"searchable":1,
 			"quickSearch":1,
-			"filterable":1
+			"filterable":1,
+			"jar":"https://gitlab.com/mai008/mt/-/raw/master/jarcf/Yoursmile.jar"
 		},
 		{
 			"key":"csp_Ysgc",
@@ -122,8 +122,7 @@
 			"api":"csp_Ysgc",
 			"searchable":1,
 			"quickSearch":1,
-			"filterable":1,
-			"jar":"https://ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/jar/xo.jar"
+			"filterable":1
 		},
 		{
 			"key":"csp_Lgyy",
@@ -132,8 +131,7 @@
 			"api":"csp_Lgyy",
 			"searchable":1,
 			"quickSearch":1,
-			"filterable":1,
-			"jar":"https://ghproxy.com/raw.githubusercontent.com/zhanghong1983/TVBOXZY/main/JAR/Yoursmile.jar"
+			"filterable":1
 		},
 		{
 			"key":"csp_Pang",
@@ -142,9 +140,7 @@
 			"api":"csp_Dora",
 			"searchable":1,
 			"quickSearch":1,
-			"filterable":1,
-			"ext":"c41fdb671b20925c76fa9b6ff8bad027"
-		},
+			"filterable":1
 		{
 			"key":"csp_Nmys",
 			"name":"农民",
@@ -190,7 +186,8 @@
 			"api":"csp_Wmkk",
 			"searchable":1,
 			"quickSearch":1,
-			"filterable":1
+			"filterable":1,
+			"jar":"https://gitlab.com/mai008/mt/-/raw/master/jarcf/Yoursmile.jar"
 		},
 		{
 			"key":"csp_Zjdr",
@@ -209,33 +206,34 @@
 			"quickSearch":1,
 			"searchable":1,
 			"filterable":1,
+			"jar":"https://ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/jar/cs.jar",
 			"ext":"a4ce9a4ba7d4f4bced2ff9dfc4ab4e50"
 		},
 		{
 			"key":"csp_Smdyy",
 			"name":"神马",
 			"type":3,
-			"api":"csp_Dora",
+			"api":"csp_Smdyy",
 			"searchable":1,
 			"quickSearch":1,
-			"filterable":1,
-			"ext":"16705ee9f4764be8499806f52d4bf1e7"
+			"filterable":1
 		},	
 		{
 			"key":"YQK_spider",
 			"name":"一起看",
-			"api":"csp_YQKAPP",
+			"api":"csp_Dora",
 			"type":3,
 			"filterable":1,
 			"quickSearch":1,
 			"searchable":1,
-			"ext":"https://api-tx.shumaxc.xyz"
+			"jar":"https://ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/jar/cs.jar",
+			"ext":"8e3aefcba838d8dc5102ac786719d837"
 		},
                 {
-                        "key":"csp_Dy6080",
+                        "key":"csp_Xinsj",
                         "name":"新视觉",
                         "type":3,
-                        "api":"csp_Dy6080",
+                        "api":"csp_Xinsj",
                         "searchable":1,
                         "quickSearch":1,
                         "filterable":1
@@ -248,6 +246,7 @@
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":1,
+			"jar":"https://ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/jar/cs.jar",
 			"ext":"a369b1f623fe86605f1b029f0cf66349"
 		},
 		{
@@ -263,7 +262,7 @@
 			"key":"Bdys02",
 			"name":"哔嘀",
 			"type":3,
-			"api":"csp_Bdys02",
+			"api":"csp_Bdys01",
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":1
@@ -287,6 +286,7 @@
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":1,
+			"jar":"https://ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/jar/cs.jar",
 			"ext":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/TXT/al.txt"
 		},
 		{
