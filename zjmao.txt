@@ -287,7 +287,7 @@
 			"quickSearch":1,
 			"filterable":1,
 			"jar":"https://agit.ai/n3rd/N3RD/raw/branch/master/J/lem1216.jar",
-			"ext":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/TXT/al.txt"
+			"ext":"http://ali.饭太硬.ml/tok"
 		},
 		{
 			"key":"csp_Jianying",
