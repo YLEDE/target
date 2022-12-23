@@ -484,14 +484,14 @@
 			"ext":"https://raw.fastgit.org/YLEDE/TVBox/master/xpath/dadagui.json"
 		},
 		{
-			"key":"csp_XBPQ_fqys",
-			"name":"番茄影视",
+			"key":"csp_XBPQ_blys",
+			"name":"布蕾影视",
 			"type":3,
 			"api":"csp_xBPQ",
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":0,
-			"ext":"https://raw.fastgit.org/YLEDE/TVBox/master/xpath/fqys.json"
+			"ext":"https://raw.fastgit.org/YLEDE/TVBox/master/xpath/blys.json"
 		},
 		{
 			"key":"csp_XBPQ_rxjs",
@@ -544,6 +544,26 @@
 			"ext":"https://raw.fastgit.org/YLEDE/TVBox/master/xpath/lgg.json"
 		},
 		{
+			"key":"csp_XBPQ_tvb",
+			"name":"TVB云播",
+			"type":3,
+			"api":"csp_xBPQ",
+			"searchable":1,
+			"quickSearch":1,
+			"filterable":0,
+			"ext":"https://raw.fastgit.org/YLEDE/TVBox/master/xpath/tvb.json"
+		},
+		{
+			"key":"csp_XBPQ_wpxq",
+			"name":"歪片星球",
+			"type":3,
+			"api":"csp_xBPQ",
+			"searchable":1,
+			"quickSearch":1,
+			"filterable":0,
+			"ext":"https://raw.fastgit.org/YLEDE/TVBox/master/xpath/wpxq.json"
+		},
+		{
 			"key":"csp_biubiu_星空影视",
 			"name":"星空影视",
 			"type":3,
@@ -562,16 +582,6 @@
 			"quickSearch":1,
 			"filterable":0,
 			"ext":"https://raw.fastgit.org/YLEDE/TVBox/master/xpath/naifei.json"
-		},
-		{
-			"key":"csp_biubiu_tvb",
-			"name":"TVB云播",
-			"type":3,
-			"api":"csp_XBiubiu",
-			"searchable":1,
-			"quickSearch":1,
-			"filterable":0,
-			"ext":"https://raw.fastgit.org/YLEDE/TVBox/master/xpath/tvb.json"
 		},
 		{
 			"key":"csp_biubiu_hdmoli",
