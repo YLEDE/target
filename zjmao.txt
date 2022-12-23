@@ -205,8 +205,7 @@
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":1
-		},
-		
+		},	
                 {
                         "key":"csp_Xinsj",
                         "name":"新视觉",
@@ -287,7 +286,7 @@
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":1,
-			"jar":"https://agit.ai/n3rd/N3RD/raw/branch/master/J/lem1216.jar"
+			"jar":"https://agit.ai/n3rd/N3RD/raw/branch/master/J/lem1216.jar",
 			"ext":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/TXT/al.txt
 		},
 		{
