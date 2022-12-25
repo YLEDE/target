@@ -303,26 +303,6 @@
 			"ext":"https://agit.ai/1414108336/f/raw/branch/master/alitoken.json"
 		},
 		{
-			"key":"csp_AppYsV2_MX",
-			"name":"MX影视",
-			"type":3,
-			"api":"csp_AppYsV2",
-			"searchable":1,
-			"quickSearch":1,
-			"filterable":0,
-			"ext":"http://mkk.gotka.top/api.php/v1.vod"
-		},
-		{
-			"key":"csp_XYQHiker_氢视频",
-			"name":"氢视频",
-			"type":3,
-			"api":"csp_XYQHiker",
-			"searchable":1,
-			"quickSearch":1,
-			"filterable":0,
-			"ext":"https://raw.fastgit.org/YLEDE/TVBox/master/xpath/H.json"
-		},
-		{
 			"key":"csp_XBPQ_333",
 			"name":"333",
 			"type":3,
@@ -573,56 +553,6 @@
 			"quickSearch":1,
 			"filterable":0,
 			"ext":"https://raw.fastgit.org/YLEDE/TVBox/master/xpath/wpxq.json"
-		},
-		{
-			"key":"csp_biubiu_星空影视",
-			"name":"星空影视",
-			"type":3,
-			"api":"csp_XBiubiu",
-			"searchable":1,
-			"quickSearch":1,
-			"filterable":0,
-			"ext":"https://raw.fastgit.org/YLEDE/TVBox/master/xpath/xkys.json"
-		},
-		{
-			"key":"csp_biubiu_奈菲影院",
-			"name":"奈菲影院",
-			"type":3,
-			"api":"csp_XBiubiu",
-			"searchable":1,
-			"quickSearch":1,
-			"filterable":0,
-			"ext":"https://raw.fastgit.org/YLEDE/TVBox/master/xpath/naifei.json"
-		},
-		{
-			"key":"csp_biubiu_hdmoli",
-			"name":"hdmoli",
-			"type":3,
-			"api":"csp_XBiubiu",
-			"searchable":1,
-			"quickSearch":1,
-			"filterable":0,
-			"ext":"https://raw.fastgit.org/YLEDE/TVBox/master/xpath/hdmoli.json"
-		},
-		{
-			"key":"csp_biubiu_newfii",
-			"name":"奈落影院",
-			"type":3,
-			"api":"csp_XBiubiu",
-			"searchable":1,
-			"quickSearch":1,
-			"filterable":0,
-			"ext":"https://raw.fastgit.org/YLEDE/TVBox/master/xpath/newfii.json"
-		},
-		{
-			"key":"csp_biubiu_szx",
-			"name":"视中心",
-			"type":3,
-			"api":"csp_XBiubiu",
-			"searchable":1,
-			"quickSearch":1,
-			"filterable":0,
-			"ext":"https://raw.fastgit.org/YLEDE/TVBox/master/xpath/szx.json"
 		},
 		{
 			"key":"csp_xpath_348",
