@@ -323,10 +323,10 @@
 			"ext":"https://raw.fastgit.org/YLEDE/TVBox/master/xpath/H.json"
 		},
 		{
-			"key":"csp_XYQBiu_dmxq",
+			"key":"csp_XBPQ_dmxq",
 			"name":"大米星球",
 			"type":3,
-			"api":"csp_XYQBiu",
+			"api":"csp_xBPQ",
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":0,
