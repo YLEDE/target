@@ -300,7 +300,7 @@
 			"quickSearch":1,
 			"filterable":1,
 			"jar":"https://agit.ai/1414108336/f/raw/branch/master/jar/ali.jar",
-			"ext":"http://ali.饭太硬.ml/tok"
+			"ext":"https://agit.ai/fenwe/box/raw/branch/main/token.txt"
 		},
 		{
 			"key":"csp_AppYsV2_MX",
