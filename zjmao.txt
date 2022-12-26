@@ -322,16 +322,6 @@
 			"ext":"https://raw.fastgit.org/YLEDE/TVBox/master/xpath/333.json"
 		},
 		{
-			"key":"csp_XBPQ_555",
-			"name":"555",
-			"type":3,
-			"api":"csp_xBPQ",
-			"searchable":1,
-			"quickSearch":1,
-			"filterable":0,
-			"ext":"https://raw.fastgit.org/YLEDE/TVBox/master/xpath/555.json"
-		},
-		{
 			"key":"csp_XBPQ_Cokemv",
 			"name":"Cokemv",
 			"type":3,
