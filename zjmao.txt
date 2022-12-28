@@ -1,5 +1,5 @@
 {
-	"wallpaper":"http://api.btstu.cn/sjbz/api.php?lx=fengjing&format=images",
+	"wallpaper":"https://gitee.com/RTXRui/tvbox/raw/master/bag/${pmg}.jpg",
 
 	"spider":"https://gitcdn.top/https://raw.githubusercontent.com/gaotianliuyun/gao/master/jar/xo.txt",
 
