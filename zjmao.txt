@@ -1,7 +1,7 @@
 {
 	"wallpaper":"http://api.btstu.cn/sjbz/api.php?lx=fengjing&format=images",
 
-	"spider":"https://ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/jar/xo.txt",
+	"spider":"https://gitcdn.top/https://raw.githubusercontent.com/gaotianliuyun/gao/master/jar/xo.txt",
 
 	"lives":
 	[
@@ -273,7 +273,7 @@
 			"quickSearch":1,
 			"filterable":1,
 			"ext":"8ee655f702d0d21f3643504783babbc3",
-			"jar":"https://ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/jar/cs.jar"
+			"jar":"https://gitcdn.top/https://raw.githubusercontent.com/gaotianliuyun/gao/master/jar/cs.jar"
 		},
 		{
 			"key":"spider_IKan",
@@ -284,7 +284,7 @@
 			"searchable":1,
 			"filterable":1,
 			"ext":"a4ce9a4ba7d4f4bced2ff9dfc4ab4e50",
-			"jar":"https://ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/jar/cs.jar"
+			"jar":"https://gitcdn.top/https://raw.githubusercontent.com/gaotianliuyun/gao/master/jar/cs.jar"
 
 		},
 		{
@@ -296,7 +296,7 @@
 			"quickSearch":1,
 			"searchable":1,
 			"ext":"8e3aefcba838d8dc5102ac786719d837",
-			"jar":"https://ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/jar/cs.jar"
+			"jar":"https://gitcdn.top/https://raw.githubusercontent.com/gaotianliuyun/gao/master/jar/cs.jar"
 		},
 		{
 			"key":"csp_Yanet",
@@ -307,7 +307,7 @@
 			"quickSearch":1,
 			"filterable":1,
 			"ext":"a369b1f623fe86605f1b029f0cf66349",
-			"jar":"https://ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/jar/cs.jar"
+			"jar":"https://gitcdn.top/https://raw.githubusercontent.com/gaotianliuyun/gao/master/jar/cs.jar"
 		},
 		{
 			"key":"csp_XBPQ_Cokemv",
@@ -318,7 +318,7 @@
 			"quickSearch":1,
 			"filterable":1,
 			"filterable":0,
-			"ext":"https://raw.fastgit.org/YLEDE/TVBox/master/xpath/cokemv.json"
+			"ext":"https://fastly.jsdelivr.net/gh/YLEDE/TVBox@master/xpath/cokemv.json"
 		},
 		{
 			"key":"csp_XBPQ_333",
@@ -328,7 +328,7 @@
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":0,
-			"ext":"https://raw.fastgit.org/YLEDE/TVBox/master/xpath/333.json"
+			"ext":"https://fastly.jsdelivr.net/gh/YLEDE/TVBox@master/xpath/333.json"
 		},
 		{
 			"key":"csp_XBPQ_555",
@@ -338,7 +338,7 @@
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":0,
-			"ext":"https://raw.fastgit.org/YLEDE/TVBox/master/xpath/555.json"
+			"ext":"https://fastly.jsdelivr.net/gh/YLEDE/TVBox@master/xpath/555.json"
 		},
 		{
 			"key":"csp_XBPQ_HDIK",
@@ -348,7 +348,7 @@
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":0,
-			"ext":"https://raw.fastgit.org/YLEDE/TVBox/master/xpath/HDIK.json"
+			"ext":"https://fastly.jsdelivr.net/gh/YLEDE/TVBox@master/xpath/HDIK.json"
 		},
 		{
 			"key":"csp_XBPQ_nike",
@@ -358,7 +358,7 @@
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":0,
-			"ext":"https://raw.fastgit.org/YLEDE/TVBox/master/xpath/Nike.json"
+			"ext":"https://fastly.jsdelivr.net/gh/YLEDE/TVBox@master/xpath/Nike.json"
 		},
 		{
 			"key":"csp_XBPQ_Fositv",
@@ -368,7 +368,7 @@
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":0,
-			"ext":"https://raw.fastgit.org/YLEDE/TVBox/master/xpath/Fositv.json"
+			"ext":"https://fastly.jsdelivr.net/gh/YLEDE/TVBox@master/xpath/Fositv.json"
 		},
 		{
 			"key":"csp_XBPQ_FREEOK",
@@ -378,7 +378,7 @@
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":0,
-			"ext":"https://raw.fastgit.org/YLEDE/TVBox/master/xpath/FREEOK.json"
+			"ext":"https://fastly.jsdelivr.net/gh/YLEDE/TVBox@master/xpath/FREEOK.json"
 		},
 		{
 			"key":"csp_XBPQ_mzt",
@@ -388,7 +388,7 @@
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":0,
-			"ext":"https://raw.fastgit.org/YLEDE/TVBox/master/xpath/mzt.json"
+			"ext":"https://fastly.jsdelivr.net/gh/YLEDE/TVBox@master/xpath/mzt.json"
 		},
 		{
 			"key":"csp_XBPQ_dmxq",
@@ -398,7 +398,7 @@
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":0,
-			"ext":"https://raw.fastgit.org/YLEDE/TVBox/master/xpath/dmxq.json"
+			"ext":"https://fastly.jsdelivr.net/gh/YLEDE/TVBox@master/xpath/dmxq.json"
 		},
 		{
 			"key":"csp_XBPQ_bcys",
@@ -408,7 +408,7 @@
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":0,
-			"ext":"https://raw.fastgit.org/YLEDE/TVBox/master/xpath/bcys.json"
+			"ext":"https://fastly.jsdelivr.net/gh/YLEDE/TVBox@master/xpath/bcys.json"
 		},
 		{
 			"key":"csp_XBPQ_city",
@@ -418,7 +418,7 @@
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":0,
-			"ext":"https://raw.fastgit.org/YLEDE/TVBox/master/xpath/city.json"
+			"ext":"https://fastly.jsdelivr.net/gh/YLEDE/TVBox@master/xpath/city.json"
 		},
 		{
 			"key":"csp_XBPQ_Lezhu",
@@ -429,7 +429,7 @@
 			"quickSearch":1,
 			"filterable":1,
 			"filterable":0,
-			"ext":"https://raw.fastgit.org/YLEDE/TVBox/master/xpath/lezhutv.json"
+			"ext":"https://fastly.jsdelivr.net/gh/YLEDE/TVBox@master/xpath/lezhutv.json"
 		},	
 		{
 			"key":"csp_XBPQ_buka",
@@ -439,7 +439,7 @@
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":0,
-			"ext":"https://raw.fastgit.org/YLEDE/TVBox/master/xpath/buka.json"
+			"ext":"https://fastly.jsdelivr.net/gh/YLEDE/TVBox@master/xpath/buka.json"
 		},
 		{
 			"key":"csp_XBPQ_kanlm",
@@ -449,7 +449,7 @@
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":0,
-			"ext":"https://raw.fastgit.org/YLEDE/TVBox/master/xpath/kanlm.json"
+			"ext":"https://fastly.jsdelivr.net/gh/YLEDE/TVBox@master/xpath/kanlm.json"
 		},
 		{
 			"key":"csp_XBPQ_zxzj",
@@ -459,7 +459,7 @@
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":0,
-			"ext":"https://raw.fastgit.org/YLEDE/TVBox/master/xpath/zxzj.json"
+			"ext":"https://fastly.jsdelivr.net/gh/YLEDE/TVBox@master/xpath/zxzj.json"
 		},
 		{
 			"key":"csp_XBPQ_dyhz",
@@ -469,7 +469,7 @@
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":0,
-			"ext":"https://raw.fastgit.org/YLEDE/TVBox/master/xpath/dyhz.json"
+			"ext":"https://fastly.jsdelivr.net/gh/YLEDE/TVBox@master/xpath/dyhz.json"
 		},
 		{
 			"key":"csp_XBPQ_素白白",
@@ -479,7 +479,7 @@
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":0,
-			"ext":"https://raw.fastgit.org/YLEDE/TVBox/master/xpath/subaibai.json"
+			"ext":"https://fastly.jsdelivr.net/gh/YLEDE/TVBox@master/xpath/subaibai.json"
 		},
 		{
 			"key":"csp_XBPQ_剧白白",
@@ -489,7 +489,7 @@
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":0,
-			"ext":"https://raw.fastgit.org/YLEDE/TVBox/master/xpath/jubaibai.json"
+			"ext":"https://fastly.jsdelivr.net/gh/YLEDE/TVBox@master/xpath/jubaibai.json"
 		},
 		{
 			"key":"csp_XBPQ_xgys",
@@ -499,7 +499,7 @@
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":0,
-			"ext":"https://raw.fastgit.org/YLEDE/TVBox/master/xpath/xgys.json"
+			"ext":"https://fastly.jsdelivr.net/gh/YLEDE/TVBox@master/xpath/xgys.json"
 		},
 		{
 			"key":"csp_XBPQ_ddg",
@@ -509,7 +509,7 @@
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":0,
-			"ext":"https://raw.fastgit.org/YLEDE/TVBox/master/xpath/dadagui.json"
+			"ext":"https://fastly.jsdelivr.net/gh/YLEDE/TVBox@master/xpath/dadagui.json"
 		},
 		{
 			"key":"csp_XBPQ_rxjs",
@@ -519,7 +519,7 @@
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":0,
-			"ext":"https://raw.fastgit.org/YLEDE/TVBox/master/xpath/rxjs.json"
+			"ext":"https://fastly.jsdelivr.net/gh/YLEDE/TVBox@master/xpath/rxjs.json"
 		},
 		{
 			"key":"csp_XBPQ_wnys",
@@ -529,7 +529,7 @@
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":0,
-			"ext": "https://raw.fastgit.org/YLEDE/TVBox/master/xpath/wnyy.json"
+			"ext": "https://fastly.jsdelivr.net/gh/YLEDE/TVBox@master/xpath/wnyy.json"
 		},
 		{
 			"key":"csp_XBPQ_bxhd",
@@ -539,7 +539,7 @@
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":0,
-			"ext":"https://raw.fastgit.org/YLEDE/TVBox/master/xpath/bxhd.json"
+			"ext":"https://fastly.jsdelivr.net/gh/YLEDE/TVBox@master/xpath/bxhd.json"
 		},
 		{
 			"key":"csp_XBPQ_lgg",
@@ -549,7 +549,7 @@
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":0,
-			"ext":"https://raw.fastgit.org/YLEDE/TVBox/master/xpath/lgg.json"
+			"ext":"https://fastly.jsdelivr.net/gh/YLEDE/TVBox@master/xpath/lgg.json"
 		},
 		{
 			"key":"csp_XBPQ_tvb",
@@ -559,7 +559,7 @@
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":0,
-			"ext":"https://raw.fastgit.org/YLEDE/TVBox/master/xpath/tvb.json"
+			"ext":"https://fastly.jsdelivr.net/gh/YLEDE/TVBox@master/xpath/tvb.json"
 		},
 		{
 			"key":"csp_XBPQ_wpxq",
@@ -569,7 +569,7 @@
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":0,
-			"ext":"https://raw.fastgit.org/YLEDE/TVBox/master/xpath/wpxq.json"
+			"ext":"https://fastly.jsdelivr.net/gh/YLEDE/TVBox@master/xpath/wpxq.json"
 		},
 		{
 			"key":"csp_xpath_348",
@@ -579,7 +579,7 @@
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":0,
-			"ext":"https://raw.fastgit.org/YLEDE/TVBox/master/xpath/348z.json"
+			"ext":"https://fastly.jsdelivr.net/gh/YLEDE/TVBox@master/xpath/348z.json"
 		},
 		{
 			"key":"csp_xpath_wuguiyy",
@@ -589,7 +589,7 @@
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":0,
-			"ext":"https://raw.fastgit.org/YLEDE/TVBox/master/xpath/wuguiyy.json"
+			"ext":"https://fastly.jsdelivr.net/gh/YLEDE/TVBox@master/xpath/wuguiyy.json"
 		},
 		{
 			"key":"csp_xpath_9ekk",
@@ -599,7 +599,7 @@
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":0,
-			"ext":"https://raw.fastgit.org/YLEDE/TVBox/master/xpath/9ekk.json"
+			"ext":"https://fastly.jsdelivr.net/gh/YLEDE/TVBox@master/xpath/9ekk.json"
 		}
 	],
 
