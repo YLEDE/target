@@ -1,5 +1,5 @@
 {
-	"wallpaper":"https://gitee.com/RTXRui/tvbox/raw/master/bag/1144182.jpg",
+	"wallpaper":"https://api.vvhan.com/api/view",
 
 	"spider":"https://gitcdn.top/https://raw.githubusercontent.com/gaotianliuyun/gao/master/jar/xo.txt",
 
