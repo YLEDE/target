@@ -74,7 +74,6 @@
 			"name":"Cokemv",
 			"type":3,
 			"api":"csp_Cokemv",
-			"playerType":1,
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":1
