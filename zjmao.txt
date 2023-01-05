@@ -70,17 +70,6 @@
 			"filterable":1
 		},
 		{
-			"key":"csp_Cokemv",
-			"name":"Cokemv",
-			"type":3,
-			"api":"csp_Dora",
-			"searchable":1,
-			"quickSearch":1,
-			"filterable":1,
-			"ext":"b88de1329655cca1beba45aa9776de70",
-			"jar":"https://gitcdn.top/https://raw.githubusercontent.com/gaotianliuyun/gao/master/jar/cs.jar"
-		},
-		{
 			"key":"csp_Auete",
 			"name":"Auete",
 			"type":3,
