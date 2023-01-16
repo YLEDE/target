@@ -55,7 +55,6 @@
 			"name":"图图影视",
 			"type":3,
 			"api":"csp_Dora",
-                        "playerType":"2",
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":1,
@@ -132,7 +131,6 @@
 			"name":"布蕾",
 			"type":3,
 			"api":"csp_BuLei",
-                        "playerType":"2",
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":1
