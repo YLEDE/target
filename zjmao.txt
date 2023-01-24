@@ -1,7 +1,7 @@
 {
 	"wallpaper":"https://api.vvhan.com/api/view",
 
-	"spider":"https://gitcdn.top/https://raw.githubusercontent.com/gaotianliuyun/gao/master/jar/xo.txt",
+	"spider":"https://raw.iqiq.io/gaotianliuyun/gao/master/jar/xo.txt",
 
 	"lives":
 	[
@@ -59,7 +59,7 @@
 			"quickSearch":1,
 			"filterable":1,
 			"ext":"110c922de7d69804467fb83d3bb664b5",
-			"jar":"https://gitcdn.top/https://raw.githubusercontent.com/gaotianliuyun/gao/master/jar/cs.jar"
+			"jar":"https://raw.iqiq.io/gaotianliuyun/gao/master/jar/cs.jar"
 		},
 		{
 			"key":"csp_fant",
@@ -266,7 +266,7 @@
 			"quickSearch":1,
 			"filterable":1,
 			"ext":"8ee655f702d0d21f3643504783babbc3",
-			"jar":"https://gitcdn.top/https://raw.githubusercontent.com/gaotianliuyun/gao/master/jar/cs.jar"
+			"jar":"https://raw.iqiq.io/gaotianliuyun/gao/master/jar/cs.jar"
 		},
 		{
 			"key":"spider_IKan",
@@ -277,7 +277,7 @@
 			"searchable":1,
 			"filterable":1,
 			"ext":"a4ce9a4ba7d4f4bced2ff9dfc4ab4e50",
-			"jar":"https://gitcdn.top/https://raw.githubusercontent.com/gaotianliuyun/gao/master/jar/cs.jar"
+			"jar":"https://raw.iqiq.io/gaotianliuyun/gao/master/jar/cs.jar"
 
 		},
 		{
@@ -289,7 +289,7 @@
 			"quickSearch":1,
 			"searchable":1,
 			"ext":"8e3aefcba838d8dc5102ac786719d837",
-			"jar":"https://gitcdn.top/https://raw.githubusercontent.com/gaotianliuyun/gao/master/jar/cs.jar"
+			"jar":"https://raw.iqiq.io/gaotianliuyun/gao/master/jar/cs.jar"
 		},
 		{
 			"key":"csp_Yanet",
@@ -300,7 +300,7 @@
 			"quickSearch":1,
 			"filterable":1,
 			"ext":"a369b1f623fe86605f1b029f0cf66349",
-			"jar":"https://gitcdn.top/https://raw.githubusercontent.com/gaotianliuyun/gao/master/jar/cs.jar"
+			"jar":"https://raw.iqiq.io/gaotianliuyun/gao/master/jar/cs.jar"
 		},
 		{
 			"key":"csp_XBPQ_Cokemv",
