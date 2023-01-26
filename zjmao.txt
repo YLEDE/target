@@ -251,11 +251,11 @@
 			"key":"csp_Ddrk",
 			"name":"低端",
 			"type":3,
-			"api":"csp_Ddrk",
-			"click": "ddys.tv;#vjsp > button",
+			"api":"csp_xBPQ",
 			"searchable":1,
 			"quickSearch":1,
-			"filterable":1
+			"filterable":0,
+			"ext":"https://raw.fastgit.org/YLEDE/TVBox/master/xpath/ddys.json"
 		},
 		{
 			"key":"csp_Czsapp",
