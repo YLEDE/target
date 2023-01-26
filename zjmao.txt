@@ -128,13 +128,14 @@
 			"filterable":1
 		},
 		{
-			"key":"csp_BuLei",
+			"key":"csp_XBPQ_blys",
 			"name":"布蕾",
 			"type":3,
-			"api":"csp_BuLei",
+			"api":"csp_xBPQ",
 			"searchable":1,
 			"quickSearch":1,
-			"filterable":1
+			"filterable":0,
+			"ext":"https://raw.fastgit.org/YLEDE/TVBox/master/xpath/blys.json"
 		},
 		{
 			"key":"csp_Ysgc",
