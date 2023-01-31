@@ -292,7 +292,8 @@
 			"playerType":2,
 			"quickSearch":1,
 			"searchable":1,
-			"ext":"https://api-tx.shumaxc.xyz"
+			"ext":"https://api-tx.shumaxc.xyz",
+                        "jar":"http://cdn.qiaoji8.com/qj231121.jar"
 		},
 		{
 			"key":"csp_Yanet",
