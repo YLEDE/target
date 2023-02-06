@@ -1,7 +1,7 @@
 {
 	"wallpaper":"https://api.vvhan.com/api/view",
 
-	"spider":"https://raw.iqiq.io/gaotianliuyun/gao/master/jar/xo.jar",
+	"spider":"https://raw.iqiq.io/gaotianliuyun/gao/master/jar/xo.txt",
 
 	"lives":
 	[
