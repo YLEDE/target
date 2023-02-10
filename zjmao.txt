@@ -149,7 +149,8 @@
 			"filterable":1
 		},
 		{
-			"key":"drjs_IMAX影视","name":"IMAX影视",
+			"key":"drjs_IMAX影视",
+			"name":"IMAX影视",
 			"type":3,
 			"api":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/LIB/drpy.min.js",
 			"searchable":1,
