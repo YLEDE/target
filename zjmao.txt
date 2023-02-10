@@ -149,13 +149,13 @@
 			"filterable":1
 		},
 		{
-			"key":"csp_Lgyy",
-			"name":"蓝光",
+			"key":"drjs_IMAX影视","name":"IMAX影视",
 			"type":3,
-			"api":"csp_Lgyy",
+			"api":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/LIB/drpy.min.js",
 			"searchable":1,
 			"quickSearch":1,
-			"filterable":1
+			"filterable":1,
+			"ext":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/JS/IMAX影视.js"
 		},
 		{
 			"key":"csp_Panghu",
@@ -175,6 +175,15 @@
 			"quickSearch":1,
 			"filterable":1,
 			"ext":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/XB/Nmys.json"
+		},
+		{
+			"key":"csp_Yanet",
+			"name":"鸭奈飞",
+			"api":"csp_YaNetFlix",
+			"type":3,
+			"searchable":1,
+			"quickSearch":1,
+			"filterable":1,
 		},
 		{
 			"key":"csp_jihuang",
@@ -296,15 +305,14 @@
                         "jar":"http://cdn.qiaoji8.com/qj231121.jar"
 		},
 		{
-			"key":"csp_Yanet",
-			"name":"鸭奈飞",
+			"key":"csp_Jianying",
+			"name":"简影",
+			"api":"csp_JianYing",
 			"type":3,
-			"api":"csp_Dora",
 			"searchable":1,
 			"quickSearch":1,
-			"filterable":1,
-			"ext":"a369b1f623fe86605f1b029f0cf66349",
-			"jar":"https://raw.iqiq.io/gaotianliuyun/gao/master/jar/cs.jar"
+			"filterable":0,
+			"ext":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7IklEIjozNDc4MiwiQ3JlYXRlZEF0IjoiMjAyMi0wOS0yNlQxMTowOTo0Ni43NDkrMDg6MDAiLCJVcGRhdGVkQXQiOiIyMDIyLTEwLTA1VDEwOjAwOjU5LjA3KzA4OjAwIiwiRGVsZXRlZEF0IjpudWxsLCJ1c2VyX2VtYWlsIjoiNTg3ODEzNDlAcXEuY29tIiwidXNlcl9uYW1lIjoiIiwidXNlcl9wd2QiOiIiLCJ1c2VyX2lkIjoiNTkwOWIyYTMtNTUzOS00NWE3LTg2MjUtODIwZmIwM2M5YzUwIiwidXNlcl9hbnN3ZXIiOiIiLCJsb2NrX2lzIjoiRmFsc2UiLCJpc190diI6IiIsImlzX2FkbWluIjoiRmFsc2UiLCJyZWdfdGltZSI6IjIwMjItMTAtMDVUMTA6MDA6NTkuMDcrMDg6MDAiLCJyZWdfa2V5IjoiNzMwODE2MjAiLCJ0dl90aW1lIjpudWxsLCJ0dl9rZXkiOiIifSwiZXhwIjoxNjY2MzIxNzQ3LCJpc3MiOiJBbGZyZWRvIE1lbmRvemEifQ.P2etFz7ILSDaL4AEUs5-z9E7Vlt0LCJE-UZ1hUa5fYg"
 		},
 		{
 			"key":"csp_XBPQ_Cokemv",
@@ -480,34 +488,34 @@
 			"ext":"https://raw.fastgit.org/YLEDE/TVBox/master/xpath/zxzj.json"
 		},
 		{
-			"key":"csp_XBPQ_dyhz",
-			"name":"电影盒子",
+			"key":"drjs_伊雪湾",
+			"name":伊雪湾",
 			"type":3,
-			"api":"csp_xBPQ",
+			"api":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/LIB/drpy.min.js",
 			"searchable":1,
 			"quickSearch":1,
-			"filterable":0,
-			"ext":"https://raw.fastgit.org/YLEDE/TVBox/master/xpath/dyhz.json"
+			"filterable":1,
+			"ext":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/JS/伊雪湾.js"
 		},
 		{
-			"key":"csp_XBPQ_素白白",
-			"name":"素白白",
+			"key":"csp_XBPQ_bt",
+			"name":"哔兔",
 			"type":3,
 			"api":"csp_xBPQ",
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":0,
-			"ext":"https://raw.fastgit.org/YLEDE/TVBox/master/xpath/subaibai.json"
+			"ext":"https://raw.fastgit.org/YLEDE/TVBox/master/xpath/btys.json"
 		},
 		{
-			"key":"csp_XBPQ_剧白白",
-			"name":"剧白白",
+			"key":"csp_XBPQ_mdtv",
+			"name":"麦豆影视",
 			"type":3,
 			"api":"csp_xBPQ",
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":0,
-			"ext":"https://raw.fastgit.org/YLEDE/TVBox/master/xpath/jubaibai.json"
+			"ext":"https://raw.fastgit.org/YLEDE/TVBox/master/xpath/mdtv.json"
 		},
 		{
 			"key":"csp_XBPQ_xgys",
@@ -530,14 +538,14 @@
 			"ext":"https://raw.fastgit.org/YLEDE/TVBox/master/xpath/dadagui.json"
 		},
 		{
-			"key":"csp_XBPQ_rxjs",
-			"name":"️锐行加速",
+			"key":"drjs_539影院",
+			"name":"539影院",
 			"type":3,
-			"api":"csp_xBPQ",
+			"api":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/LIB/drpy.min.js",
 			"searchable":1,
 			"quickSearch":1,
-			"filterable":0,
-			"ext":"https://raw.fastgit.org/YLEDE/TVBox/master/xpath/rxjs.json"
+			"filterable":1,
+			"ext":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/JS/539影院.js"
 		},
 		{
 			"key":"csp_XBPQ_wnys",
