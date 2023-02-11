@@ -492,6 +492,16 @@
 			"ext":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/JS/伊雪湾.js"
 		},
 		{
+			"key":"drpy_js_零柒影视",
+			"name":"零柒影视",
+			"type":3,
+			"api":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/LIB/drpy.min.js",
+			"searchable":1,
+			"quickSearch":1,
+			"filterable":1,
+			"ext":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/JS/零柒影视.js"
+		},
+		{
 			"key":"csp_XBPQ_bt",
 			"name":"哔兔",
 			"type":3,
