@@ -178,13 +178,14 @@
 			"ext":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/XB/Nmys.json"
 		},
 		{
-			"key":"csp_Yanet",
-			"name":"鸭奈飞",
-			"api":"csp_YaNetFlix",
+			"key":"drpy_js_免费看",
+			"name":"免费看影视",
 			"type":3,
+			"api":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/LIB/drpy.min.js",
 			"searchable":1,
 			"quickSearch":1,
-			"filterable":1
+			"filterable":1,
+			"ext":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/JS/免费看.js"
 		},
 		{
 			"key":"csp_jihuang",
@@ -224,28 +225,20 @@
 			"jar":"https://raw.iqiq.io/gaotianliuyun/gao/master/jar/cs.jar"
 		},
 		{
-			"key":"csp_Zjdr",
-			"name":"追剧",
+			"key":"drpy_js_伊人追剧",
+			"name":"伊人追剧",
 			"type":3,
-			"api":"csp_Zjdr",
+			"api":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/LIB/drpy.min.js",
 			"searchable":1,
 			"quickSearch":1,
-			"filterable":1
+			"filterable":1,
+			"ext":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/JS/伊人追剧.js"
 		},
 		{
 			"key":"csp_Smdyy",
 			"name":"神马",
 			"type":3,
 			"api":"csp_Smdyy",
-			"searchable":1,
-			"quickSearch":1,
-			"filterable":1
-		},	
-		{
-			"key":"csp_Xinsj",
-			"name":"新视觉",
-			"type":3,
-			"api":"csp_Xinsj",
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":1
@@ -358,7 +351,7 @@
 			"ext":"https://raw.fastgit.org/YLEDE/TVBox/master/xpath/HDIK.json"
 		},
 		{
-			"key":"csp_XBPQ_nike",
+			"key":"csp_XBPQ_Nike",
 			"name":"Nike",
 			"type":3,
 			"api":"csp_xBPQ",
