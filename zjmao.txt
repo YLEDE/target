@@ -197,13 +197,14 @@
 			"filterable":1
 		},
 		{
-			"key":"csp_Tkys",
-			"name":"天空",
+			"key":"drpy_js_天空影视",
+			"name":"天空影视",
 			"type":3,
-			"api":"csp_Tkys",
+			"api":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/LIB/drpy.min.js",
 			"searchable":1,
 			"quickSearch":1,
-			"filterable":1
+			"filterable":1,
+			"ext":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/JS/天空影视.js"
 		},
 		{
 			"key":"csp_Nkdy",
@@ -225,14 +226,24 @@
 			"jar":"https://raw.iqiq.io/gaotianliuyun/gao/master/jar/cs.jar"
 		},
 		{
-			"key":"drpy_js_伊人追剧",
-			"name":"伊人追剧",
+			"key":"drpy_js_1080P",
+			"name":"1080P",
 			"type":3,
 			"api":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/LIB/drpy.min.js",
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":1,
-			"ext":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/JS/伊人追剧.js"
+			"ext":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/JS/1080P.js"
+		},
+		{
+			"key":"drpy_js_if101[飞]",
+			"name":"欧乐影院",
+			"type":3,
+			"api":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/LIB/drpy.min.js",
+			"searchable":1,
+			"quickSearch":1,
+			"filterable":1,
+			"ext":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/JS/if101[飞].js"
 		},
 		{
 			"key":"csp_Smdyy",
@@ -321,14 +332,14 @@
 			"ext":"https://raw.fastgit.org/YLEDE/TVBox/master/xpath/cokemv.json"
 		},
 		{
-			"key":"csp_XBPQ_333",
+			"key":"drpy_js_333",
 			"name":"333",
 			"type":3,
-			"api":"csp_xBPQ",
+			"api":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/LIB/drpy.min.js",
 			"searchable":1,
 			"quickSearch":1,
-			"filterable":0,
-			"ext":"https://raw.fastgit.org/YLEDE/TVBox/master/xpath/333.json"
+			"filterable":1,
+			"ext":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/JS/333影视.js"
 		},
 		{
 			"key":"csp_XBPQ_555",
@@ -361,14 +372,14 @@
 			"ext":"https://raw.fastgit.org/YLEDE/TVBox/master/xpath/Nike.json"
 		},
 		{
-			"key":"csp_XBPQ_Fositv",
-			"name":"Fositv",
+			"key":"drpy_js_fositv",
+			"name":"fositv",
 			"type":3,
-			"api":"csp_xBPQ",
+			"api":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/LIB/drpy.min.js",
 			"searchable":1,
 			"quickSearch":1,
-			"filterable":0,
-			"ext":"https://raw.fastgit.org/YLEDE/TVBox/master/xpath/Fositv.json"
+			"filterable":1,
+			"ext":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/JS/fositv.js"
 		},
 		{
 			"key":"csp_XBPQ_FREEOK",
@@ -492,24 +503,24 @@
 			"ext":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/JS/伊雪湾.js"
 		},
 		{
-			"key":"drpy_js_零柒影视",
-			"name":"零柒影视",
+			"key":"drpy_js_柒之社",
+			"name":"柒之社",
 			"type":3,
 			"api":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/LIB/drpy.min.js",
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":1,
-			"ext":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/JS/零柒影视.js"
+			"ext":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/JS/柒之社.js"
 		},
 		{
-			"key":"csp_XBPQ_bt",
-			"name":"哔兔",
+			"key":"drpy_js_哔哩兔",
+			"name":"哔哩兔",
 			"type":3,
-			"api":"csp_xBPQ",
+			"api":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/LIB/drpy.min.js",
 			"searchable":1,
 			"quickSearch":1,
-			"filterable":0,
-			"ext":"https://raw.fastgit.org/YLEDE/TVBox/master/xpath/btys.json"
+			"filterable":1,
+			"ext":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/JS/哔哩兔.js"
 		},
 		{
 			"key":"csp_XBPQ_mdtv",
@@ -550,6 +561,16 @@
 			"quickSearch":1,
 			"filterable":1,
 			"ext":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/JS/539影院.js"
+		},
+		{
+			"key":"drpy_js_独播库[飞]",
+			"name":"独播库",
+			"type":3,
+			"api":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/LIB/drpy.min.js",
+			"searchable":1,
+			"quickSearch":1,
+			"filterable":1,
+			"ext":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/JS/独播库[飞].js"
 		},
 		{
 			"key":"csp_XBPQ_wnys",
