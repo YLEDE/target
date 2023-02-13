@@ -67,19 +67,8 @@
 			"api":"csp_xBPQ",
 			"searchable":1,
 			"quickSearch":1,
-			"filterable":1,
 			"filterable":0,
 			"ext":"https://raw.fastgit.org/YLEDE/TVBox/master/xpath/ftys.json"
-		},
-		{
-			"key":"drpy_js_Voflix",
-			"name":"Voflix",
-			"type":3,
-			"api":"https://agit.ai/wqjdyk/qq_32394351/raw/branch/master/libs/drpy2.min.js",
-			"searchable":1,
-			"quickSearch":1,
-			"filterable":1,
-			"ext":"https://agit.ai/wqjdyk/qq_32394351/raw/branch/master/js/voflix.js"
 		},
 		{
 			"key":"csp_XBPQ_Cokemv",
@@ -184,6 +173,16 @@
 			"ext":"https://raw.fastgit.org/YLEDE/TVBox/master/xpath/blys.json"
 		},
 		{
+			"key":"drpy_js_Voflix",
+			"name":"Voflix",
+			"type":3,
+			"api":"https://agit.ai/wqjdyk/qq_32394351/raw/branch/master/libs/drpy2.min.js",
+			"searchable":1,
+			"quickSearch":1,
+			"filterable":1,
+			"ext":"https://agit.ai/wqjdyk/qq_32394351/raw/branch/master/js/voflix.js"
+		},
+		{
 			"key":"drpy_js_IMAX影视",
 			"name":"IMAX影视",
 			"type":3,
@@ -192,6 +191,16 @@
 			"quickSearch":1,
 			"filterable":1,
 			"ext":"https://agit.ai/wqjdyk/qq_32394351/raw/branch/master/js/IMAX影视.js"
+		},
+		{
+			"key":"drpy_js_吼吼",
+			"name":"吼吼",
+			"type":3,
+			"api":"https://agit.ai/wqjdyk/qq_32394351/raw/branch/master/libs/drpy2.min.js",
+			"searchable":1,
+			"quickSearch":1,
+			"filterable":1,
+			"ext":"https://agit.ai/wqjdyk/qq_32394351/raw/branch/master/js/吼吼[飞].js"
 		},
 		{
 			"key":"csp_Czsapp",
