@@ -362,14 +362,14 @@
 			"ext":"https://raw.fastgit.org/YLEDE/TVBox/master/xpath/Nike.json"
 		},
 		{
-			"key":"drpy_js_fositv",
-			"name":"fositv",
+			"key":"csp_XBPQ_fositv",
+			"name":"Fositv",
 			"type":3,
-			"api":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/LIB/drpy.min.js",
+			"api":"csp_xBPQ",
 			"searchable":1,
 			"quickSearch":1,
-			"filterable":1,
-			"ext":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/JS/fositv.js"
+			"filterable":0,
+			"ext":"https://raw.fastgit.org/YLEDE/TVBox/master/xpath/Fositv.json"
 		},
 		{
 			"key":"csp_XBPQ_FREEOK",
