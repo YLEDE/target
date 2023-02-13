@@ -176,31 +176,31 @@
 			"key":"drpy_js_Voflix",
 			"name":"Voflix",
 			"type":3,
-			"api":"https://agit.ai/wqjdyk/qq_32394351/raw/branch/master/libs/drpy2.min.js",
+			"api":"https://raw.iqiq.io/troray/dr_py/master/libs/drpy2.min.js",
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":1,
-			"ext":"https://agit.ai/wqjdyk/qq_32394351/raw/branch/master/js/voflix.js"
+			"ext":"https://raw.iqiq.io/troray/dr_py/master/js/voflix.js"
 		},
 		{
 			"key":"drpy_js_IMAX影视",
 			"name":"IMAX影视",
 			"type":3,
-			"api":"https://agit.ai/wqjdyk/qq_32394351/raw/branch/master/libs/drpy2.min.js",
+			"api":"https://raw.iqiq.io/troray/dr_py/master/libs/drpy2.min.js",
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":1,
-			"ext":"https://agit.ai/wqjdyk/qq_32394351/raw/branch/master/js/IMAX影视.js"
+			"ext":"https://raw.iqiq.io/troray/dr_py/master/js/IMAX影视.js"
 		},
 		{
 			"key":"drpy_js_吼吼",
 			"name":"吼吼",
 			"type":3,
-			"api":"https://agit.ai/wqjdyk/qq_32394351/raw/branch/master/libs/drpy2.min.js",
+			"api":"https://raw.iqiq.io/troray/dr_py/master/libs/drpy2.min.js",
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":1,
-			"ext":"https://agit.ai/wqjdyk/qq_32394351/raw/branch/master/js/吼吼[飞].js"
+			"ext":"https://raw.iqiq.io/troray/dr_py/master/js/吼吼[飞].js"
 		},
 		{
 			"key":"csp_Czsapp",
@@ -230,11 +230,11 @@
 			"key":"drpy_js_工厂",
 			"name":"工厂",
 			"type":3,
-			"api":"https://agit.ai/wqjdyk/qq_32394351/raw/branch/master/libs/drpy2.min.js",
+			"api":"https://raw.iqiq.io/troray/dr_py/master/libs/drpy2.min.js",
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":1,
-			"ext":"https://agit.ai/wqjdyk/qq_32394351/raw/branch/master/js/影视工场.js"
+			"ext":"https://raw.iqiq.io/troray/dr_py/master/js/影视工场.js"
 		},
 		{
 			"key":"csp_Ddrk",
@@ -260,91 +260,91 @@
 			"key":"drpy_js_Auete",
 			"name":"Auete",
 			"type":3,
-			"api":"https://agit.ai/wqjdyk/qq_32394351/raw/branch/master/libs/drpy2.min.js",
+			"api":"https://raw.iqiq.io/troray/dr_py/master/libs/drpy2.min.js",
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":1,
-			"ext":"https://agit.ai/wqjdyk/qq_32394351/raw/branch/master/js/Auete.js"
+			"ext":"https://raw.iqiq.io/troray/dr_py/master/js/Auete.js"
 		},
 		{
 			"key":"drpy_js_伊雪湾",
 			"name":"伊雪湾",
 			"type":3,
-			"api":"https://agit.ai/wqjdyk/qq_32394351/raw/branch/master/libs/drpy2.min.js",
+			"api":"https://raw.iqiq.io/troray/dr_py/master/libs/drpy2.min.js",
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":1,
-			"ext":"https://agit.ai/wqjdyk/qq_32394351/raw/branch/master/js/伊雪湾.js"
+			"ext":"https://raw.iqiq.io/troray/dr_py/master/js/伊雪湾.js"
 		},
 		{
 			"key":"drpy_js_柒之社",
 			"name":"柒之社",
 			"type":3,
-			"api":"https://agit.ai/wqjdyk/qq_32394351/raw/branch/master/libs/drpy2.min.js",
+			"api":"https://raw.iqiq.io/troray/dr_py/master/libs/drpy2.min.js",
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":1,
-			"ext":"https://agit.ai/wqjdyk/qq_32394351/raw/branch/master/js/柒之社.js"
+			"ext":"https://raw.iqiq.io/troray/dr_py/master/js/柒之社.js"
 		},
 		{
 			"key":"drpy_js_哔哩兔",
 			"name":"哔哩兔",
 			"type":3,
-			"api":"https://agit.ai/wqjdyk/qq_32394351/raw/branch/master/libs/drpy2.min.js",
+			"api":"https://raw.iqiq.io/troray/dr_py/master/libs/drpy2.min.js",
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":1,
-			"ext":"https://agit.ai/wqjdyk/qq_32394351/raw/branch/master/js/哔哩兔.js"
+			"ext":"https://raw.iqiq.io/troray/dr_py/master/js/哔哩兔.js"
 		},
 		{
 			"key":"drpy_js_天空影视",
 			"name":"天空影视",
 			"type":3,
-			"api":"https://agit.ai/wqjdyk/qq_32394351/raw/branch/master/libs/drpy2.min.js",
+			"api":"https://raw.iqiq.io/troray/dr_py/master/libs/drpy2.min.js",
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":1,
-			"ext":"https://agit.ai/wqjdyk/qq_32394351/raw/branch/master/js/天空影视.js"
+			"ext":"https://raw.iqiq.io/troray/dr_py/master/js/天空影视.js"
 		},
 		{
 			"key":"drpy_js_1080P",
 			"name":"1080P",
 			"type":3,
-			"api":"https://agit.ai/wqjdyk/qq_32394351/raw/branch/master/libs/drpy2.min.js",
+			"api":"https://raw.iqiq.io/troray/dr_py/master/libs/drpy2.min.js",
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":1,
-			"ext":"https://agit.ai/wqjdyk/qq_32394351/raw/branch/master/js/1080P.js"
+			"ext":"https://raw.iqiq.io/troray/dr_py/master/js/1080P.js"
 		},
 		{
 			"key":"drpy_js_双十电影",
 			"name":"双十电影",
 			"type":3,
-			"api":"https://agit.ai/wqjdyk/qq_32394351/raw/branch/master/libs/drpy2.min.js",
+			"api":"https://raw.iqiq.io/troray/dr_py/master/libs/drpy2.min.js",
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":1,
-			"ext":"https://agit.ai/wqjdyk/qq_32394351/raw/branch/master/js/双十电影.js"
+			"ext":"https://raw.iqiq.io/troray/dr_py/master/js/双十电影.js"
 		},
 		{
 			"key":"drpy_js_348",
 			"name":"348电影",
 			"type":3,
-			"api":"https://agit.ai/wqjdyk/qq_32394351/raw/branch/master/libs/drpy2.min.js",
+			"api":"https://raw.iqiq.io/troray/dr_py/master/libs/drpy2.min.js",
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":1,
-			"ext":"https://agit.ai/wqjdyk/qq_32394351/raw/branch/master/js/348电影网.js"
+			"ext":"https://raw.iqiq.io/troray/dr_py/master/js/348电影网.js"
 		},
 		{
 			"key":"drpy_js_539影院",
 			"name":"539影院",
 			"type":3,
-			"api":"https://agit.ai/wqjdyk/qq_32394351/raw/branch/master/libs/drpy2.min.js",
+			"api":"https://raw.iqiq.io/troray/dr_py/master/libs/drpy2.min.js",
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":1,
-			"ext":"https://agit.ai/wqjdyk/qq_32394351/raw/branch/master/js/539影院.js"
+			"ext":"https://raw.iqiq.io/troray/dr_py/master/js/539影院.js"
 		},
 		{
 			"key":"csp_360",
@@ -377,21 +377,21 @@
 			"key":"drpy_js_哔嘀",
 			"name":"哔嘀",
 			"type":3,
-			"api":"https://agit.ai/wqjdyk/qq_32394351/raw/branch/master/libs/drpy2.min.js",
+			"api":"https://raw.iqiq.io/troray/dr_py/master/libs/drpy2.min.js",
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":1,
-			"ext":"https://agit.ai/wqjdyk/qq_32394351/raw/branch/master/js/哔嘀影视.js"
+			"ext":"https://raw.iqiq.io/troray/dr_py/master/js/哔嘀影视.js"
 		},
 		{
 			"key":"drpy_js_蓝光影院",
 			"name":"蓝光影院",
 			"type":3,
-			"api":"https://agit.ai/wqjdyk/qq_32394351/raw/branch/master/libs/drpy2.min.js",
+			"api":"https://raw.iqiq.io/troray/dr_py/master/libs/drpy2.min.js",
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":1,
-			"ext":"https://agit.ai/wqjdyk/qq_32394351/raw/branch/master/js/蓝光影院.js"
+			"ext":"https://raw.iqiq.io/troray/dr_py/master/js/蓝光影院.js"
 		},
 		{
 			"key":"spider_IKan",
@@ -419,11 +419,11 @@
 			"key":"drpy_js_333",
 			"name":"333",
 			"type":3,
-			"api":"https://agit.ai/wqjdyk/qq_32394351/raw/branch/master/libs/drpy2.min.js",
+			"api":"https://raw.iqiq.io/troray/dr_py/master/libs/drpy2.min.js",
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":1,
-			"ext":"https://agit.ai/wqjdyk/qq_32394351/raw/branch/master/js/333影视.js"
+			"ext":"https://raw.iqiq.io/troray/dr_py/master/js/333影视.js"
 		},
 		{
 			"key":"csp_XBPQ_Fositv",
@@ -620,11 +620,11 @@
 			"key":"drpy_js_免费看",
 			"name":"免费看",
 			"type":3,
-			"api":"https://agit.ai/wqjdyk/qq_32394351/raw/branch/master/libs/drpy2.min.js",
+			"api":"https://raw.iqiq.io/troray/dr_py/master/libs/drpy2.min.js",
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":1,
-			"ext":"https://agit.ai/wqjdyk/qq_32394351/raw/branch/master/js/免费看.js"
+			"ext":"https://raw.iqiq.io/troray/dr_py/master/js/免费看.js"
 		},
 		{
 			"key":"csp_xpath_wuguiyy",
