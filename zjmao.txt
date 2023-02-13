@@ -236,16 +236,6 @@
 			"ext":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/JS/1080P.js"
 		},
 		{
-			"key":"drpy_js_if101[飞]",
-			"name":"欧乐影院",
-			"type":3,
-			"api":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/LIB/drpy.min.js",
-			"searchable":1,
-			"quickSearch":1,
-			"filterable":1,
-			"ext":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/JS/if101[飞].js"
-		},
-		{
 			"key":"csp_Smdyy",
 			"name":"神马",
 			"type":3,
