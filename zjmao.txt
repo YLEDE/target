@@ -173,7 +173,7 @@
 		},
 		{
 			"key":"csp_XBPQ_auete",
-			"name":"Auete1",
+			"name":"Auete",
 			"type":3,
 			"api":"csp_xBPQ",
 			"searchable":1,
@@ -281,16 +281,6 @@
 			"quickSearch":1,
 			"filterable":1,
 			"ext":"https://raw.iqiq.io/troray/dr_py/master/js/IMAX影视.js"
-		},
-		{
-			"key":"drpy_js_Auete",
-			"name":"Auete",
-			"type":3,
-			"api":"https://raw.iqiq.io/troray/dr_py/master/libs/drpy2.min.js",
-			"searchable":1,
-			"quickSearch":1,
-			"filterable":1,
-			"ext":"https://raw.iqiq.io/troray/dr_py/master/js/Auete.js"
 		},
 		{
 			"key":"drpy_js_伊雪湾",
