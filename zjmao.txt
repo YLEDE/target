@@ -130,7 +130,7 @@
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":1,
-                        "ext":"https://libvio.me"
+			"ext":"https://libvio.me"
 		},
 		{
 			"key":"csp_Bttwoo",
@@ -164,7 +164,7 @@
 			"ext": "https://yydsys.top/duo/json/jike.json"
 		},
 		{
-                        "key":"csp_Yht",
+			"key":"csp_Yht",
 			"name":"野荷塘",
 			"type":3,
 			"api":"csp_Yht",
@@ -174,7 +174,7 @@
 			"ext":"https://yehetang.cc"
 		},
 		{
-                        "key":"csp_BuLei",
+			"key":"csp_BuLei",
 			"name":"布蕾",
 			"type":3,
 			"api":"csp_BuLei",
@@ -184,7 +184,7 @@
 			"ext":"https://www.bulei.cc"
 		},
 		{
-                        "key":"csp_Vofl",
+			"key":"csp_Vofl",
 			"name":"Voflix",
 			"type":3,
 			"api":"csp_Voflix",
@@ -237,7 +237,7 @@
 			"key":"csp_Ysgc",
 			"name":"工厂",
 			"type":3,
-			"api":"csp_Ysgc"
+			"api":"csp_Ysgc",
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":1,
