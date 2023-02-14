@@ -51,6 +51,15 @@
 			"filterable":1
 		},
 		{
+			"key":"csp_Voflix",
+			"name":"VOFLIX",
+			"type":3,
+			"api":"csp_Voflix",
+			"searchable":1,
+			"quickSearch":1,
+			"filterable":1
+		},
+		{
 			"key": "csp_AppTT",
 			"name": "图图",
 			"type": 3,
@@ -81,7 +90,6 @@
 			"filterable":0,
 			"ext":"https://raw.fastgit.org/YLEDE/TVBox/master/xpath/cokemv.json"
 		},
-		
 		{
 			"key":"csp_XBPQ_voflix",
 			"name":"voflix",
@@ -204,16 +212,6 @@
 			"ext":"https://www.bulei.cc"
 		},
 		{
-			"key":"drpy_js_IMAX影视",
-			"name":"IMAX影视",
-			"type":3,
-			"api":"https://raw.iqiq.io/troray/dr_py/master/libs/drpy2.min.js",
-			"searchable":1,
-			"quickSearch":1,
-			"filterable":1,
-			"ext":"https://raw.iqiq.io/troray/dr_py/master/js/IMAX影视.js"
-		},
-		{
 			"key":"csp_XBPQ_HOHO",
 			"name":"HOHO",
 			"type":3,
@@ -284,15 +282,25 @@
 			"filterable":1,
 			"ext":"https://www.6080dy2.com"
 		},
-		{
-			"key":"csp_XBPQ_auete",
-			"name":"Auete",
+                {
+			"key":"drpy_js_IMAX影视",
+			"name":"IMAX影视",
 			"type":3,
-			"api":"csp_xBPQ",
+			"api":"https://raw.iqiq.io/troray/dr_py/master/libs/drpy2.min.js",
 			"searchable":1,
 			"quickSearch":1,
-			"filterable":0,
-			"ext":"https://raw.fastgit.org/YLEDE/TVBox/master/xpath/auete.json"
+			"filterable":1,
+			"ext":"https://raw.iqiq.io/troray/dr_py/master/js/IMAX影视.js"
+		},
+		{
+			"key":"drpy_js_Auete",
+			"name":"Auete",
+			"type":3,
+			"api":"https://raw.iqiq.io/troray/dr_py/master/libs/drpy2.min.js",
+			"searchable":1,
+			"quickSearch":1,
+			"filterable":1,
+			"ext":"https://raw.iqiq.io/troray/dr_py/master/js/Auete.js"
 		},
 		{
 			"key":"drpy_js_伊雪湾",
@@ -313,6 +321,16 @@
 			"quickSearch":1,
 			"filterable":1,
 			"ext":"https://raw.iqiq.io/troray/dr_py/master/js/柒之社.js"
+		},
+		{
+			"key":"drpy_js_伊人追剧",
+			"name":"伊人追剧",
+			"type":3,
+			"api":"https://raw.iqiq.io/troray/dr_py/master/libs/drpy2.min.js",
+			"searchable":1,
+			"quickSearch":1,
+			"filterable":1,
+			"ext":"https://raw.iqiq.io/troray/dr_py/master/js/伊人追剧.js"
 		},
 		{
 			"key":"drpy_js_哔哩兔",
@@ -345,16 +363,6 @@
 			"ext":"https://raw.iqiq.io/troray/dr_py/master/js/1080P.js"
 		},
 		{
-			"key":"csp_XBPQ_348",
-			"name":"348电影",
-			"type":3,
-			"api":"csp_xBPQ",
-			"searchable":1,
-			"quickSearch":1,
-			"filterable":0,
-			"ext":"https://raw.fastgit.org/YLEDE/TVBox/master/xpath/348z.json"
-		},
-		{
 			"key":"drpy_js_539影院",
 			"name":"539影院",
 			"type":3,
@@ -363,6 +371,16 @@
 			"quickSearch":1,
 			"filterable":1,
 			"ext":"https://raw.iqiq.io/troray/dr_py/master/js/539影院.js"
+		},
+		{
+			"key":"csp_XBPQ_348",
+			"name":"348电影",
+			"type":3,
+			"api":"csp_xBPQ",
+			"searchable":1,
+			"quickSearch":1,
+			"filterable":0,
+			"ext":"https://raw.fastgit.org/YLEDE/TVBox/master/xpath/348z.json"
 		},
 		{
 			"key":"csp_XBPQ_1010",
@@ -412,6 +430,26 @@
 			"ext":"https://raw.iqiq.io/troray/dr_py/master/js/哔嘀影视.js"
 		},
 		{
+			"key":"drpy_js_333",
+			"name":"333",
+			"type":3,
+			"api":"https://raw.iqiq.io/troray/dr_py/master/libs/drpy2.min.js",
+			"searchable":1,
+			"quickSearch":1,
+			"filterable":1,
+			"ext":"https://raw.iqiq.io/troray/dr_py/master/js/333影视.js"
+		},
+		{
+			"key":"drpy_js_fositv",
+			"name":"fositv",
+			"type":3,
+			"api":"https://raw.iqiq.io/troray/dr_py/master/libs/drpy2.min.js",
+			"searchable":1,
+			"quickSearch":1,
+			"filterable":1,
+			"ext":"https://raw.iqiq.io/troray/dr_py/master/js/fositv.js"
+		},
+		{
 			"key":"csp_XBPQ_lgys",
 			"name":"蓝光影院",
 			"type":3,
@@ -442,16 +480,6 @@
 			"quickSearch":1,
 			"filterable":0,
 			"ext":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7IklEIjozNDc4MiwiQ3JlYXRlZEF0IjoiMjAyMi0wOS0yNlQxMTowOTo0Ni43NDkrMDg6MDAiLCJVcGRhdGVkQXQiOiIyMDIyLTEwLTA1VDEwOjAwOjU5LjA3KzA4OjAwIiwiRGVsZXRlZEF0IjpudWxsLCJ1c2VyX2VtYWlsIjoiNTg3ODEzNDlAcXEuY29tIiwidXNlcl9uYW1lIjoiIiwidXNlcl9wd2QiOiIiLCJ1c2VyX2lkIjoiNTkwOWIyYTMtNTUzOS00NWE3LTg2MjUtODIwZmIwM2M5YzUwIiwidXNlcl9hbnN3ZXIiOiIiLCJsb2NrX2lzIjoiRmFsc2UiLCJpc190diI6IiIsImlzX2FkbWluIjoiRmFsc2UiLCJyZWdfdGltZSI6IjIwMjItMTAtMDVUMTA6MDA6NTkuMDcrMDg6MDAiLCJyZWdfa2V5IjoiNzMwODE2MjAiLCJ0dl90aW1lIjpudWxsLCJ0dl9rZXkiOiIifSwiZXhwIjoxNjY2MzIxNzQ3LCJpc3MiOiJBbGZyZWRvIE1lbmRvemEifQ.P2etFz7ILSDaL4AEUs5-z9E7Vlt0LCJE-UZ1hUa5fYg"
-		},
-		{
-			"key":"drpy_js_333",
-			"name":"333",
-			"type":3,
-			"api":"https://raw.iqiq.io/troray/dr_py/master/libs/drpy2.min.js",
-			"searchable":1,
-			"quickSearch":1,
-			"filterable":1,
-			"ext":"https://raw.iqiq.io/troray/dr_py/master/js/333影视.js"
 		},
 		{
 			"key":"csp_XBPQ_mzt",
