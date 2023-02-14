@@ -91,16 +91,6 @@
 			"ext":"https://raw.fastgit.org/YLEDE/TVBox/master/xpath/cokemv.json"
 		},
 		{
-			"key":"csp_XBPQ_voflix",
-			"name":"voflix",
-			"type":3,
-			"api":"csp_xBPQ",
-			"searchable":1,
-			"quickSearch":1,
-			"filterable":0,
-			"ext":"https://raw.fastgit.org/YLEDE/TVBox/master/xpath/voflix.json"
-		},
-		{
 			"key":"csp_XBPQ_FREEOK",
 			"name":"FREEOK",
 			"type":3,
