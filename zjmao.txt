@@ -78,9 +78,19 @@
 			"playerType":"2",
 			"searchable":1,
 			"quickSearch":1,
-			"filterable":1,
 			"filterable":0,
 			"ext":"https://raw.fastgit.org/YLEDE/TVBox/master/xpath/cokemv.json"
+		},
+		
+		{
+			"key":"csp_XBPQ_voflix",
+			"name":"voflix",
+			"type":3,
+			"api":"csp_xBPQ",
+			"searchable":1,
+			"quickSearch":1,
+			"filterable":0,
+			"ext":"https://raw.fastgit.org/YLEDE/TVBox/master/xpath/voflix.json"
 		},
 		{
 			"key":"csp_XBPQ_FREEOK",
@@ -123,6 +133,16 @@
 			"ext":"https://raw.fastgit.org/YLEDE/TVBox/master/xpath/Nike.json"
 		},
 		{
+			"key":"csp_XBPQ_耐看",
+			"name":"耐看",
+			"type":3,
+			"api":"csp_xBPQ",
+			"searchable":1,
+			"quickSearch":1,
+			"filterable":0,
+			"ext":"https://raw.fastgit.org/YLEDE/TVBox/master/xpath/nkdy.json"
+		},
+		{
 			"key":"csp_Lib",
 			"name":"Libvio",
 			"type":3,
@@ -154,14 +174,14 @@
 			"ext":"https://agit.ai/1414108336/f/raw/branch/master/alitoken.json"
 		},
 		{
-			"key": "YQ_jk",
-			"name": "极客影视",
-			"type": 3,
-			"api": "csp_XYQHiker",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"ext": "https://yydsys.top/duo/json/jike.json"
+			"key":"csp_XBPQ_jike",
+			"name":"极客影院",
+			"type":3,
+			"api":"csp_xBPQ",
+			"searchable":1,
+			"quickSearch":1,
+			"filterable":0,
+			"ext":"https://raw.fastgit.org/YLEDE/TVBox/master/xpath/jike.json"
 		},
 		{
 			"key":"csp_Yht",
@@ -184,15 +204,6 @@
 			"ext":"https://www.bulei.cc"
 		},
 		{
-			"key":"csp_Vofl",
-			"name":"Voflix",
-			"type":3,
-			"api":"csp_Voflix",
-			"searchable":1,
-			"quickSearch":1,
-			"filterable":1
-		},
-		{
 			"key":"drpy_js_IMAX影视",
 			"name":"IMAX影视",
 			"type":3,
@@ -203,14 +214,14 @@
 			"ext":"https://raw.iqiq.io/troray/dr_py/master/js/IMAX影视.js"
 		},
 		{
-			"key":"drpy_js_吼吼",
-			"name":"吼吼",
+			"key":"csp_XBPQ_HOHO",
+			"name":"HOHO",
 			"type":3,
-			"api":"https://raw.iqiq.io/troray/dr_py/master/libs/drpy2.min.js",
+			"api":"csp_xBPQ",
 			"searchable":1,
 			"quickSearch":1,
-			"filterable":1,
-			"ext":"https://raw.iqiq.io/troray/dr_py/master/js/吼吼[飞].js"
+			"filterable":0,
+			"ext":"https://raw.fastgit.org/YLEDE/TVBox/master/xpath/HOHO.json"
 		},
 		{
 			"key":"csp_Czsapp",
@@ -274,14 +285,14 @@
 			"ext":"https://www.6080dy2.com"
 		},
 		{
-			"key":"drpy_js_Auete",
-			"name":"Auete",
+			"key":"csp_XBPQ_auete",
+			"name":"auete",
 			"type":3,
-			"api":"https://raw.iqiq.io/troray/dr_py/master/libs/drpy2.min.js",
+			"api":"csp_xBPQ",
 			"searchable":1,
 			"quickSearch":1,
-			"filterable":1,
-			"ext":"https://raw.iqiq.io/troray/dr_py/master/js/Auete.js"
+			"filterable":0,
+			"ext":"https://raw.fastgit.org/YLEDE/TVBox/master/xpath/auete.json"
 		},
 		{
 			"key":"drpy_js_伊雪湾",
@@ -334,24 +345,14 @@
 			"ext":"https://raw.iqiq.io/troray/dr_py/master/js/1080P.js"
 		},
 		{
-			"key":"drpy_js_双十电影",
-			"name":"双十电影",
-			"type":3,
-			"api":"https://raw.iqiq.io/troray/dr_py/master/libs/drpy2.min.js",
-			"searchable":1,
-			"quickSearch":1,
-			"filterable":1,
-			"ext":"https://raw.iqiq.io/troray/dr_py/master/js/双十电影.js"
-		},
-		{
-			"key":"drpy_js_348",
+			"key":"csp_XBPQ_348",
 			"name":"348电影",
 			"type":3,
-			"api":"https://raw.iqiq.io/troray/dr_py/master/libs/drpy2.min.js",
+			"api":"csp_xBPQ",
 			"searchable":1,
 			"quickSearch":1,
-			"filterable":1,
-			"ext":"https://raw.iqiq.io/troray/dr_py/master/js/348电影网.js"
+			"filterable":0,
+			"ext":"https://raw.fastgit.org/YLEDE/TVBox/master/xpath/348z.json"
 		},
 		{
 			"key":"drpy_js_539影院",
@@ -362,6 +363,16 @@
 			"quickSearch":1,
 			"filterable":1,
 			"ext":"https://raw.iqiq.io/troray/dr_py/master/js/539影院.js"
+		},
+		{
+			"key":"csp_XBPQ_1010",
+			"name":"双十电影",
+			"type":3,
+			"api":"csp_xBPQ",
+			"searchable":1,
+			"quickSearch":1,
+			"filterable":0,
+			"ext":"https://raw.fastgit.org/YLEDE/TVBox/master/xpath/1010.json"
 		},
 		{
 			"key":"csp_360",
@@ -401,14 +412,14 @@
 			"ext":"https://raw.iqiq.io/troray/dr_py/master/js/哔嘀影视.js"
 		},
 		{
-			"key":"csp_Lgyy",
-			"name":"蓝光",
+			"key":"csp_XBPQ_lgys",
+			"name":"蓝光影院",
 			"type":3,
-			"api":"csp_Lgyy",
+			"api":"csp_xBPQ",
 			"searchable":1,
 			"quickSearch":1,
-			"filterable":1,
-			"ext":"https://www.lgyy.tv"
+			"filterable":0,
+			"ext":"https://raw.fastgit.org/YLEDE/TVBox/master/xpath/lgys.json"
 		},
 		{
 			"key":"spider_IKan",
