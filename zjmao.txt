@@ -61,14 +61,14 @@
 			"ext": "http://124.248.68.16:6611$$$U1JLI2UlNFVZdFUjS2lFbyp2c1BxcHIwY0M0YnhBUVc=$$$bzZzWW1tKng1aG4jcmNDdA=="
 		},
 		{
-			"key":"csp_XBPQ_fant",
+			"key":"csp_fant",
 			"name":"饭团",
 			"type":3,
-			"api":"csp_xBPQ",
+			"api":"csp_Fantuan",
 			"searchable":1,
 			"quickSearch":1,
-			"filterable":0,
-			"ext":"https://raw.fastgit.org/YLEDE/TVBox/master/xpath/ftys.json"
+			"filterable":1,
+			"ext":"https://www.fantuanhd.com"
 		},
 		{
 			"key":"csp_XBPQ_Cokemv",
@@ -126,16 +126,17 @@
 			"key":"csp_Lib",
 			"name":"Libvio",
 			"type":3,
-			"api":"csp_Lib",
+			"api":"csp_Libvio",
 			"searchable":1,
 			"quickSearch":1,
-			"filterable":1
+			"filterable":1,
+                        "ext":"https://libvio.me"
 		},
 		{
-			"key":"csp_Bttoo",
-			"name":"BTtwo",
+			"key":"csp_Bttwoo",
+			"name":"BTtwoo",
 			"type":3,
-			"api":"csp_Bttoo",
+			"api":"csp_Bttwoo",
 			"playerType":"2",
 			"searchable":1,
 			"quickSearch":1,
@@ -163,24 +164,33 @@
 			"ext": "https://yydsys.top/duo/json/jike.json"
 		},
 		{
-			"key":"csp_XBPQ_blys",
-			"name":"布蕾",
+                        "key":"csp_Yht",
+			"name":"野荷塘",
 			"type":3,
-			"api":"csp_xBPQ",
-			"searchable":1,
-			"quickSearch":1,
-			"filterable":0,
-			"ext":"https://raw.fastgit.org/YLEDE/TVBox/master/xpath/blys.json"
-		},
-		{
-			"key":"drpy_js_Voflix",
-			"name":"Voflix",
-			"type":3,
-			"api":"https://raw.iqiq.io/troray/dr_py/master/libs/drpy2.min.js",
+			"api":"csp_Yht",
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":1,
-			"ext":"https://raw.iqiq.io/troray/dr_py/master/js/voflix.js"
+			"ext":"https://yehetang.cc"
+		},
+		{
+                        "key":"csp_BuLei",
+			"name":"布蕾",
+			"type":3,
+			"api":"csp_BuLei",
+			"searchable":1,
+			"quickSearch":1,
+			"filterable":1,
+			"ext":"https://www.bulei.cc"
+		},
+		{
+                        "key":"csp_Vofl",
+			"name":"Voflix",
+			"type":3,
+			"api":"csp_Voflix",
+			"searchable":1,
+			"quickSearch":1,
+			"filterable":1
 		},
 		{
 			"key":"drpy_js_IMAX影视",
@@ -206,13 +216,11 @@
 			"key":"csp_Czsapp",
 			"name":"厂长",
 			"type":3,
-			"api":"csp_Dora",
+			"api":"csp_Czsapp",
 			"playerType":"2",
 			"searchable":1,
 			"quickSearch":1,
-			"filterable":1,
-			"ext":"8ee655f702d0d21f3643504783babbc3",
-			"jar":"https://raw.iqiq.io/gaotianliuyun/gao/master/jar/cs.jar"
+			"filterable":1
 		},
 		{
 			"key":"csp_YQK",
@@ -223,18 +231,17 @@
 			"playerType":2,
 			"quickSearch":1,
 			"searchable":1,
-			"ext":"https://api-tx.shumaxc.xyz",
-			"jar":"http://cdn.qiaoji8.com/qj231121.jar"
+			"ext":"https://api-tx.shumaxc.xyz"
 		},
 		{
-			"key":"drpy_js_工厂",
+			"key":"csp_Ysgc",
 			"name":"工厂",
 			"type":3,
-			"api":"https://raw.iqiq.io/troray/dr_py/master/libs/drpy2.min.js",
+			"api":"csp_Ysgc"
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":1,
-			"ext":"https://raw.iqiq.io/troray/dr_py/master/js/影视工场.js"
+			"ext":"https://www.ysgc.fun"
 		},
 		{
 			"key":"csp_Ddrk",
@@ -255,6 +262,16 @@
 			"quickSearch":1,
 			"filterable":1,
 			"ext":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/XB/Nmys.json"
+		},
+		{
+			"key":"csp_Xinsj",
+			"name":"新视觉",
+			"type":3,
+			"api":"csp_Xinsj",
+			"searchable":1,
+			"quickSearch":1,
+			"filterable":1,
+			"ext":"https://www.6080dy2.com"
 		},
 		{
 			"key":"drpy_js_Auete",
@@ -384,14 +401,14 @@
 			"ext":"https://raw.iqiq.io/troray/dr_py/master/js/哔嘀影视.js"
 		},
 		{
-			"key":"drpy_js_蓝光影院",
-			"name":"蓝光影院",
+			"key":"csp_Lgyy",
+			"name":"蓝光",
 			"type":3,
-			"api":"https://raw.iqiq.io/troray/dr_py/master/libs/drpy2.min.js",
+			"api":"csp_Lgyy",
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":1,
-			"ext":"https://raw.iqiq.io/troray/dr_py/master/js/蓝光影院.js"
+			"ext":"https://www.lgyy.tv"
 		},
 		{
 			"key":"spider_IKan",
@@ -424,16 +441,6 @@
 			"quickSearch":1,
 			"filterable":1,
 			"ext":"https://raw.iqiq.io/troray/dr_py/master/js/333影视.js"
-		},
-		{
-			"key":"csp_XBPQ_Fositv",
-			"name":"Fositv",
-			"type":3,
-			"api":"csp_xBPQ",
-			"searchable":1,
-			"quickSearch":1,
-			"filterable":0,
-			"ext":"https://raw.fastgit.org/YLEDE/TVBox/master/xpath/Fositv.json"
 		},
 		{
 			"key":"csp_XBPQ_mzt",
@@ -597,14 +604,14 @@
 			"ext":"https://raw.fastgit.org/YLEDE/TVBox/master/xpath/lgg.json"
 		},
 		{
-			"key":"csp_XBPQ_tvb",
+			"key":"drpy_js_TVB云播",
 			"name":"TVB云播",
 			"type":3,
-			"api":"csp_xBPQ",
+			"api":"https://raw.iqiq.io/troray/dr_py/master/libs/drpy2.min.js",
 			"searchable":1,
 			"quickSearch":1,
-			"filterable":0,
-			"ext":"https://raw.fastgit.org/YLEDE/TVBox/master/xpath/tvb.json"
+			"filterable":1,
+			"ext":"https://raw.iqiq.io/troray/dr_py/master/js/tva云播.js"
 		},
 		{
 			"key":"csp_XBPQ_wpxq",
