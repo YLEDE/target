@@ -172,14 +172,14 @@
 			"ext":"https://agit.ai/1414108336/f/raw/branch/master/alitoken.json"
 		},
 		{
-			"key":"csp_XBPQ_jike",
-			"name":"极客影院",
+			"key":"csp_XBPQ_auete",
+			"name":"Auete1",
 			"type":3,
 			"api":"csp_xBPQ",
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":0,
-			"ext":"https://raw.fastgit.org/YLEDE/TVBox/master/xpath/jike.json"
+			"ext":"https://raw.fastgit.org/YLEDE/TVBox/master/xpath/auete.json"
 		},
 		{
 			"key":"csp_Yht",
