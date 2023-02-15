@@ -51,15 +51,6 @@
 			"filterable":1
 		},
 		{
-			"key":"csp_Voflix",
-			"name":"VOFLIX",
-			"type":3,
-			"api":"csp_Voflix",
-			"searchable":1,
-			"quickSearch":1,
-			"filterable":1
-		},
-		{
 			"key": "csp_AppTT",
 			"name": "图图",
 			"type": 3,
@@ -78,6 +69,16 @@
 			"quickSearch":1,
 			"filterable":1,
 			"ext":"https://www.fantuanhd.com"
+		},
+		{
+			"key":"csp_XBPQ_Voflix",
+			"name":"VOFLIX",
+			"type":3,
+			"api":"csp_xBPQ",
+			"searchable":1,
+			"quickSearch":1,
+			"filterable":0,
+			"ext":"https://raw.fastgit.org/YLEDE/TVBox/master/xpath/voflix.json"
 		},
 		{
 			"key":"csp_XBPQ_Cokemv",
