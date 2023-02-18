@@ -142,36 +142,6 @@
 			"ext":"https://raw.fastgit.org/YLEDE/TVBox/master/xpath/Nike.json"
 		},
 		{
-			"key":"csp_XBPQ_xdys",
-			"name":"兄弟",
-			"type":3,
-			"api":"csp_xBPQ",
-			"searchable":1,
-			"quickSearch":1,
-			"filterable":0,
-			"ext":"https://raw.fastgit.org/YLEDE/TVBox/master/xpath/xdys.json"
-		},
-		{
-			"key":"csp_XBPQ_耐看",
-			"name":"耐看",
-			"type":3,
-			"api":"csp_xBPQ",
-			"searchable":1,
-			"quickSearch":1,
-			"filterable":0,
-			"ext":"https://raw.fastgit.org/YLEDE/TVBox/master/xpath/nkdy.json"
-		},
-		{
-			"key":"csp_XBPQ_jike",
-			"name":"极客",
-			"type":3,
-			"api":"csp_xBPQ",
-			"searchable":1,
-			"quickSearch":1,
-			"filterable":0,
-			"ext":"https://raw.fastgit.org/YLEDE/TVBox/master/xpath/jike.json"
-		},
-		{
 			"key":"csp_Lib",
 			"name":"Libvio",
 			"type":3,
@@ -203,6 +173,37 @@
 			"ext":"https://agit.ai/1414108336/f/raw/branch/master/alitoken.json"
 		},
 		{
+			"key":"csp_YQK",
+			"name":"一起看TV",
+			"api":"csp_YQKAPP",
+			"type":3,
+			"filterable":1,
+			"playerType":2,
+			"quickSearch":1,
+			"searchable":1,
+			"ext":"https://api-tx.shumaxc.xyz"
+		},
+		{
+			"key":"csp_XBPQ_xdys",
+			"name":"兄弟",
+			"type":3,
+			"api":"csp_xBPQ",
+			"searchable":1,
+			"quickSearch":1,
+			"filterable":0,
+			"ext":"https://raw.fastgit.org/YLEDE/TVBox/master/xpath/xdys.json"
+		},
+		{
+			"key":"csp_XBPQ_jike",
+			"name":"极客",
+			"type":3,
+			"api":"csp_xBPQ",
+			"searchable":1,
+			"quickSearch":1,
+			"filterable":0,
+			"ext":"https://raw.fastgit.org/YLEDE/TVBox/master/xpath/jike.json"
+		},
+		{
 			"key":"csp_Yht",
 			"name":"野荷塘",
 			"type":3,
@@ -211,6 +212,16 @@
 			"quickSearch":1,
 			"filterable":1,
 			"ext":"https://yehetang.cc"
+		},
+		{
+			"key":"csp_Ddrk",
+			"name":"低端",
+			"type":3,
+			"api":"csp_xBPQ",
+			"searchable":1,
+			"quickSearch":1,
+			"filterable":0,
+			"ext":"https://raw.fastgit.org/YLEDE/TVBox/master/xpath/ddys.json"
 		},
 		{
 			"key":"csp_BuLei",
@@ -233,37 +244,6 @@
 			"filterable":1
 		},
 		{
-			"key":"csp_YQK",
-			"name":"一起看TV",
-			"api":"csp_YQKAPP",
-			"type":3,
-			"filterable":1,
-			"playerType":2,
-			"quickSearch":1,
-			"searchable":1,
-			"ext":"https://api-tx.shumaxc.xyz"
-		},
-		{
-			"key":"csp_Ysgc",
-			"name":"工厂",
-			"type":3,
-			"api":"csp_Ysgc",
-			"searchable":1,
-			"quickSearch":1,
-			"filterable":1,
-			"ext":"https://www.ysgc.fun"
-		},
-		{
-			"key":"csp_Ddrk",
-			"name":"低端",
-			"type":3,
-			"api":"csp_xBPQ",
-			"searchable":1,
-			"quickSearch":1,
-			"filterable":0,
-			"ext":"https://raw.fastgit.org/YLEDE/TVBox/master/xpath/ddys.json"
-		},
-		{
 			"key":"csp_Nmys",
 			"name":"农民",
 			"type":3,
@@ -274,6 +254,16 @@
 			"ext":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/XB/Nmys.json"
 		},
 		{
+			"key":"csp_XBPQ_耐看",
+			"name":"耐看",
+			"type":3,
+			"api":"csp_xBPQ",
+			"searchable":1,
+			"quickSearch":1,
+			"filterable":0,
+			"ext":"https://raw.fastgit.org/YLEDE/TVBox/master/xpath/nkdy.json"
+		},
+		{
 			"key":"csp_Xinsj",
 			"name":"新视觉",
 			"type":3,
@@ -282,6 +272,16 @@
 			"quickSearch":1,
 			"filterable":1,
 			"ext":"https://www.6080dy2.com"
+		},
+		{
+			"key":"csp_Ysgc",
+			"name":"工厂",
+			"type":3,
+			"api":"csp_Ysgc",
+			"searchable":1,
+			"quickSearch":1,
+			"filterable":1,
+			"ext":"https://www.ysgc.fun"
 		},
 		{
 			"key":"drpy_js_Auete",
