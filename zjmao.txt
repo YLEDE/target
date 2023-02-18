@@ -1,7 +1,7 @@
 {
 	"wallpaper":"https://api.vvhan.com/api/view",
 
-	"spider":"https://gh-proxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/jar/xo.txt",
+	"spider":"https://agit.ai/84816647/gaotianliuyun/raw/branch/master/jar/xo.txt",
 
 	"lives":
 	[
@@ -277,91 +277,91 @@
 			"key":"drpy_js_Auete",
 			"name":"Auete",
 			"type":3,
-			"api":"https://gh-proxy.com/https://raw.githubusercontent.com/troray/dr_py/master/libs/drpy2.min.js",
+			"api":"https://agit.ai/lcx/dr_py/raw/branch/master/libs/drpy2.min.js",
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":1,
-			"ext":"https://gh-proxy.com/https://raw.githubusercontent.com/troray/dr_py/master/js/Auete.js"
+			"ext":"https://agit.ai/lcx/dr_py/raw/branch/master/js/Auete.js"
 		},
                 {
 			"key":"drpy_js_IMAX影视",
 			"name":"IMAX影视",
 			"type":3,
-			"api":"https://gh-proxy.com/https://raw.githubusercontent.com/troray/dr_py/master/libs/drpy2.min.js",
+			"api":"https://agit.ai/lcx/dr_py/raw/branch/master/libs/drpy2.min.js",
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":1,
-			"ext":"https://gh-proxy.com/https://raw.githubusercontent.com/troray/dr_py/master/js/IMAX影视.js"
+			"ext":"https://agit.ai/lcx/dr_py/raw/branch/master/js/IMAX影视.js"
 		},
 		{
 			"key":"drpy_js_伊雪湾",
 			"name":"伊雪湾",
 			"type":3,
-			"api":"https://gh-proxy.com/https://raw.githubusercontent.com/troray/dr_py/master/libs/drpy2.min.js",
+			"api":"https://agit.ai/lcx/dr_py/raw/branch/master/libs/drpy2.min.js",
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":1,
-			"ext":"https://gh-proxy.com/https://raw.githubusercontent.com/troray/dr_py/master/js/伊雪湾.js"
+			"ext":"https://agit.ai/lcx/dr_py/raw/branch/master/js/伊雪湾.js"
 		},
 		{
 			"key":"drpy_js_柒之社",
 			"name":"柒之社",
 			"type":3,
-			"api":"https://gh-proxy.com/https://raw.githubusercontent.com/troray/dr_py/master/libs/drpy2.min.js",
+			"api":"https://agit.ai/lcx/dr_py/raw/branch/master/libs/drpy2.min.js",
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":1,
-			"ext":"https://gh-proxy.com/https://raw.githubusercontent.com/troray/dr_py/master/js/柒之社.js"
+			"ext":"https://agit.ai/lcx/dr_py/raw/branch/master/js/柒之社.js"
 		},
 		{
 			"key":"drpy_js_伊人追剧",
 			"name":"伊人追剧",
 			"type":3,
-			"api":"https://gh-proxy.com/https://raw.githubusercontent.com/troray/dr_py/master/libs/drpy2.min.js",
+			"api":"https://agit.ai/lcx/dr_py/raw/branch/master/libs/drpy2.min.js",
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":1,
-			"ext":"https://gh-proxy.com/https://raw.githubusercontent.com/troray/dr_py/master/js/伊人追剧.js"
+			"ext":"https://agit.ai/lcx/dr_py/raw/branch/master/js/伊人追剧.js"
 		},
 		{
 			"key":"drpy_js_哔哩兔",
 			"name":"哔哩兔",
 			"type":3,
-			"api":"https://gh-proxy.com/https://raw.githubusercontent.com/troray/dr_py/master/libs/drpy2.min.js",
+			"api":"https://agit.ai/lcx/dr_py/raw/branch/master/libs/drpy2.min.js",
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":1,
-			"ext":"https://gh-proxy.com/https://raw.githubusercontent.com/troray/dr_py/master/js/哔哩兔.js"
+			"ext":"https://agit.ai/lcx/dr_py/raw/branch/master/js/哔哩兔.js"
 		},
 		{
 			"key":"drpy_js_天空影视",
 			"name":"天空影视",
 			"type":3,
-			"api":"https://gh-proxy.com/https://raw.githubusercontent.com/troray/dr_py/master/libs/drpy2.min.js",
+			"api":"https://agit.ai/lcx/dr_py/raw/branch/master/libs/drpy2.min.js",
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":1,
-			"ext":"https://gh-proxy.com/https://raw.githubusercontent.com/troray/dr_py/master/js/天空影视.js"
+			"ext":"https://agit.ai/lcx/dr_py/raw/branch/master/js/天空影视.js"
 		},
 		{
 			"key":"drpy_js_1080P",
 			"name":"1080P",
 			"type":3,
-			"api":"https://gh-proxy.com/https://raw.githubusercontent.com/troray/dr_py/master/libs/drpy2.min.js",
+			"api":"https://agit.ai/lcx/dr_py/raw/branch/master/libs/drpy2.min.js",
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":1,
-			"ext":"https://gh-proxy.com/https://raw.githubusercontent.com/troray/dr_py/master/js/1080P.js"
+			"ext":"https://agit.ai/lcx/dr_py/raw/branch/master/js/1080P.js"
 		},
 		{
 			"key":"drpy_js_539影院",
 			"name":"539影院",
 			"type":3,
-			"api":"https://gh-proxy.com/https://raw.githubusercontent.com/troray/dr_py/master/libs/drpy2.min.js",
+			"api":"https://agit.ai/lcx/dr_py/raw/branch/master/libs/drpy2.min.js",
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":1,
-			"ext":"https://gh-proxy.com/https://raw.githubusercontent.com/troray/dr_py/master/js/539影院.js"
+			"ext":"https://agit.ai/lcx/dr_py/raw/branch/master/js/539影院.js"
 		},
 		{
 			"key":"csp_XBPQ_348",
@@ -414,31 +414,31 @@
 			"key":"drpy_js_哔嘀",
 			"name":"哔嘀",
 			"type":3,
-			"api":"https://gh-proxy.com/https://raw.githubusercontent.com/troray/dr_py/master/libs/drpy2.min.js",
+			"api":"https://agit.ai/lcx/dr_py/raw/branch/master/libs/drpy2.min.js",
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":1,
-			"ext":"https://gh-proxy.com/https://raw.githubusercontent.com/troray/dr_py/master/js/哔嘀影视.js"
+			"ext":"https://agit.ai/lcx/dr_py/raw/branch/master/js/哔嘀影视.js"
 		},
 		{
 			"key":"drpy_js_333",
 			"name":"333",
 			"type":3,
-			"api":"https://gh-proxy.com/https://raw.githubusercontent.com/troray/dr_py/master/libs/drpy2.min.js",
+			"api":"https://agit.ai/lcx/dr_py/raw/branch/master/libs/drpy2.min.js",
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":1,
-			"ext":"https://gh-proxy.com/https://raw.githubusercontent.com/troray/dr_py/master/js/333影视.js"
+			"ext":"https://agit.ai/lcx/dr_py/raw/branch/master/js/333影视.js"
 		},
 		{
 			"key":"drpy_js_fositv",
 			"name":"fositv",
 			"type":3,
-			"api":"https://gh-proxy.com/https://raw.githubusercontent.com/troray/dr_py/master/libs/drpy2.min.js",
+			"api":"https://agit.ai/lcx/dr_py/raw/branch/master/libs/drpy2.min.js",
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":1,
-			"ext":"https://gh-proxy.com/https://raw.githubusercontent.com/troray/dr_py/master/js/fositv.js"
+			"ext":"https://agit.ai/lcx/dr_py/raw/branch/master/js/fositv.js"
 		},
 		{
 			"key":"csp_XBPQ_lgys",
@@ -637,11 +637,11 @@
 			"key":"drpy_js_TVB云播",
 			"name":"TVB云播",
 			"type":3,
-			"api":"https://gh-proxy.com/https://raw.githubusercontent.com/troray/dr_py/master/libs/drpy2.min.js",
+			"api":"https://agit.ai/lcx/dr_py/raw/branch/master/libs/drpy2.min.js",
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":1,
-			"ext":"https://gh-proxy.com/https://raw.githubusercontent.com/troray/dr_py/master/js/tva云播.js"
+			"ext":"https://agit.ai/lcx/dr_py/raw/branch/master/js/tva云播.js"
 		},
 		{
 			"key":"csp_XBPQ_wpxq",
@@ -657,11 +657,11 @@
 			"key":"drpy_js_免费看",
 			"name":"免费看",
 			"type":3,
-			"api":"https://gh-proxy.com/https://raw.githubusercontent.com/troray/dr_py/master/libs/drpy2.min.js",
+			"api":"https://agit.ai/lcx/dr_py/raw/branch/master/libs/drpy2.min.js",
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":1,
-			"ext":"https://gh-proxy.com/https://raw.githubusercontent.com/troray/dr_py/master/js/免费看.js"
+			"ext":"https://agit.ai/lcx/dr_py/raw/branch/master/js/免费看.js"
 		},
 		{
 			"key":"csp_xpath_wuguiyy",
