@@ -81,6 +81,16 @@
 			"ext":"https://raw.fastgit.org/YLEDE/TVBox/master/xpath/voflix.json"
 		},
 		{
+			"key":"csp_XBPQ_HOHO",
+			"name":"HOHO",
+			"type":3,
+			"api":"csp_xBPQ",
+			"searchable":1,
+			"quickSearch":1,
+			"filterable":0,
+			"ext":"https://raw.fastgit.org/YLEDE/TVBox/master/xpath/HOHO.json"
+		},
+		{
 			"key":"csp_XBPQ_Cokemv",
 			"name":"Cokemv",
 			"type":3,
@@ -211,16 +221,6 @@
 			"quickSearch":1,
 			"filterable":1,
 			"ext":"https://www.bulei.cc"
-		},
-		{
-			"key":"csp_XBPQ_HOHO",
-			"name":"HOHO",
-			"type":3,
-			"api":"csp_xBPQ",
-			"searchable":1,
-			"quickSearch":1,
-			"filterable":0,
-			"ext":"https://raw.fastgit.org/YLEDE/TVBox/master/xpath/HOHO.json"
 		},
 		{
 			"key":"csp_Czsapp",
