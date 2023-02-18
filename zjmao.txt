@@ -284,6 +284,16 @@
 			"ext":"https://www.ysgc.fun"
 		},
 		{
+			"key":"drpy_js_fositv",
+			"name":"fositv",
+			"type":3,
+			"api":"https://gitee.com/xinyitv/dr_py/raw/master/libs/drpy2.min.js",
+			"searchable":1,
+			"quickSearch":1,
+			"filterable":1,
+			"ext":"https://gitee.com/xinyitv/dr_py/raw/master/js/fositv.js"
+		},
+		{
 			"key":"drpy_js_Auete",
 			"name":"Auete",
 			"type":3,
@@ -439,16 +449,6 @@
 			"quickSearch":1,
 			"filterable":1,
 			"ext":"https://gitee.com/xinyitv/dr_py/raw/master/js/333影视.js"
-		},
-		{
-			"key":"drpy_js_fositv",
-			"name":"fositv",
-			"type":3,
-			"api":"https://gitee.com/xinyitv/dr_py/raw/master/libs/drpy2.min.js",
-			"searchable":1,
-			"quickSearch":1,
-			"filterable":1,
-			"ext":"https://gitee.com/xinyitv/dr_py/raw/master/js/fositv.js"
 		},
 		{
 			"key":"csp_XBPQ_lgys",
