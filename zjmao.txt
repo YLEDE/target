@@ -459,7 +459,7 @@
 			"searchable":1,
 			"filterable":1,
 			"ext":"a4ce9a4ba7d4f4bced2ff9dfc4ab4e50",
-			"jar":"https://gh-proxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/jar/cs.jar"
+			"jar":"https://gitee.com/ajin0913/gao/raw/master/jar/cs.jar"
 
 		},
 		{
