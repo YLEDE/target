@@ -264,6 +264,26 @@
 			"ext":"https://raw.fastgit.org/YLEDE/TVBox/master/xpath/nkdy.json"
 		},
 		{
+			"key":"csp_XBPQ_blt",
+			"name":"哔哩兔",
+			"type":3,
+			"api":"csp_xBPQ",
+			"searchable":1,
+			"quickSearch":1,
+			"filterable":0,
+			"ext":"https://raw.fastgit.org/YLEDE/TVBox/master/xpath/blt.json"
+		},
+		{
+			"key":"csp_XBPQ_wmxz",
+			"name":"无名小站",
+			"type":3,
+			"api":"csp_xBPQ",
+			"searchable":1,
+			"quickSearch":1,
+			"filterable":0,
+			"ext":"https://raw.fastgit.org/YLEDE/TVBox/master/xpath/wmxz.json"
+		},
+		{
 			"key":"csp_Xinsj",
 			"name":"新视觉",
 			"type":3,
@@ -354,16 +374,6 @@
 			"ext":"https://gitee.com/xinyitv/dr_py/raw/master/js/伊人追剧.js"
 		},
 		{
-			"key":"drpy_js_哔哩兔",
-			"name":"哔哩兔",
-			"type":3,
-			"api":"https://gitee.com/xinyitv/dr_py/raw/master/libs/drpy2.min.js",
-			"searchable":1,
-			"quickSearch":1,
-			"filterable":1,
-			"ext":"https://gitee.com/xinyitv/dr_py/raw/master/js/哔哩兔.js"
-		},
-		{
 			"key":"drpy_js_天空影视",
 			"name":"天空影视",
 			"type":3,
@@ -412,6 +422,26 @@
 			"quickSearch":1,
 			"filterable":0,
 			"ext":"https://raw.fastgit.org/YLEDE/TVBox/master/xpath/1010.json"
+		},
+		{
+			"key":"csp_XBPQ_phys",
+			"name":"胖虎影视",
+			"type":3,
+			"api":"csp_xBPQ",
+			"searchable":1,
+			"quickSearch":1,
+			"filterable":0,
+			"ext":"https://raw.fastgit.org/YLEDE/TVBox/master/xpath/phys.json"
+		},
+		{
+			"key":"csp_XBPQ_sbb",
+			"name":"素白白",
+			"type":3,
+			"api":"csp_xBPQ",
+			"searchable":1,
+			"quickSearch":1,
+			"filterable":0,
+			"ext":"https://raw.fastgit.org/YLEDE/TVBox/master/xpath/subaibai.json"
 		},
 		{
 			"key":"csp_360",
