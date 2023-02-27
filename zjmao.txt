@@ -18,8 +18,7 @@
 			"key":"T4_douban",
 			"name":"影视推荐",
 			"type":4,
-			"api":"
-			"ext":"https://t4.xn--sss604efuw.ml/vod",
+			"api":"https://t4.xn--sss604efuw.ml/vod",
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":1
