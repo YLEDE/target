@@ -18,7 +18,7 @@
 			"key":"T4_douban",
 			"name":"影视推荐",
 			"type":4,
-			"api":"https://t4.饭太硬.ml/vod",
+			"api":"http://top.fuqizhishi.com/vod",
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":1
