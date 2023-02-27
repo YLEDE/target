@@ -18,7 +18,8 @@
 			"key":"T4_douban",
 			"name":"影视推荐",
 			"type":4,
-			"api":"http://42.192.248.11:8080/vod?sites=all&ali_token=http://home.jundie.top:666/token.txt",
+			"api":"
+			"ext":"https://t4.xn--sss604efuw.ml/vod",
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":1
