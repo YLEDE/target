@@ -18,11 +18,11 @@
 			"key":"drpy_js_豆瓣",
 			"name":"影视推荐",
 			"type":3,
-			"api":"./lib/drpy2.min.js",
+			"api":"https://gitee.com/ajin0913/gao/raw/master/lib/drpy2.min.js",
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":1,
-			"ext":"./js/drpy.js"
+			"ext":"https://gitee.com/ajin0913/gao/raw/master/js/drpy.js"
 		},
 		{
 			"key":"csp_apple",
