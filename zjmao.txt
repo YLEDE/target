@@ -18,7 +18,7 @@
 			"key":"T4_douban",
 			"name":"影视推荐",
 			"type":4,
-			"api":"https://t4.secan.icu/vod",
+			"api":"https://t4.secan.icu/vod?sites=all&ali_token=http://9xi4o.tk/sub/token.txt&timeout=5",
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":1
