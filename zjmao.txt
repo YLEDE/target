@@ -15,14 +15,13 @@
 
 	"sites":[
 		{
-			"key":"drpy_js_豆瓣",
+			"key":"T4_douban",
 			"name":"影视推荐",
-			"type":3,
-			"api":"https://gitee.com/ajin0913/gao/raw/master/lib/drpy2.min.js",
+			"type":4,
+			"api":"http://42.192.248.11:8080/vod?sites=all&ali_token=http://home.jundie.top:666/token.txt",
 			"searchable":1,
 			"quickSearch":1,
-			"filterable":1,
-			"ext":"https://gitee.com/ajin0913/gao/raw/master/js/drpy.js"
+			"filterable":1
 		},
 		{
 			"key":"csp_apple",
