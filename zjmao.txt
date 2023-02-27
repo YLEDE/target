@@ -15,13 +15,14 @@
 
 	"sites":[
 		{
-			"key":"T4_douban",
-			"name":"影视推荐",
-			"type":4,
-			"api":"https://t4.饭太硬.ml/vod",
+			"key":"drpy_js_豆瓣",
+			"name":"首页推荐",
+			"type":3,
+			"api":"https://agit.ai/laozou/gao/raw/branch/libs/drpy2.min.js",
 			"searchable":1,
 			"quickSearch":1,
-			"filterable":1
+			"filterable":1,
+			"ext":"https://agit.ai/laozou/gao/raw/branch/master/js/drpy.js"
 		},
 		{
 			"key":"csp_apple",
