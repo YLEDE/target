@@ -18,7 +18,7 @@
 			"key":"drpy_js_豆瓣",
 			"name":"首页推荐",
 			"type":3,
-			"api":"https://agit.ai/laozou/gao/raw/branch/libs/drpy2.min.js",
+			"api":"https://agit.ai/laozou/gao/raw/branch/master/lib/drpy2.min.js",
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":1,
