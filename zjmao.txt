@@ -192,7 +192,7 @@
 			"playerType":2,
 			"quickSearch":1,
 			"searchable":1,
-			"ext":"https://api-tx.shumaxc.xyz"
+			"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/tok.txt"
 		},
 		{
 			"key":"csp_xBPQ_xdys",
