@@ -180,7 +180,7 @@
 			"quickSearch":1,
 			"filterable":1,
 			"changeable":"0",
-			"ext":"https://agit.ai/1414108336/f/raw/branch/master/alitoken.json"
+			"ext":"https://gitee.com/liyangju/ali/raw/master/token.txt"
 		},
 		{
 			"key":"csp_YQK",
