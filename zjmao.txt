@@ -180,7 +180,7 @@
 			"quickSearch":1,
 			"filterable":1,
 			"changeable":"0",
-			"ext":"https://gitee.com/liyangju/ali/raw/master/token.txt"
+			"ext":"https://gitee.com/cally20/tvbox/raw/master/man/ali/token.txt"
 		},
 		{
 			"key":"csp_YQK",
