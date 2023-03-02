@@ -52,10 +52,10 @@
 			"filterable":1
 		},
 		{
-			"key": "csp_AppTT",
+			"key": "csp_TutuYs",
 			"name": "图图",
 			"type": 3,
-			"api": "csp_AppTT",
+			"api": "csp_TutuYs",
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
@@ -181,7 +181,8 @@
 			"quickSearch":1,
 			"filterable":1,
 			"changeable":"0",
-			"ext":"https://agit.ai/1414108336/f/raw/branch/master/alitoken.json"
+			"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/tok.txt",
+			"jar":"https://agit.ai/dlee2008/TVBOXZY/raw/branch/main/JS/fm.jar"
 		},
 		{
 			"key":"csp_YQK",
