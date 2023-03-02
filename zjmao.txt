@@ -59,7 +59,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": "http://154.39.64.151:3434",
+			"ext": "http://124.248.66.89:7788",
 			"jar":"http://cdn.qiaoji8.com/fix230228.jar"
 		},
 		{
