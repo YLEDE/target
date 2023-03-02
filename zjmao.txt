@@ -60,7 +60,7 @@
 			"quickSearch": 1,
 			"filterable": 1,
 			"ext": "http://124.248.66.89:7788",
-			"jar":"http://cdn.qiaoji8.com/fix230228.jar"
+			"jar":"https://gitea.com/Yoursmile11/ppcat/raw/branch/master/qj.jar"
 		},
 		{
 			"key":"csp_fant",
