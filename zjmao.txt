@@ -52,7 +52,7 @@
 			"filterable":1
 		},
 		{
-			"key": "csp_TutuYs",
+			"key": "csp_AppTT",
 			"name": "图图",
 			"type": 3,
 			"api": "csp_TutuYs",
@@ -60,7 +60,7 @@
 			"quickSearch": 1,
 			"filterable": 1,
 			"ext": "http://124.248.66.89:7788",
-			"jar":"https://gitea.com/Yoursmile11/ppcat/raw/branch/master/qj.jar"
+			"jar":"https://wanjune.github.io/static/tvbox/jar/qj.dylib"
 		},
 		{
 			"key":"csp_fant",
