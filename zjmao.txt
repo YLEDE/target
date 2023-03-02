@@ -59,8 +59,8 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": "http://124.248.66.89:7788",
-			"jar":"https://wanjune.github.io/static/tvbox/jar/qj.dylib"
+			"ext": "hhttp://124.248.66.89:7788/",
+			"jar":"https://gitea.com/Yoursmile11/ppcat/raw/branch/master/qj.jar"
 		},
 		{
 			"key":"csp_fant",
