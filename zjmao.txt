@@ -15,14 +15,13 @@
 
 	"sites":[
 		{
-			"key":"drpy_js_douban",
+			"key":"T4_douban",
 			"name":"影视推荐",
-			"type":3,
-			"api":"https://gitee.com/xinyitv/dr_py/raw/master/libs/drpy2.min.js",
-			"searchable":0,
+			"type":4,
+			"api":"http://42.192.248.11:5395/vod",
+			"searchable":1,
 			"quickSearch":1,
-			"filterable":1,
-			"ext":"https://raw.fastgit.org/YLEDE/TVBox/master/xpath/drpy.js"
+			"filterable":1
 		},
 		{
 			"key":"csp_apple",
