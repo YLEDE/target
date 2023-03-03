@@ -173,16 +173,16 @@
 			"ext":"https://raw.fastgit.org/YLEDE/TVBox/master/xpath/Fositv.json"
 		},
 		{
-			"key":"csp_GitCafe",
+			"key":"csp_Paper",
 			"name":"纸条",
 			"type":3,
-			"api":"csp_GitCafe",
+			"api":"csp_Paper",
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":1,
 			"changeable":"0",
 			"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/tok.txt",
-			"jar":"http://cdn.qiaoji8.com/fix230228.jar"
+			"jar":"http://maoyingshi.cc/tvbox/云星日记/jar/ali.jpg"
 		},
 		{
 			"key":"csp_YQK",
