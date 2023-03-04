@@ -317,7 +317,7 @@
 		},
 		{
 			"key":"drpy_js_布雷蓝光",
-			"name":"布雷蓝光",
+			"name":"布蕾蓝光",
 			"type":3,
 			"api":"https://gitee.com/xinyitv/dr_py/raw/master/libs/drpy2.min.js",
 			"playerType":2,
