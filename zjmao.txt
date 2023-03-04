@@ -196,14 +196,14 @@
 			"ext":"https://api-tx.shumaxc.xyz"
 		},
 		{
-			"key":"csp_xBPQ_xdys",
-			"name":"兄弟",
+			"key":"csp_xBPQ_blys",
+			"name":"布雷",
 			"type":3,
 			"api":"csp_XBPQ",
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":0,
-			"ext":"https://raw.fastgit.org/YLEDE/TVBox/master/xpath/xdys.json"
+			"ext":"https://raw.fastgit.org/YLEDE/TVBox/master/xpath/blys.json"
 		},
 		{
 			"key":"csp_xBPQ_jike",
