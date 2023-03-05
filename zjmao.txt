@@ -70,7 +70,7 @@
 			"quickSearch":1,
 			"filterable":1,
 			"m3u8ads": "wan.51img1.com",
-			"ext": "https://www.bulei.cc"
+			"jar": "http://我不是.肥猫.love:63/Jar/panda230216.jar"
 		},
 		{
 			"key":"csp_fant",
