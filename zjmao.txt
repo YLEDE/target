@@ -33,14 +33,14 @@
 			"filterable":1
 		},
 		{
-			"key":"csp_77",
-			"name":"七七",
-			"type":3,
-			"api":"csp_Kunyu77",
-			"searchable":1,
-			"quickSearch":1,
-			"filterable":1,
-			"jar":"https://raw.iqiq.io/lyliangyuxuan/feimao/main/jar/alipro.jar"
+			"key": "py_kunyu77",
+            "name": "七七",
+            "type": 3,
+            "api": "py_kunyu77",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://agit.ai/elmosky/v1/raw/branch/main/py/py_kunyu77.py"
 		},
 		{
 			"key":"csp_kuaikan",
