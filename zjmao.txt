@@ -184,7 +184,7 @@
 			"filterable":1,
 			"changeable":"0",
 			"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/tok.txt",
-			"jar":"http://maoyingshi.cc/tvbox/云星日记/jar/ali.jpg"
+			"jar":"https://raw.iqiq.io/lyliangyuxuan/feimao/main/jar/alipro.jar"
 		},
 		{
 			"key":"csp_YQK",
