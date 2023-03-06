@@ -34,13 +34,13 @@
 		},
 		{
 			"key": "py_kunyu77",
-            "name": "七七",
-            "type": 3,
-            "api": "py_kunyu77",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://agit.ai/elmosky/v1/raw/branch/main/py/py_kunyu77.py"
+                        "name": "七七",
+                        "type": 3,
+                        "api": "py_kunyu77",
+                        "searchable": 1,
+                        "quickSearch": 1,
+                        "filterable": 1,
+			"ext": "https://agit.ai/elmosky/v1/raw/branch/main/py/py_kunyu77.py"
 		},
 		{
 			"key":"csp_kuaikan",
