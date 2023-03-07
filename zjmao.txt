@@ -1,7 +1,7 @@
 {
 	"wallpaper":"https://api.vvhan.com/api/view",
 
-	"spider":"https://gitee.com/ajin0913/gao/raw/master/jar/xo.txt",
+	"spider":"https://gitee.com/ajin0913/gao/raw/master/jar/fan.txt",
 
 	"lives":
 	[
@@ -33,14 +33,13 @@
 			"filterable":1
 		},
 		{
-			"key": "py_kunyu77",
-			"name": "七七",
-			"type": 3,
-			"api": "py_kunyu77",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"ext": "https://agit.ai/elmosky/v1/raw/branch/main/py/py_kunyu77.py"
+			"key":"csp_77",
+			"name":"七七",
+			"type":3,
+			"api":"csp_Kunyu77",
+			"searchable":1,
+			"quickSearch":1,
+			"filterable":1
 		},
 		{
 			"key":"csp_kuaikan",
@@ -52,15 +51,23 @@
 			"filterable":1
 		},
 		{
-			"key": "csp_AppTT",
-			"name": "图图",
-			"type": 3,
-			"api": "csp_TutuYs",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"ext":"http://154.39.64.151:3434",
-			"jar":"http://我不是.肥猫.love:63/Jar/TT.jar"
+			"key":"csp_AppMr",
+			"name":"明明",
+			"type":3,
+			"api":"csp_AppMr",
+			"searchable":1,
+			"quickSearch":1,
+			"filterable":1
+		},
+		{
+			"key":"csp_AppTT",
+			"name":"图图",
+			"type":3,
+			"api":"csp_AppTT",
+			"searchable":1,
+			"quickSearch":1,
+			"filterable":1,
+			"ext":"tv$$$dlJYWW16R0IqbmlsV3JMdCNkMFZ0OE1JdzRJQW1yY3I=$$$Y2hpbm16R0JiKnpYUCNWWg==$$$aHR0cDovL2FwaS50dDU4LnR2L2NvbmZpZy9uZXd0di5qc29uP3NzPQ=="
 		},
 		{
 			"key":"csp_BuLei",
@@ -70,8 +77,8 @@
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":1,
-			"m3u8ads": "wan.51img1.com",
-			"jar": "http://我不是.肥猫.love:63/Jar/panda230216.jar"
+			"m3u8ads":"wan.51img1.com",
+			"ext": "https://www.bulei.ccr"
 		},
 		{
 			"key":"csp_fant",
@@ -187,7 +194,7 @@
 			"jar":"https://raw.iqiq.io/lyliangyuxuan/feimao/main/jar/alipro.jar"
 		},
 		{
-			"key":"csp_YQK",
+			"key":"csp_YQKAPP",
 			"name":"一起看TV",
 			"api":"csp_YQKAPP",
 			"type":3,
@@ -296,16 +303,6 @@
 			"quickSearch":1,
 			"filterable":1,
 			"ext":"https://www.6080dy2.com"
-		},
-		{
-			"key":"csp_Ysgc",
-			"name":"工厂",
-			"type":3,
-			"api":"csp_Ysgc",
-			"searchable":1,
-			"quickSearch":1,
-			"filterable":1,
-			"ext":"https://www.ysgc.fun"
 		},
 		{
 			"key":"drpy_js_哔嘀",
