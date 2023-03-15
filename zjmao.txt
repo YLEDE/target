@@ -335,14 +335,14 @@
 			"ext":"https://gitee.com/xinyitv/dr_py/raw/master/js/Auete.js"
 		},
 		{
-			"key":"drpy_js_Fositv",
-			"name":"Fositv",
+			"key":"drpy_js_HDmoli",
+			"name":"HDmoli",
 			"type":3,
 			"api":"https://gitee.com/xinyitv/dr_py/raw/master/libs/drpy2.min.js",
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":1,
-			"ext":"https://gitee.com/xinyitv/dr_py/raw/master/js/fositv.js"
+			"ext":"https://gitee.com/xinyitv/dr_py/raw/master/js/HDmoli.js"
 		},
 		{
 			"key":"drpy_js_B站",
