@@ -225,14 +225,14 @@
 			"ext":"https://raw.fastgit.org/YLEDE/TVBox/master/xpath/jike.json"
 		},
 		{
-			"key":"csp_Yht",
-			"name":"野荷塘",
+			"key":"csp_Hlsp",
+			"name":"黑料",
 			"type":3,
-			"api":"csp_Yht",
+			"api":"csp_Hlsp",
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":1,
-			"ext":"https://yehetang.cc"
+			"ext":"https://raw.fastgit.org/YLEDE/TVBox/master/xpath/Hlsp.json"
 		},
 		{
 			"key":"csp_Ddrk",
