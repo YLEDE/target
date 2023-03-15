@@ -513,7 +513,7 @@
 		},
 		{
 			"key":"csp_xBPQ_akys",
-			"name":"爱看影视",
+			"name":"爱看",
 			"type":3,
 			"api":"csp_XBPQ",
 			"searchable":1,
