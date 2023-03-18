@@ -325,14 +325,14 @@
 			"ext":"https://gitee.com/xinyitv/dr_py/raw/master/js/Auete.js"
 		},
 		{
-			"key":"drpy_js_豆巴影视",
-			"name":"豆巴",
+			"key":"drpy_js_网飞影视",
+			"name":"网飞",
 			"type":3,
 			"api":"https://gitee.com/xinyitv/dr_py/raw/master/libs/drpy2.min.js",
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":1,
-			"ext":"https://gitee.com/xinyitv/dr_py/raw/master/js/豆巴影视.js"
+			"ext":"https://gitee.com/xinyitv/dr_py/raw/master/js/网飞.TV.js"
 		},
 		{
 			"key":"drpy_js_HDmoli",
@@ -385,14 +385,14 @@
 			"ext":"https://gitee.com/xinyitv/dr_py/raw/master/js/539影院.js"
 		},
 		{
-			"key":"drpy_js_伊雪湾",
-			"name":"伊雪湾",
+			"key":"drpy_js_伊人",
+			"name":"伊人",
 			"type":3,
 			"api":"https://gitee.com/xinyitv/dr_py/raw/master/libs/drpy2.min.js",
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":1,
-			"ext":"https://gitee.com/xinyitv/dr_py/raw/master/js/伊雪湾.js"
+			"ext":"https://gitee.com/xinyitv/dr_py/raw/master/js/伊人追剧.js"
 		},
 		{
 			"key":"drpy_js_柒之社",
