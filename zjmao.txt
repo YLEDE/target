@@ -204,15 +204,15 @@
 			"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/tok.txt"
 		},
 		{
-			"key":"csp_YQKAPP",
-			"name":"一起看",
-			"api":"csp_YQKAPP",
-			"type":3,
-			"filterable":1,
-			"playerType":2,
-			"quickSearch":1,
-			"searchable":1,
-			"ext":"https://api-tx.shumaxc.xyz"
+		"key":"YQK_spider",
+		"name":"一起看",
+		"type":3,
+		"api":"csp_Dora",
+		"searchable":1,
+		"quickSearch":1,
+		"filterable":1,
+		"ext":"8e3aefcba838d8dc5102ac786719d837",
+		"jar":"https://gitee.com/ajin0913/gao/raw/master/jar/cs.jar"
 		},
 		{
 			"key":"csp_xBPQ_jike",
