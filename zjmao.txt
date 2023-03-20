@@ -325,14 +325,24 @@
 			"ext":"https://gitee.com/leezn09/drpy/raw/master/js/Auete.js"
 		},
 		{
-			"key":"drpy_js_伊雪湾",
-			"name":"伊雪湾",
+			"key":"drpy_js_朴樱",
+			"name":"朴樱",
 			"type":3,
 			"api":"https://gitee.com/leezn09/drpy/raw/master/libs/drpy2.min.js",
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":1,
-			"ext":"https://gitee.com/leezn09/drpy/raw/master/js/伊雪湾.js"
+			"ext":"https://gitee.com/leezn09/drpy/raw/master/js/朴樱影视.js"
+		},
+		{
+			"key":"drpy_js_伊人",
+			"name":"伊人",
+			"type":3,
+			"api":"https://gitee.com/leezn09/drpy/raw/master/libs/drpy2.min.js",
+			"searchable":1,
+			"quickSearch":1,
+			"filterable":1,
+			"ext":"https://gitee.com/leezn09/drpy/raw/master/js/伊人追剧.js"
 		},
 		{
 			"key":"drpy_js_HDmoli",
