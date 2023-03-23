@@ -18,7 +18,7 @@
 			"key":"T4_douban",
 			"name":"影视推荐",
 			"type":4,
-			"api":"https://t4.xn--sss604efuw.ml/vod",
+			"api":"https://raw.fastgit.org/YLEDE/TVBox/master/xpath/douban.json",
 			"searchable":0,
 			"quickSearch":1,
 			"filterable":1
