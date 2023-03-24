@@ -18,11 +18,11 @@
 			"key":"T4_douban",
 			"name":"影视推荐",
 			"type":3,
-			"api":"https://gitee.com/RTXRui/TVBox/raw/master/js/lib/drpy2.min.js",
+			"api":"https://gitee.com/leezn09/drpy/raw/master/libs/drpy2.min.js",
 			"searchable":0,
 			"quickSearch":1,
 			"filterable":1,
-			"ext":"https://gitee.com/RTXRui/TVBox/raw/master/js/%E8%B1%86%E7%93%A3.js"
+			"ext":"https://gitee.com/RTXRui/TVBox/raw/master/js/douban.js"
 		},
 		{
 			"key":"csp_apple",
