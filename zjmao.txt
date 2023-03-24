@@ -18,11 +18,11 @@
 			"key":"T4_douban",
 			"name":"影视推荐",
 			"type":3,
-			"api":"http://wl.iptv6.top/电视猫免费外链/1679522327.js",
+			"api":"https://gitee.com/RTXRui/TVBox/raw/master/js/lib/drpy2.min.js",
 			"searchable":2,
 			"quickSearch":0,
 			"filterable":0,
-			"ext":"http://wl.iptv6.top/电视猫免费外链/1679497693.js"
+			"ext":"https://gitee.com/RTXRui/TVBox/raw/master/js/%E8%B1%86%E7%93%A3.js"
 		},
 		{
 			"key":"csp_apple",
