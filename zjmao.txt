@@ -1,7 +1,7 @@
 {
 	"wallpaper":"https://api.vvhan.com/api/view",
 
-	"spider":"https://gitee.com/ajin0913/gao/raw/master/jar/fan.jpg",
+	"spider":"https://gitee.com/ajin0913/gao/raw/master/jar/fan.txt",
 
 	"lives":
 	[
