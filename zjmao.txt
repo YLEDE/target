@@ -96,16 +96,6 @@
 			"ext":"https://www.fantuanhd.com"
 		},
 		{
-			"key":"csp_zxzj",
-			"name":"在线",
-			"type":3,
-			"api":"csp_Zxzj",
-			"searchable":1,
-			"quickSearch":1,
-			"filterable":1,
-			"ext":"https://www.zxzjhd.com"
-		},
-		{
 			"key":"csp_Xinsj",
 			"name":"新视觉",
 			"type":3,
@@ -115,6 +105,36 @@
 			"quickSearch":1,
 			"filterable":1,
 			"ext":"https://www.6080dy3.com"
+		},
+		{
+			"key":"csp_Czsapp",
+			"name":"厂长",
+			"type":3,
+			"api":"csp_Czsapp",
+			"m3u8ads": "hd.youyhn.com",
+			"playerType":"2",
+			"searchable":1,
+			"quickSearch":1,
+			"filterable":1
+		},
+		{
+			"key":"csp_Nmys",
+			"name":"农民",
+			"type":3,
+			"api":"csp_Nmys",
+			"searchable":1,
+			"quickSearch":1,
+			"filterable":1,
+			"ext":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/XB/Nmys.json"
+		},
+		{
+			"key":"csp_Auete",
+			"name":"Auete",
+			"type": 3,
+			"api":"csp_Auete",
+			"searchable":1,
+			"quickSearch":1,
+			"filterable":1
 		},
 		{
 			"key":"csp_Lib",
@@ -127,16 +147,6 @@
 			"ext":"https://tv.libvio.cc"
 		},
 		{
-			"key":"csp_Bttwoo",
-			"name":"BTtwoo",
-			"type":3,
-			"api":"csp_Bttwoo",
-			"playerType":"2",
-			"searchable":1,
-			"quickSearch":1,
-			"filterable":1
-		},
-		{
 			"key":"csp_xBPQ_Voflix",
 			"name":"VOFLIX",
 			"type":3,
@@ -145,6 +155,16 @@
 			"quickSearch":1,
 			"filterable":0,
 			"ext":"https://raw.fastgit.org/YLEDE/TVBox/master/xpath/voflix.json"
+		},
+		{
+			"key":"csp_Bttwoo",
+			"name":"BTtwoo",
+			"type":3,
+			"api":"csp_Bttwoo",
+			"playerType":"2",
+			"searchable":1,
+			"quickSearch":1,
+			"filterable":1
 		},
 		{
 			"key":"csp_xBPQ_Cokemv",
@@ -198,127 +218,6 @@
 			"ext":"https://raw.fastgit.org/YLEDE/TVBox/master/xpath/Nike.json"
 		},
 		{
-			"key":"csp_xBPQ_BuLei",
-			"name":"布蕾",
-			"type":3,
-			"api":"csp_XBPQ",
-			"searchable":1,
-			"quickSearch":1,
-			"filterable":0,
-			"ext":"https://raw.fastgit.org/YLEDE/TVBox/master/xpath/blys.json"
-		},
-		{
-			"key":"csp_xBPQ_Yht",
-			"name":"野荷塘",
-			"type":3,
-			"api":"csp_XBPQ",
-			"searchable":1,
-			"quickSearch":1,
-			"filterable":0,
-			"ext":"https://raw.fastgit.org/YLEDE/TVBox/master/xpath/yeht.json"
-		},
-		{
-			"key":"csp_Ddrk",
-			"name":"低端",
-			"type":3,
-			"api":"csp_XBPQ",
-			"searchable":1,
-			"quickSearch":1,
-			"filterable":0,
-			"ext":"https://raw.fastgit.org/YLEDE/TVBox/master/xpath/ddys.json"
-		},
-		{
-			"key":"csp_xBPQ_Lezhu",
-			"name":"乐猪",
-			"type":3,
-			"api":"csp_XBPQ",
-			"searchable":1,
-			"quickSearch":1,
-			"filterable":0,
-			"ext":"https://raw.fastgit.org/YLEDE/TVBox/master/xpath/lezhutv.json"
-		},
-		{
-			"key":"csp_xBPQ_jike",
-			"name":"极客",
-			"type":3,
-			"api":"csp_XBPQ",
-			"searchable":1,
-			"quickSearch":1,
-			"filterable":0,
-			"ext":"https://raw.fastgit.org/YLEDE/TVBox/master/xpath/jike.json"
-		},
-		{
-			"key":"csp_Hlsp",
-			"name":"黑料",
-			"type":3,
-			"api":"csp_Hlsp",
-			"searchable":1,
-			"quickSearch":1,
-			"filterable":1,
-			"ext":"https://raw.fastgit.org/YLEDE/TVBox/master/xpath/Hlsp.json"
-		},
-		{
-			"key":"csp_Czsapp",
-			"name":"厂长",
-			"type":3,
-			"api":"csp_Czsapp",
-			"m3u8ads": "hd.youyhn.com",
-			"playerType":"2",
-			"searchable":1,
-			"quickSearch":1,
-			"filterable":1
-		},
-		{
-			"key":"csp_Nmys",
-			"name":"农民",
-			"type":3,
-			"api":"csp_Nmys",
-			"searchable":1,
-			"quickSearch":1,
-			"filterable":1,
-			"ext":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/XB/Nmys.json"
-		},
-		{
-			"key": "csp_xBPQ_肥猫",
-			"name": "肥猫",
-			"type": 3,
-			"api": "csp_XBPQ",
-			"searchable":1,
-			"quickSearch":1,
-			"filterable":0,
-			"ext": "http://我不是.肥猫.love:63/json/肥猫影院.json"
-		},
-		{
-			"key":"csp_xBPQ_耐看",
-			"name":"耐看",
-			"type":3,
-			"api":"csp_XBPQ",
-			"searchable":1,
-			"quickSearch":1,
-			"filterable":0,
-			"ext":"https://raw.fastgit.org/YLEDE/TVBox/master/xpath/nkdy.json"
-		},
-		{
-			"key":"csp_xBPQ_blt",
-			"name":"哔哩兔",
-			"type":3,
-			"api":"csp_XBPQ",
-			"searchable":1,
-			"quickSearch":1,
-			"filterable":0,
-			"ext":"https://raw.fastgit.org/YLEDE/TVBox/master/xpath/blt.json"
-		},
-		{
-			"key":"csp_xBPQ_wmxz",
-			"name":"无名",
-			"type":3,
-			"api":"csp_XBPQ",
-			"searchable":1,
-			"quickSearch":1,
-			"filterable":0,
-			"ext":"https://raw.fastgit.org/YLEDE/TVBox/master/xpath/wmxz.json"
-		},
-		{
 			"key":"csp_Paper",
 			"name":"纸条",
 			"type":3,
@@ -341,14 +240,114 @@
 			"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/tok.txt"
 		},
 		{
-			"key":"drpy_js_Auete",
-			"name":"Auete",
+			"key":"csp_xBPQ_BuLei",
+			"name":"布蕾",
 			"type":3,
-			"api":"https://gitee.com/leezn09/drpy/raw/master/libs/drpy2.min.js",
+			"api":"csp_XBPQ",
+			"searchable":1,
+			"quickSearch":1,
+			"filterable":0,
+			"ext":"https://raw.fastgit.org/YLEDE/TVBox/master/xpath/blys.json"
+		},
+		{
+			"key":"csp_Ddrk",
+			"name":"低端",
+			"type":3,
+			"api":"csp_XBPQ",
+			"searchable":1,
+			"quickSearch":1,
+			"filterable":0,
+			"ext":"https://raw.fastgit.org/YLEDE/TVBox/master/xpath/ddys.json"
+		},
+		{
+			"key":"csp_Hlsp",
+			"name":"黑料",
+			"type":3,
+			"api":"csp_Hlsp",
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":1,
-			"ext":"https://gitee.com/leezn09/drpy/raw/master/js/Auete.js"
+			"ext":"https://raw.fastgit.org/YLEDE/TVBox/master/xpath/Hlsp.json"
+		},
+		{
+			"key":"csp_xBPQ_Yht",
+			"name":"野荷塘",
+			"type":3,
+			"api":"csp_XBPQ",
+			"searchable":1,
+			"quickSearch":1,
+			"filterable":0,
+			"ext":"https://raw.fastgit.org/YLEDE/TVBox/master/xpath/yeht.json"
+		},
+		{
+			"key":"csp_xBPQ_jike",
+			"name":"极客",
+			"type":3,
+			"api":"csp_XBPQ",
+			"searchable":1,
+			"quickSearch":1,
+			"filterable":0,
+			"ext":"https://raw.fastgit.org/YLEDE/TVBox/master/xpath/jike.json"
+		},
+		{
+			"key":"csp_xBPQ_耐看",
+			"name":"耐看",
+			"type":3,
+			"api":"csp_XBPQ",
+			"searchable":1,
+			"quickSearch":1,
+			"filterable":0,
+			"ext":"https://raw.fastgit.org/YLEDE/TVBox/master/xpath/nkdy.json"
+		},
+		{
+			"key":"csp_xBPQ_blt",
+			"name":"哔哩兔",
+			"type":3,
+			"api":"csp_XBPQ",
+			"searchable":1,
+			"quickSearch":1,
+			"filterable":0,
+			"ext":"https://raw.fastgit.org/YLEDE/TVBox/master/xpath/blt.json"
+		},
+		{
+			"key":"csp_xBPQ_348",
+			"name":"348",
+			"type":3,
+			"api":"csp_XBPQ",
+			"searchable":1,
+			"quickSearch":1,
+			"filterable":0,
+			"ext":"https://raw.fastgit.org/YLEDE/TVBox/master/xpath/348z.json"
+		},
+		{
+			"key":"csp_xBPQ_1010",
+			"name":"双十",
+			"type":3,
+			"api":"csp_XBPQ",
+			"searchable":1,
+			"quickSearch":1,
+			"filterable":0,
+			"ext":"https://raw.fastgit.org/YLEDE/TVBox/master/xpath/1010.json"
+		},
+		{
+			"key":"csp_xBPQ_sbb",
+			"name":"素白白",
+			"type":3,
+			"api":"csp_XBPQ",
+			"searchable":1,
+			"quickSearch":1,
+			"filterable":0,
+			"ext":"https://raw.fastgit.org/YLEDE/TVBox/master/xpath/subaibai.json"
+		},
+		{
+			"key":"csp_xBPQ_Lezhu",
+			"name":"乐猪",
+			"type":3,
+			"api":"csp_XBPQ",
+			"searchable":1,
+			"quickSearch":1,
+			"filterable":0,
+			"ext":"https://raw.fastgit.org/YLEDE/TVBox/master/xpath/lezhutv.json"
 		},
 		{
 			"key":"drpy_js_朴樱",
@@ -471,36 +470,6 @@
 			"ext":"https://gitee.com/leezn09/drpy/raw/master/js/大豆.js"
 		},
 		{
-			"key":"csp_xBPQ_348",
-			"name":"348",
-			"type":3,
-			"api":"csp_XBPQ",
-			"searchable":1,
-			"quickSearch":1,
-			"filterable":0,
-			"ext":"https://raw.fastgit.org/YLEDE/TVBox/master/xpath/348z.json"
-		},
-		{
-			"key":"csp_xBPQ_1010",
-			"name":"双十",
-			"type":3,
-			"api":"csp_XBPQ",
-			"searchable":1,
-			"quickSearch":1,
-			"filterable":0,
-			"ext":"https://raw.fastgit.org/YLEDE/TVBox/master/xpath/1010.json"
-		},
-		{
-			"key":"csp_xBPQ_sbb",
-			"name":"素白白",
-			"type":3,
-			"api":"csp_XBPQ",
-			"searchable":1,
-			"quickSearch":1,
-			"filterable":0,
-			"ext":"https://raw.fastgit.org/YLEDE/TVBox/master/xpath/subaibai.json"
-		},
-		{
 			"key":"csp_Smdyy",
 			"name":"神马",
 			"type":3,
@@ -569,7 +538,7 @@
 		},
 		{
 			"key":"csp_xBPQ_dmxq",
-			"name":"大米星球",
+			"name":"大米",
 			"type":3,
 			"api":"csp_XBPQ",
 			"searchable":1,
@@ -626,16 +595,6 @@
 			"quickSearch":1,
 			"filterable":0,
 			"ext":"https://raw.fastgit.org/YLEDE/TVBox/master/xpath/kanlm.json"
-		},
-		{
-			"key":"csp_xBPQ_mdtv",
-			"name":"麦豆",
-			"type":3,
-			"api":"csp_XBPQ",
-			"searchable":1,
-			"quickSearch":1,
-			"filterable":0,
-			"ext":"https://raw.fastgit.org/YLEDE/TVBox/master/xpath/mdtv.json"
 		},
 		{
 			"key":"csp_xBPQ_xgys",
@@ -729,13 +688,43 @@
 		},
 		{
 			"key":"csp_xpath_9ekk",
-			"name":"9亿国语",
+			"name":"9亿",
 			"type":3,
 			"api":"csp_XPath",
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":0,
 			"ext":"https://raw.fastgit.org/YLEDE/TVBox/master/xpath/9ekk.json"
+		},
+		{
+			"key": "csp_xBPQ_肥猫",
+			"name": "肥猫",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"searchable":1,
+			"quickSearch":1,
+			"filterable":0,
+			"ext": "http://我不是.肥猫.love:63/json/肥猫影院.json"
+		},
+		{
+			"key":"csp_xBPQ_wmxz",
+			"name":"无名",
+			"type":3,
+			"api":"csp_XBPQ",
+			"searchable":1,
+			"quickSearch":1,
+			"filterable":0,
+			"ext":"https://raw.fastgit.org/YLEDE/TVBox/master/xpath/wmxz.json"
+		},
+		{
+			"key":"csp_xBPQ_mdtv",
+			"name":"麦豆",
+			"type":3,
+			"api":"csp_XBPQ",
+			"searchable":1,
+			"quickSearch":1,
+			"filterable":0,
+			"ext":"https://raw.fastgit.org/YLEDE/TVBox/master/xpath/mdtv.json"
 		}
 	],
 
