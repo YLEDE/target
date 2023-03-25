@@ -118,16 +118,6 @@
 			"filterable":1
 		},
 		{
-			"key":"csp_Nmys",
-			"name":"农民",
-			"type":3,
-			"api":"csp_Nmys",
-			"searchable":1,
-			"quickSearch":1,
-			"filterable":1,
-			"ext":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/XB/Nmys.json"
-		},
-		{
 			"key":"csp_Auete",
 			"name":"Auete",
 			"type": 3,
@@ -458,6 +448,16 @@
 			"quickSearch":1,
 			"filterable":1,
 			"ext":"https://gitee.com/leezn09/drpy/raw/master/js/网飞.TV.js"
+		},
+		{
+			"key":"csp_Nmys",
+			"name":"农民",
+			"type":3,
+			"api":"csp_Nmys",
+			"searchable":1,
+			"quickSearch":1,
+			"filterable":1,
+			"ext":"https://agit.ai/lem85930/OneClickRun/raw/branch/master/XB/Nmys.json"
 		},
 		{
 			"key":"csp_Lgyy",
