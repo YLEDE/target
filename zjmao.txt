@@ -8,7 +8,7 @@
 		{
 			"group":"redirect","channels":
 			[{
-				"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHMlM0EvL3Jhdy5pcWlxLmlvL1lMRURFL1RWQm94L21hc3Rlci90di9saXZlLnR4dA=="]
+				"name":"live","urls":["proxy://do=live&type=txt&ext=https://raw.iqiq.io/YLEDE/TVBox/master/tv/live.txt"]
 			}]
 		}
 	],
