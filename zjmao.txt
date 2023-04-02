@@ -206,7 +206,7 @@
 			"quickSearch":1,
 			"filterable":1,
 			"changeable":"0",
-			"ext":"http://ali.饭太硬.ml/alitoken"
+			"ext":"6b6f6748881546e9b2ee54388aa4b6ba"
 		},
 		{
 			"key":"csp_PanSou",
@@ -217,7 +217,7 @@
 			"quickSearch":1,
 			"filterable":1,
 			"changeable":"0",
-			"ext":"http://ali.饭太硬.ml/alitoken"
+			"ext":"6b6f6748881546e9b2ee54388aa4b6ba"
 		},
 		{
 			"key":"csp_xBPQ_BuLei",
