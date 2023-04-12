@@ -205,7 +205,7 @@
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":1,
-			"ext":https://raw.fastgit.org/YLEDE/TVBox/master/token.txt"
+			"ext":"https://raw.fastgit.org/YLEDE/TVBox/master/token.txt"
 		},
 		{
 			"key":"csp_Paper",
