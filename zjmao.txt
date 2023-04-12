@@ -205,7 +205,7 @@
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":1,
-			"ext":ae092ecdb74e45f2bdbe4cf81343acbf"},
+			"ext":https://raw.fastgit.org/YLEDE/TVBox/master/token.txt"},
 		{
 			"key":"csp_Paper",
 			"name":"纸条",
@@ -215,7 +215,7 @@
 			"quickSearch":1,
 			"filterable":1,
 			"changeable":"0",
-			"ext":"ae092ecdb74e45f2bdbe4cf81343acbf"
+			"ext":"https://raw.fastgit.org/YLEDE/TVBox/master/token.txt"
 		},
 		{
 			"key":"csp_PanSou",
@@ -226,7 +226,7 @@
 			"quickSearch":1,
 			"filterable":1,
 			"changeable":"0",
-			"ext":"ae092ecdb74e45f2bdbe4cf81343acbf"
+			"ext":"https://raw.fastgit.org/YLEDE/TVBox/master/token.txt"
 		},
 		{
 			"key":"csp_xBPQ_BuLei",
