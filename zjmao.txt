@@ -216,6 +216,7 @@
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":1,
+			"changeable":0,
 			"ext":"https://raw.fastgit.org/YLEDE/TVBox/master/token.txt"
 		},
 		{
