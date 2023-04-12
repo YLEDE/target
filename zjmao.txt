@@ -198,6 +198,15 @@
 			"ext":"https://raw.fastgit.org/YLEDE/TVBox/master/xpath/Nike.json"
 		},
 		{
+			"key":"csp_WoGG",
+			"name":"玩偶",
+			"type":3,
+			"api":"csp_WoGG",
+			"searchable":1,
+			"quickSearch":1,
+			"filterable":1,
+			"ext":ae092ecdb74e45f2bdbe4cf81343acbf"},
+		{
 			"key":"csp_Paper",
 			"name":"纸条",
 			"type":3,
