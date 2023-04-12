@@ -206,7 +206,7 @@
 			"quickSearch":1,
 			"filterable":1,
 			"changeable":"0",
-			"ext":"67ac5d3f073844de82f75d2245888354"
+			"ext":"ae092ecdb74e45f2bdbe4cf81343acbf"
 		},
 		{
 			"key":"csp_PanSou",
@@ -217,7 +217,7 @@
 			"quickSearch":1,
 			"filterable":1,
 			"changeable":"0",
-			"ext":"67ac5d3f073844de82f75d2245888354"
+			"ext":"ae092ecdb74e45f2bdbe4cf81343acbf"
 		},
 		{
 			"key":"csp_xBPQ_BuLei",
