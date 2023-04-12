@@ -205,7 +205,8 @@
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":1,
-			"ext":https://raw.fastgit.org/YLEDE/TVBox/master/token.txt"},
+			"ext":https://raw.fastgit.org/YLEDE/TVBox/master/token.txt"
+		},
 		{
 			"key":"csp_Paper",
 			"name":"纸条",
@@ -214,7 +215,6 @@
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":1,
-			"changeable":"0",
 			"ext":"https://raw.fastgit.org/YLEDE/TVBox/master/token.txt"
 		},
 		{
@@ -225,7 +225,6 @@
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":1,
-			"changeable":"0",
 			"ext":"https://raw.fastgit.org/YLEDE/TVBox/master/token.txt"
 		},
 		{
