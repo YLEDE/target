@@ -52,14 +52,14 @@
 			"filterable":1
 		},
 		{
-			"key":"BuLei",
+			"key":"csp_BuLei",
 			"name":"布蕾",
 			"type":3,
 			"api":"csp_BuLei",
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":1,
-			"ext": "http://movie.bulei.cc"
+			"jar":"https://gitee.com/lekanbox/ysc/raw/master/YSC.jar"
 		},
 		{
 			"key":"csp_AppTT",
@@ -69,6 +69,7 @@
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":1,
+			"jar":"https://gitee.com/lekanbox/ysc/raw/master/YSC.jar",
 			"ext":"dk1YWXFYbkhNbmlsU1JLI01kMFZ0OE1JdzRJQW1yY3I=$$$Y2hpbkpaUzdiTXpYbzZzWQ==$$$aHR0cDovL2FwaS50dDU4LnR2L2NvbmZpZy9uZXd0di5qc29uP3NzPQ=="
 		},
 		{
