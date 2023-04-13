@@ -34,15 +34,6 @@
 			"filterable":1
 		},
 		{
-			"key":"csp_77",
-			"name":"七七",
-			"type":3,
-			"api":"csp_Kunyu77",
-			"searchable":1,
-			"quickSearch":1,
-			"filterable":1
-		},
-		{
 			"key":"csp_kuaikan",
 			"name":"快看",
 			"type":3,
@@ -71,7 +62,7 @@
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":1,
-			"ext":"tv$$$dlJYWXFYbkgqbmlsU1JLIyNkMFZ0OE1JdzRJQW1yY3I=$$$Y2hpbkpaUzdiKnpYbzZzWQ==$$$aHR0cDovL2FwaS50dDU4LnR2L2NvbmZpZy9uZXd0di5qc29uP3NzPQ=="
+			"ext":"dk1YWXFYbkhNbmlsU1JLI01kMFZ0OE1JdzRJQW1yY3I=$$$Y2hpbkpaUzdiTXpYbzZzWQ==$$$aHR0cDovL2FwaS50dDU4LnR2L2NvbmZpZy9uZXd0di5qc29uP3NzPQ=="
 		},
 		{
 			"key":"csp_YQKAPP",
@@ -206,7 +197,8 @@
 			"quickSearch":1,
 			"filterable":1,
 			"changeable":0,
-			"ext":"https://raw.fastgit.org/YLEDE/TVBox/master/token.txt"
+			"ext":"https://raw.fastgit.org/YLEDE/TVBox/master/token.txt",
+			"jar":"https://gitee.com/lekanbox/ysc/raw/master/aliyun.jar"
 		},
 		{
 			"key":"csp_Paper",
@@ -217,7 +209,8 @@
 			"quickSearch":1,
 			"filterable":1,
 			"changeable":0,
-			"ext":"https://raw.fastgit.org/YLEDE/TVBox/master/token.txt"
+			"ext":"https://raw.fastgit.org/YLEDE/TVBox/master/token.txt",
+			"jar":"https://gitee.com/lekanbox/ysc/raw/master/aliyun.jar"
 		},
 		{
 			"key":"csp_PanSou",
@@ -228,7 +221,8 @@
 			"quickSearch":1,
 			"filterable":1,
 			"changeable":0,
-			"ext":"https://raw.fastgit.org/YLEDE/TVBox/master/token.txt"
+			"ext":"https://raw.fastgit.org/YLEDE/TVBox/master/token.txt",
+			"jar":"https://gitee.com/lekanbox/ysc/raw/master/aliyun.jar"
 		},
 		{
 			"key":"csp_xBPQ_BuLei",
