@@ -229,16 +229,6 @@
 			"jar":"https://gitee.com/lekanbox/ysc/raw/master/aliyun.jar"
 		},
 		{
-			"key":"csp_xBPQ_BuLei",
-			"name":"布蕾",
-			"type":3,
-			"api":"csp_XBPQ",
-			"searchable":1,
-			"quickSearch":1,
-			"filterable":0,
-			"ext":"https://raw.fastgit.org/YLEDE/TVBox/master/xpath/blys.json"
-		},
-		{
 			"key":"csp_Ddrk",
 			"name":"低端",
 			"type":3,
