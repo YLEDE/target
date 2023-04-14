@@ -111,10 +111,10 @@
 			"filterable":1
 		},
 		{
-			"key":"csp_Auete",
-			"name":"Auete",
+			"key":"csp_Cokemv",
+			"name":"Cokemv",
 			"type": 3,
-			"api":"csp_Auete",
+			"api":"csp_Cokemv",
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":1
@@ -138,17 +138,6 @@
 			"quickSearch":1,
 			"filterable":0,
 			"ext":"https://raw.fastgit.org/YLEDE/TVBox/master/xpath/voflix.json"
-		},
-		{
-			"key":"csp_xBPQ_Cokemv",
-			"name":"Cokemv",
-			"type":3,
-			"api":"csp_XBPQ",
-			"playerType":"2",
-			"searchable":1,
-			"quickSearch":1,
-			"filterable":0,
-			"ext":"https://raw.fastgit.org/YLEDE/TVBox/master/xpath/cokemv.json"
 		},
 		{
 			"key":"csp_xBPQ_555",
@@ -232,16 +221,6 @@
 			"quickSearch":1,
 			"filterable":0,
 			"ext":"https://raw.fastgit.org/YLEDE/TVBox/master/xpath/ddys.json"
-		},
-		{
-			"key":"csp_Hlsp",
-			"name":"黑料",
-			"type":3,
-			"api":"csp_XBPQ",
-			"searchable":1,
-			"quickSearch":1,
-			"filterable":0,
-			"ext":"https://raw.fastgit.org/YLEDE/TVBox/master/xpath/Hlsp.json"
 		},
 		{
 			"key":"csp_xBPQ_Yht",
