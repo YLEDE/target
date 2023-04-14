@@ -1,7 +1,7 @@
 {
 	"wallpaper":"https://api.vvhan.com/api/view",
 
-	"spider":"https://gitee.com/ajin0913/gao/raw/master/jar/fan.txt",
+	"spider":"https://gitee.com/jiandjh/tvbox/raw/master/Yoursmile.jar",
 
 	"lives":
 	[
@@ -58,8 +58,7 @@
 			"api":"csp_BuLei",
 			"searchable":1,
 			"quickSearch":1,
-			"filterable":1,
-			"jar":"https://gitee.com/lekanbox/ysc/raw/master/YSC.jar"
+			"filterable":1
 		},
 		{
 			"key":"csp_AppTT",
@@ -69,7 +68,6 @@
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":1,
-			"jar":"https://gitee.com/lekanbox/ysc/raw/master/YSC.jar",
 			"ext":"dk1YWXFYbkhNbmlsU1JLI01kMFZ0OE1JdzRJQW1yY3I=$$$Y2hpbkpaUzdiTXpYbzZzWQ==$$$aHR0cDovL2FwaS50dDU4LnR2L2NvbmZpZy9uZXd0di5qc29uP3NzPQ=="
 		},
 		{
@@ -201,8 +199,7 @@
 			"quickSearch":1,
 			"filterable":1,
 			"changeable":0,
-			"ext":"https://raw.fastgit.org/YLEDE/TVBox/master/token.txt",
-			"jar":"https://gitee.com/lekanbox/ysc/raw/master/aliyun.jar"
+			"ext":"https://raw.fastgit.org/YLEDE/TVBox/master/token.txt"
 		},
 		{
 			"key":"csp_Paper",
@@ -213,8 +210,7 @@
 			"quickSearch":1,
 			"filterable":1,
 			"changeable":0,
-			"ext":"https://raw.fastgit.org/YLEDE/TVBox/master/token.txt",
-			"jar":"https://gitee.com/lekanbox/ysc/raw/master/aliyun.jar"
+			"ext":"https://raw.fastgit.org/YLEDE/TVBox/master/token.txt"
 		},
 		{
 			"key":"csp_PanSou",
@@ -225,8 +221,7 @@
 			"quickSearch":1,
 			"filterable":1,
 			"changeable":0,
-			"ext":"https://raw.fastgit.org/YLEDE/TVBox/master/token.txt",
-			"jar":"https://gitee.com/lekanbox/ysc/raw/master/aliyun.jar"
+			"ext":"https://raw.fastgit.org/YLEDE/TVBox/master/token.txt"
 		},
 		{
 			"key":"csp_Ddrk",
