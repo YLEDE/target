@@ -18,10 +18,11 @@
 			"key":"T4_douban",
 			"name":"影视推荐",
 			"type":3,
-			"api":"https://t4.饭太硬.ml/vod",
+			"api":"https://gitee.com/leezn09/drpy/raw/master/libs/drpy2.min.js",
 			"searchable":0,
 			"quickSearch":1,
-			"filterable":1"
+			"filterable":1,
+			"ext":"https://gitee.com/RTXRui/TVBox/raw/master/js/douban.js"
 		},
 		{
 			"key":"csp_apple",
