@@ -1,7 +1,7 @@
 {
 	"wallpaper":"https://api.vvhan.com/api/view",
 
-	"spider":"https://gitee.com/RTXRui/tvbox/raw/master/fty.jar",
+	"spider":"https://gitee.com/jiandjh/tvbox/raw/master/Yoursmile.jar",
 
 	"lives":
 	[
@@ -73,12 +73,13 @@
 		},
 		{
 			"key":"csp_BuLei",
-			"name":"布雷",
+			"name":"布蕾",
 			"type":3,
 			"api":"csp_BuLei",
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":1,
+			"jar":"https://gitee.com/RTXRui/tvbox/raw/master/fty.jar",
 			"ext":"http://movie.bulei.cc$$$auto$$$leeqys$$$zz999520"
 		},
 		{
