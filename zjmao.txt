@@ -22,7 +22,7 @@
 			"searchable":0,
 			"quickSearch":1,
 			"filterable":1,
-			"ext":"https://gitee.com/RTXRui/TVBox/raw/master/js/douban.js"
+			"ext":"https://gitee.com/RTXRui/tvbox/raw/master/js/douban.js"
 		},
 		{
 			"key":"csp_apple",
