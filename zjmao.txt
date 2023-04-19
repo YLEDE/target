@@ -80,7 +80,7 @@
 			"quickSearch":1,
 			"filterable":1,
 			"jar":"https://gitee.com/RTXRui/tvbox/raw/master/fty.jar",
-			"ext":"http://movie.bulei.cc$$$auto$$$Y3031921985Y$$$yjr19960927"
+			"ext":"http://movie.bulei.cc$$$auto$$$bulei$$$bulei"
 		},
 		{
 			"key":"csp_fant",
