@@ -189,6 +189,7 @@
 			"quickSearch":1,
 			"filterable":1,
 			"changeable":0,
+			"jar":"https://gitee.com/lekanbox/ysc/raw/master/aliyun.jar",
 			"ext":"https://raw.fastgit.org/YLEDE/TVBox/master/token.txt"
 		},
 		{
@@ -200,6 +201,7 @@
 			"quickSearch":1,
 			"filterable":1,
 			"changeable":0,
+			"jar":"https://gitee.com/lekanbox/ysc/raw/master/aliyun.jar",
 			"ext":"https://raw.fastgit.org/YLEDE/TVBox/master/token.txt"
 		},
 		{
@@ -211,6 +213,7 @@
 			"quickSearch":1,
 			"filterable":1,
 			"changeable":0,
+			"jar":"https://gitee.com/lekanbox/ysc/raw/master/aliyun.jar",
 			"ext":"https://raw.fastgit.org/YLEDE/TVBox/master/token.txt"
 		},
 		{
