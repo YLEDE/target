@@ -1,7 +1,7 @@
 {
 	"wallpaper":"https://api.vvhan.com/api/view",
 
-	"spider":"https://gitee.com/jiandjh/tvbox/raw/master/Yoursmile.jar",
+	"spider":"https://gitee.com/RTXRui/tvbox/raw/master/fty.jar",
 
 	"lives":
 	[
@@ -79,8 +79,7 @@
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":1,
-			"jar":"https://gitee.com/RTXRui/tvbox/raw/master/fty.jar",
-			"ext":"http://movie.bulei.cc$$$auto$$$bulei$$$bulei"
+			"ext":"http://movie.bulei.cc$$$auto$$$Y3031921985$$$nn201314jj"
 		},
 		{
 			"key":"csp_fant",
