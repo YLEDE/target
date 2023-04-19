@@ -1,7 +1,7 @@
 {
 	"wallpaper":"https://api.vvhan.com/api/view",
 
-	"spider":"https://gitee.com/jiandjh/tvbox/raw/master/Yoursmile.jar",
+	"spider":"https://gitee.com/lekanbox/ysc/raw/master/YSC.jar",
 
 	"lives":
 	[
