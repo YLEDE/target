@@ -1,7 +1,7 @@
 {
 	"wallpaper":"https://api.vvhan.com/api/view",
 
-	"spider":"https://gitee.com/lekanbox/ysc/raw/master/YSC.jar",
+	"spider":"https://raw.fastgit.org/52670576/tvbox/main/YSC.jar",
 
 	"lives":
 	[
@@ -188,7 +188,7 @@
 			"quickSearch":1,
 			"filterable":1,
 			"changeable":0,
-			"jar":"https://gitee.com/lekanbox/ysc/raw/master/aliyun.jar",
+			"jar":"https://raw.fastgit.org/52670576/tvbox/main/aliyun.jar",
 			"ext":"https://raw.fastgit.org/YLEDE/TVBox/master/token.txt"
 		},
 		{
@@ -200,7 +200,7 @@
 			"quickSearch":1,
 			"filterable":1,
 			"changeable":0,
-			"jar":"https://gitee.com/lekanbox/ysc/raw/master/aliyun.jar",
+			"jar":"https://raw.fastgit.org/52670576/tvbox/main/aliyun.jar",
 			"ext":"https://raw.fastgit.org/YLEDE/TVBox/master/token.txt"
 		},
 		{
@@ -212,7 +212,7 @@
 			"quickSearch":1,
 			"filterable":1,
 			"changeable":0,
-			"jar":"https://gitee.com/lekanbox/ysc/raw/master/aliyun.jar",
+			"jar":"https://raw.fastgit.org/52670576/tvbox/main/aliyun.jar",
 			"ext":"https://raw.fastgit.org/YLEDE/TVBox/master/token.txt"
 		},
 		{
