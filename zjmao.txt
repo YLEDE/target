@@ -1,7 +1,7 @@
 {
 	"wallpaper":"https://api.vvhan.com/api/view",
 
-	"spider":"https://gitee.com/jiandjh/tvbox/raw/master/Yoursmile.jar",
+	"spider":"https://gitee.com/RTXRui/tvbox/raw/main/fan.jar",
 
 	"lives":
 	[
@@ -22,7 +22,7 @@
 			"searchable":0,
 			"quickSearch":1,
 			"filterable":1,
-			"ext":"https://gitee.com/RTXRui/tvbox/raw/master/js/douban.js"
+			"ext":"https://gitee.com/RTXRui/tvbox/raw/main/js/douban.js"
 		},
 		{
 			"key":"csp_apple",
