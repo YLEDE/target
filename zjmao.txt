@@ -292,7 +292,7 @@
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":1,
-			"ext":"https://raw.fastgit.org/YLEDE/TVBox/master/xpath/吼吼[飞].js"
+			"ext":"https://gitee.com/leezn09/drpy/raw/master/js/吼吼[飞].js"
 		},
 		{
 			"key":"drpy_js_无名",
