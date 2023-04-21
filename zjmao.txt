@@ -188,7 +188,6 @@
 			"quickSearch":1,
 			"filterable":1,
 			"changeable":0,
-			"jar":"https://raw.iqiq.io/52670576/tvbox/main/aliyun.jar",
 			"ext":"https://raw.fastgit.org/YLEDE/TVBox/master/token.txt"
 		},
 		{
@@ -200,7 +199,7 @@
 			"quickSearch":1,
 			"filterable":1,
 			"changeable":0,
-			"jar":"https://raw.iqiq.io/52670576/tvbox/main/aliyun.jar",
+			"jar":"https://agit.ai/yu/ysc/raw/branch/master/aliyun.jar",
 			"ext":"https://raw.fastgit.org/YLEDE/TVBox/master/token.txt"
 		},
 		{
@@ -212,7 +211,7 @@
 			"quickSearch":1,
 			"filterable":1,
 			"changeable":0,
-			"jar":"https://raw.iqiq.io/52670576/tvbox/main/aliyun.jar",
+			"jar":"https://agit.ai/yu/ysc/raw/branch/master/aliyun.jar",
 			"ext":"https://raw.fastgit.org/YLEDE/TVBox/master/token.txt"
 		},
 		{
