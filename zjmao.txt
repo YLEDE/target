@@ -78,8 +78,7 @@
 			"api":"csp_BuLei",
 			"searchable":1,
 			"quickSearch":1,
-			"filterable":1,
-			"ext":"http://movie.bulei.cc"
+			"filterable":1
 		},
 		{
 			"key":"csp_fant",
