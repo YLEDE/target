@@ -79,7 +79,7 @@
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":1,
-			"ext":"http://movie.bulei.cc$$$login$$$Y3031921985$$$nn201314jj"
+			"ext":"http://movie.bulei.cc"
 		},
 		{
 			"key":"csp_fant",
