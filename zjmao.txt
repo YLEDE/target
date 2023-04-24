@@ -176,9 +176,11 @@
 			"type":3,
 			"api":"csp_Dovx",
 			"searchable":1,
+			"quickSearch":1,
 			"filterable":0,
 			"changeable":0,
-			"ext":"https://raw.fastgit.org/YLEDE/TVBox/master/token.txt"},
+			"ext":"https://raw.fastgit.org/YLEDE/TVBox/master/token.txt"
+		},
 		{
 			"key":"csp_WoGG",
 			"name":"玩偶",
@@ -186,7 +188,7 @@
 			"api":"csp_WoGG",
 			"searchable":1,
 			"quickSearch":1,
-			"filterable":1,
+			"filterable":0,
 			"changeable":0,
 			"ext":"https://raw.fastgit.org/YLEDE/TVBox/master/token.txt"
 		},
@@ -197,7 +199,7 @@
 			"api":"csp_Paper",
 			"searchable":1,
 			"quickSearch":1,
-			"filterable":1,
+			"filterable":0,
 			"changeable":0,
 			"jar":"https://gitee.com/RTXRui/tvbox/raw/main/aliyun.jar",
 			"ext":"https://raw.fastgit.org/YLEDE/TVBox/master/token.txt"
@@ -209,7 +211,7 @@
 			"api":"csp_PanSou",
 			"searchable":1,
 			"quickSearch":1,
-			"filterable":1,
+			"filterable":0,
 			"changeable":0,
 			"jar":"https://gitee.com/RTXRui/tvbox/raw/main/aliyun.jar",
 			"ext":"https://raw.fastgit.org/YLEDE/TVBox/master/token.txt"
