@@ -178,8 +178,7 @@
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":0,
-			"changeable":0,
-			"ext":"https://gitee.com/RTXRui/tvbox/raw/master/token.txt"
+			"changeable":0
 		},
 		{
 			"key":"csp_WoGG",
@@ -189,8 +188,7 @@
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":0,
-			"changeable":0,
-			"ext":"https://gitee.com/RTXRui/tvbox/raw/master/token.txt"
+			"changeable":0
 		},
 		{
 			"key":"csp_Paper",
@@ -200,8 +198,7 @@
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":0,
-			"changeable":0,
-			"ext":"https://gitee.com/RTXRui/tvbox/raw/master/token.txt"
+			"changeable":0
 		},
 		{
 			"key":"csp_PanSou",
@@ -211,8 +208,7 @@
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":0,
-			"changeable":0,
-			"ext":"https://gitee.com/RTXRui/tvbox/raw/master/token.txt"
+			"changeable":0
 		},
 		{
 			"key":"csp_Ddrk",
