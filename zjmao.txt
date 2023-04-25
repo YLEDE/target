@@ -179,7 +179,6 @@
 			"quickSearch":1,
 			"filterable":0,
 			"changeable":0,
-			"jar":"https://gitee.com/RTXRui/tvbox/raw/master/aliyun.jar",
 			"ext":"https://raw.fastgit.org/YLEDE/TVBox/master/token.txt"
 		},
 		{
@@ -191,7 +190,6 @@
 			"quickSearch":1,
 			"filterable":0,
 			"changeable":0,
-			"jar":"https://gitee.com/RTXRui/tvbox/raw/master/aliyun.jar",
 			"ext":"https://raw.fastgit.org/YLEDE/TVBox/master/token.txt"
 		},
 		{
