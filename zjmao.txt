@@ -1,7 +1,7 @@
 {
 	"wallpaper":"https://api.vvhan.com/api/view",
 
-	"spider":"https://raw.iqiq.io/gaotianliuyun/gao/master/jar/fan.txt",
+	"spider":"https://gitee.com/RTXRui/tvbox/raw/master/fty.jar",
 
 	"lives":
 	[
@@ -22,7 +22,7 @@
 			"searchable":0,
 			"quickSearch":1,
 			"filterable":1,
-			"ext":"https://gitee.com/RTXRui/tvbox/raw/main/js/douban.js"
+			"ext":"https://gitee.com/RTXRui/tvbox/raw/master/douban.js"
 		},
 		{
 			"key":"csp_apple",
@@ -201,7 +201,7 @@
 			"quickSearch":1,
 			"filterable":0,
 			"changeable":0,
-			"jar":"https://gitee.com/lekanbox/App/raw/master/aliyun.jar",
+			"jar":"https://gitee.com/RTXRui/tvbox/raw/master/aliyun.jar",
 			"ext":"https://raw.fastgit.org/YLEDE/TVBox/master/token.txt"
 		},
 		{
@@ -213,7 +213,7 @@
 			"quickSearch":1,
 			"filterable":0,
 			"changeable":0,
-			"jar":"https://gitee.com/lekanbox/App/raw/master/aliyun.jar",
+			"jar":"https://gitee.com/RTXRui/tvbox/raw/master/aliyun.jar",
 			"ext":"https://raw.fastgit.org/YLEDE/TVBox/master/token.txt"
 		},
 		{
