@@ -179,7 +179,7 @@
 			"quickSearch":1,
 			"filterable":0,
 			"changeable":0,
-			"ext":"https://raw.fastgit.org/YLEDE/TVBox/master/token.txt"
+			"ext":"https://gitee.com/RTXRui/tvbox/raw/master/token.txt"
 		},
 		{
 			"key":"csp_WoGG",
@@ -190,7 +190,7 @@
 			"quickSearch":1,
 			"filterable":0,
 			"changeable":0,
-			"ext":"https://raw.fastgit.org/YLEDE/TVBox/master/token.txt"
+			"ext":"https://gitee.com/RTXRui/tvbox/raw/master/token.txt"
 		},
 		{
 			"key":"csp_Paper",
@@ -201,8 +201,7 @@
 			"quickSearch":1,
 			"filterable":0,
 			"changeable":0,
-			"jar":"https://gitee.com/RTXRui/tvbox/raw/master/aliyun.jar",
-			"ext":"https://raw.fastgit.org/YLEDE/TVBox/master/token.txt"
+			"ext":"https://gitee.com/RTXRui/tvbox/raw/master/token.txt"
 		},
 		{
 			"key":"csp_PanSou",
@@ -213,8 +212,7 @@
 			"quickSearch":1,
 			"filterable":0,
 			"changeable":0,
-			"jar":"https://gitee.com/RTXRui/tvbox/raw/master/aliyun.jar",
-			"ext":"https://raw.fastgit.org/YLEDE/TVBox/master/token.txt"
+			"ext":"https://gitee.com/RTXRui/tvbox/raw/master/token.txt"
 		},
 		{
 			"key":"csp_Ddrk",
