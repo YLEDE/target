@@ -207,7 +207,8 @@
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":0,
-			"changeable":0
+			"changeable":0,
+			"ext":"$$$test2$$$test2"
 		},
 		{
 			"key":"csp_PanSou",
