@@ -112,6 +112,15 @@
 			"filterable":1
 		},
 		{
+			"key":"csp_Ddrk",
+			"name":"低端",
+			"type":3,
+			"api":"csp_Ddrk",
+			"searchable":1,
+			"quickSearch":1,
+			"filterable":0"
+		},
+		{
 			"key":"csp_Cokemv",
 			"name":"Cokemv",
 			"type": 3,
@@ -171,10 +180,10 @@
 			"ext":"https://raw.fastgit.org/YLEDE/TVBox/master/xpath/Nike.json"
 		},
 		{
-			"key":"csp_Dovx",
+			"key":"csp_Zhaozy",
 			"name":"七夜",
 			"type":3,
-			"api":"csp_Dovx",
+			"api":"csp_Zhaozy",
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":0,
@@ -209,16 +218,6 @@
 			"quickSearch":1,
 			"filterable":0,
 			"changeable":0
-		},
-		{
-			"key":"csp_Ddrk",
-			"name":"低端",
-			"type":3,
-			"api":"csp_XBPQ",
-			"searchable":1,
-			"quickSearch":1,
-			"filterable":0,
-			"ext":"https://raw.fastgit.org/YLEDE/TVBox/master/xpath/ddys.json"
 		},
 		{
 			"key":"csp_xBPQ_Yht",
