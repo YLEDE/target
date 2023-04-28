@@ -180,16 +180,6 @@
 			"ext":"https://raw.fastgit.org/YLEDE/TVBox/master/xpath/Nike.json"
 		},
 		{
-			"key":"csp_Zhaozy",
-			"name":"七夜",
-			"type":3,
-			"api":"csp_Zhaozy",
-			"searchable":1,
-			"quickSearch":1,
-			"filterable":0,
-			"changeable":0
-		},
-		{
 			"key":"csp_WoGG",
 			"name":"玩偶",
 			"type":3,
@@ -204,6 +194,16 @@
 			"name":"纸条",
 			"type":3,
 			"api":"csp_Paper",
+			"searchable":1,
+			"quickSearch":1,
+			"filterable":0,
+			"changeable":0
+		},
+		{
+			"key":"csp_Zhaozy",
+			"name":"资源",
+			"type":3,
+			"api":"csp_Zhaozy",
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":0,
