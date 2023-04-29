@@ -208,7 +208,7 @@
 			"quickSearch":1,
 			"filterable":0,
 			"changeable":0,
-			"ext":"$$$test2$$$test2"
+			"ext":"https://gitee.com/RTXRui/tvbox/raw/master/token.txt$$$test2$$$test2"
 		},
 		{
 			"key":"csp_PanSou",
