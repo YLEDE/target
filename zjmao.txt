@@ -82,7 +82,7 @@
 			"ext":"http://v.ilime.cc$$$auto$$$Y3031921985Y$$$nn201314jj"
 		},
 		{
-			"key":"csp_fant",
+			"key":"csp_Fantuan",
 			"name":"饭团",
 			"type":3,
 			"api":"csp_Fantuan",
