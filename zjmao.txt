@@ -510,15 +510,6 @@
 			"filterable":1
 		},
 		{
-			"key":"csp_360",
-			"name":"360",
-			"api":"csp_SP360",
-			"type":3,
-			"filterable":1,
-			"quickSearch":1,
-			"searchable":1
-		},
-		{
 			"key":"csp_xBPQ_mdtv",
 			"name":"麦豆",
 			"type":3,
