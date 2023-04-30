@@ -526,7 +526,7 @@
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":0,
-			"ext":{"分类":"电影$1#连续剧$2#综艺$3#动漫$4","分类url":"https://www.k7yy.com/vodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html;;mal"}
+			"ext":{"分类": "电影$1#连续剧$2#综艺$3#动漫$4","分类url": "https://www.k7yy.com/vodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html;;mal"}
 		},
 		{
 			"key":"csp_xBPQ_mzt",
