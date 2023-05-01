@@ -514,7 +514,6 @@
 			"name":"BTtwoo",
 			"type":3,
 			"api":"csp_XBPQ",
-			"playerType":"2",
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":0,
