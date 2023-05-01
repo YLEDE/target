@@ -251,16 +251,6 @@
 			"ext":"https://raw.fastgit.org/YLEDE/TVBox/master/xpath/dmlg.json"
 		},
 		{
-			"key":"csp_xBPQ_wmxz",
-			"name":"无名",
-			"type":3,
-			"api":"csp_XBPQ",
-			"searchable":1,
-			"quickSearch":1,
-			"filterable":0,
-			"ext":"https://raw.fastgit.org/YLEDE/TVBox/master/xpath/wmxz.json"
-		},
-		{
 			"key":"csp_xBPQ_耐看",
 			"name":"耐看",
 			"type":3,
@@ -339,6 +329,16 @@
 			"quickSearch":1,
 			"filterable":1,
 			"ext":"https://gitee.com/leezn09/drpy/raw/master/js/兄弟影视.js"
+		},
+		{
+			"key":"drpy_js_无名",
+			"name":"无名",
+			"type":3,
+			"api":"https://gitee.com/leezn09/drpy/raw/master/libs/drpy2.min.js",
+			"searchable":1,
+			"quickSearch":1,
+			"filterable":1,
+			"ext":"https://gitee.com/leezn09/drpy/raw/master/js/无名小站.js"
 		},
 		{
 			"key":"drpy_js_孜然",
@@ -459,6 +459,16 @@
 			"quickSearch":1,
 			"filterable":1,
 			"ext":"https://gitee.com/leezn09/drpy/raw/master/js/网飞.TV.js"
+		},
+		{
+			"key":"drpy_js_城市",
+			"name":"城市",
+			"type":3,
+			"api":"https://gitee.com/leezn09/drpy/raw/master/libs/drpy2.min.js",
+			"searchable":1,
+			"quickSearch":1,
+			"filterable":1,
+			"ext":"https://gitee.com/leezn09/drpy/raw/master/js/城市电影.js"
 		},
 		{
 			"key":"csp_Nmys",
@@ -588,16 +598,6 @@
 			"quickSearch":1,
 			"filterable":0,
 			"ext":"https://raw.fastgit.org/YLEDE/TVBox/master/xpath/wbjy.json"
-		},
-		{
-			"key":"csp_xBPQ_city",
-			"name":"城市",
-			"type":3,
-			"api":"csp_XBPQ",
-			"searchable":1,
-			"quickSearch":1,
-			"filterable":0,
-			"ext":"https://raw.fastgit.org/YLEDE/TVBox/master/xpath/city.json"
 		},
 		{
 			"key":"csp_xBPQ_ddg",
