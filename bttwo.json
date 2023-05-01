@@ -492,16 +492,6 @@
 			"ext":"https://www.lgyy.vip"
 		},
 		{
-			"key":"csp_Bttwoo",
-			"name":"BTtwoo",
-			"type":3,
-			"api":"csp_Bttwoo",
-			"playerType":"2",
-			"searchable":1,
-			"quickSearch":1,
-			"filterable":1
-		},
-		{
 			"key":"csp_Smdyy",
 			"name":"神马",
 			"type":3,
@@ -518,6 +508,17 @@
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":1
+		},
+		{
+			"key":"csp_xBPQ_bttwo",
+			"name":"BTtwoo",
+			"type":3,
+			"api":"csp_XBPQ",
+			"playerType":"2",
+			"searchable":1,
+			"quickSearch":1,
+			"filterable":0,
+			"ext":"https://raw.fastgit.org/YLEDE/TVBox/master/xpath/bttwo.json"
 		},
 		{
 			"key":"csp_xBPQ_mdtv",
