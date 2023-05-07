@@ -291,7 +291,7 @@
 			"ext":"https://gitee.com/leezn09/drpy/raw/master/js/乐猪TV.js"
 		},
 		{
-			"key":"drpy_js_Lezhu",
+			"key":"drpy_js_fantuan",
 			"name":"饭团",
 			"type":3,
 			"api":"https://gitee.com/leezn09/drpy/raw/master/libs/drpy2.min.js",
