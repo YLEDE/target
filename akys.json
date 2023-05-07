@@ -52,16 +52,6 @@
 			"filterable":1
 		},
 		{
-			"key":"csp_AppTT",
-			"name":"图图",
-			"type":3,
-			"api":"csp_AppTT",
-			"searchable":1,
-			"quickSearch":1,
-			"filterable":1,
-			"ext":"dldYWXFObkhNTWlsV1pMdFNSSyN0ME1JdzVJQVJyY3I=$$$Q2hpbko5UzdvNnNZbU1WTQ==$$$aHR0cDovL2FwaS50dDU4LnR2L2NvbmZpZy9uZXd0di5qc29uP3NzPQ=="
-		},
-		{
 			"key":"csp_YQKAPP",
 			"name":"一起看",
 			"type":3,
@@ -80,16 +70,6 @@
 			"quickSearch":1,
 			"filterable":1,
 			"ext":"http://v.ilime.cc$$$auto$$$Y3031921985Y$$$nn201314jj"
-		},
-		{
-			"key":"csp_Fantuan",
-			"name":"饭团",
-			"type":3,
-			"api":"csp_Fantuan",
-			"searchable":1,
-			"quickSearch":1,
-			"filterable":1,
-			"ext":"https://www.fantuanhd.com"
 		},
 		{
 			"key":"csp_Xinsj",
@@ -301,14 +281,24 @@
 			"ext":"https://raw.fastgit.org/YLEDE/TVBox/master/xpath/subaibai.json"
 		},
 		{
-			"key":"csp_xBPQ_Lezhu",
+			"key":"drpy_js_Lezhu",
 			"name":"乐猪",
 			"type":3,
-			"api":"csp_XBPQ",
+			"api":"https://gitee.com/leezn09/drpy/raw/master/libs/drpy2.min.js",
 			"searchable":1,
 			"quickSearch":1,
-			"filterable":0,
-			"ext":"https://raw.fastgit.org/YLEDE/TVBox/master/xpath/lezhutv.json"
+			"filterable":1,
+			"ext":"https://gitee.com/leezn09/drpy/raw/master/js/乐猪TV.js"
+		},
+		{
+			"key":"drpy_js_Lezhu",
+			"name":"饭团",
+			"type":3,
+			"api":"https://gitee.com/leezn09/drpy/raw/master/libs/drpy2.min.js",
+			"searchable":1,
+			"quickSearch":1,
+			"filterable":1,
+			"ext":"https://gitee.com/leezn09/drpy/raw/master/js/饭团影视.js"
 		},
 		{
 			"key":"drpy_js_HOHO",
@@ -339,6 +329,16 @@
 			"quickSearch":1,
 			"filterable":1,
 			"ext":"https://gitee.com/leezn09/drpy/raw/master/js/无名小站.js"
+		},
+		{
+			"key":"drpy_js_皮皮鸭",
+			"name":"皮皮鸭",
+			"type":3,
+			"api":"https://gitee.com/leezn09/drpy/raw/master/libs/drpy2.min.js",
+			"searchable":1,
+			"quickSearch":1,
+			"filterable":1,
+			"ext":"https://gitee.com/leezn09/drpy/raw/master/js/皮皮鸭.js"
 		},
 		{
 			"key":"drpy_js_孜然",
@@ -537,7 +537,7 @@
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":0,
-			"ext":{"分类": "电影$1#连续剧$2#综艺$3#动漫$4","分类url": "https://www.k7yy.com/vodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html;;mal"}
+			"ext":{"分类": "电影$1#连续剧$2#综艺$3#动漫$4","分类url": "https://www.3wyy.com/vodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html;;mal"}
 		},
 		{
 			"key":"csp_xBPQ_mzt",
