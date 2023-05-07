@@ -18,7 +18,7 @@
 			"key":"T4_douban",
 			"name":"影视推荐",
 			"type":3,
-			"api":"https://gitee.com/gouling/dr_py/raw/master/libs/drpy2.min.js",
+			"api":"https://gitee.com/gouling/dr_py/raw/main/libs/drpy2.min.js",
 			"searchable":0,
 			"quickSearch":1,
 			"filterable":1,
@@ -284,201 +284,201 @@
 			"key":"drpy_js_Lezhu",
 			"name":"乐猪",
 			"type":3,
-			"api":"https://gitee.com/gouling/dr_py/raw/master/libs/drpy2.min.js",
+			"api":"https://gitee.com/gouling/dr_py/raw/main/libs/drpy2.min.js",
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":1,
-			"ext":"https://gitee.com/gouling/dr_py/raw/master/js/乐猪TV.js"
+			"ext":"https://gitee.com/gouling/dr_py/raw/main/js/乐猪TV.js"
 		},
 		{
 			"key":"drpy_js_fantuan",
 			"name":"饭团",
 			"type":3,
-			"api":"https://gitee.com/gouling/dr_py/raw/master/libs/drpy2.min.js",
+			"api":"https://gitee.com/gouling/dr_py/raw/main/libs/drpy2.min.js",
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":1,
-			"ext":"https://gitee.com/gouling/dr_py/raw/master/js/饭团影视.js"
+			"ext":"https://gitee.com/gouling/dr_py/raw/main/js/饭团影视.js"
 		},
 		{
 			"key":"drpy_js_HOHO",
 			"name":"HOHO",
 			"type":3,
-			"api":"https://gitee.com/gouling/dr_py/raw/master/libs/drpy2.min.js",
+			"api":"https://gitee.com/gouling/dr_py/raw/main/libs/drpy2.min.js",
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":1,
-			"ext":"https://gitee.com/gouling/dr_py/raw/master/js/吼吼[飞].js"
+			"ext":"https://gitee.com/gouling/dr_py/raw/main/js/吼吼[飞].js"
 		},
 		{
 			"key":"drpy_js_兄弟",
 			"name":"兄弟",
 			"type":3,
-			"api":"https://gitee.com/gouling/dr_py/raw/master/libs/drpy2.min.js",
+			"api":"https://gitee.com/gouling/dr_py/raw/main/libs/drpy2.min.js",
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":1,
-			"ext":"https://gitee.com/gouling/dr_py/raw/master/js/兄弟影视.js"
+			"ext":"https://gitee.com/gouling/dr_py/raw/main/js/兄弟影视.js"
 		},
 		{
 			"key":"drpy_js_无名",
 			"name":"无名",
 			"type":3,
-			"api":"https://gitee.com/gouling/dr_py/raw/master/libs/drpy2.min.js",
+			"api":"https://gitee.com/gouling/dr_py/raw/main/libs/drpy2.min.js",
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":1,
-			"ext":"https://gitee.com/gouling/dr_py/raw/master/js/无名小站.js"
+			"ext":"https://gitee.com/gouling/dr_py/raw/main/js/无名小站.js"
 		},
 		{
 			"key":"drpy_js_aikan",
 			"name":"爱看",
 			"type":3,
-			"api":"https://gitee.com/gouling/dr_py/raw/master/libs/drpy2.min.js",
+			"api":"https://gitee.com/gouling/dr_py/raw/main/libs/drpy2.min.js",
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":1,
-			"ext":"https://gitee.com/gouling/dr_py/raw/master/js/爱看电影.js"
+			"ext":"https://gitee.com/gouling/dr_py/raw/main/js/爱看电影.js"
 		},
 		{
 			"key":"drpy_js_皮皮鸭",
 			"name":"皮皮鸭",
 			"type":3,
-			"api":"https://gitee.com/gouling/dr_py/raw/master/libs/drpy2.min.js",
+			"api":"https://gitee.com/gouling/dr_py/raw/main/libs/drpy2.min.js",
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":1,
-			"ext":"https://gitee.com/gouling/dr_py/raw/master/js/皮皮鸭.js"
+			"ext":"https://gitee.com/gouling/dr_py/raw/main/js/皮皮鸭.js"
 		},
 		{
 			"key":"drpy_js_孜然",
 			"name":"孜然",
 			"type":3,
-			"api":"https://gitee.com/gouling/dr_py/raw/master/libs/drpy2.min.js",
+			"api":"https://gitee.com/gouling/dr_py/raw/main/libs/drpy2.min.js",
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":1,
-			"ext":"https://gitee.com/gouling/dr_py/raw/master/js/孜然影视.js"
+			"ext":"https://gitee.com/gouling/dr_py/raw/main/js/孜然影视.js"
 		},
 		{
 			"key":"drpy_js_B站",
 			"name":"B站",
 			"type":3,
-			"api":"https://gitee.com/gouling/dr_py/raw/master/libs/drpy2.min.js",
+			"api":"https://gitee.com/gouling/dr_py/raw/main/libs/drpy2.min.js",
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":1,
-			"ext":"https://gitee.com/gouling/dr_py/raw/master/js/B站影视.js"
+			"ext":"https://gitee.com/gouling/dr_py/raw/main/js/B站影视.js"
 		},
 		{
 			"key":"drpy_js_539",
 			"name":"539",
 			"type":3,
-			"api":"https://gitee.com/gouling/dr_py/raw/master/libs/drpy2.min.js",
+			"api":"https://gitee.com/gouling/dr_py/raw/main/libs/drpy2.min.js",
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":1,
-			"ext":"https://gitee.com/gouling/dr_py/raw/master/js/539影院.js"
+			"ext":"https://gitee.com/gouling/dr_py/raw/main/js/539影院.js"
 		},
 		{
 			"key":"drpy_js_柒之社",
 			"name":"柒之社",
 			"type":3,
-			"api":"https://gitee.com/gouling/dr_py/raw/master/libs/drpy2.min.js",
+			"api":"https://gitee.com/gouling/dr_py/raw/main/libs/drpy2.min.js",
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":1,
-			"ext":"https://gitee.com/gouling/dr_py/raw/master/js/柒之社.js"
+			"ext":"https://gitee.com/gouling/dr_py/raw/main/js/柒之社.js"
 		},
 		{
 			"key":"drpy_js_大豆",
 			"name":"大豆",
 			"type":3,
-			"api":"https://gitee.com/gouling/dr_py/raw/master/libs/drpy2.min.js",
+			"api":"https://gitee.com/gouling/dr_py/raw/main/libs/drpy2.min.js",
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":1,
-			"ext":"https://gitee.com/gouling/dr_py/raw/master/js/大豆.js"
+			"ext":"https://gitee.com/gouling/dr_py/raw/main/js/大豆.js"
 		},
 		{
 			"key":"drpy_js_朴樱",
 			"name":"朴樱",
 			"type":3,
-			"api":"https://gitee.com/gouling/dr_py/raw/master/libs/drpy2.min.js",
+			"api":"https://gitee.com/gouling/dr_py/raw/main/libs/drpy2.min.js",
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":1,
-			"ext":"https://gitee.com/gouling/dr_py/raw/master/js/朴樱影视.js"
+			"ext":"https://gitee.com/gouling/dr_py/raw/main/js/朴樱影视.js"
 		},
 		{
 			"key":"drpy_js_伊人",
 			"name":"伊人",
 			"type":3,
-			"api":"https://gitee.com/gouling/dr_py/raw/master/libs/drpy2.min.js",
+			"api":"https://gitee.com/gouling/dr_py/raw/main/libs/drpy2.min.js",
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":1,
-			"ext":"https://gitee.com/gouling/dr_py/raw/master/js/伊人追剧.js"
+			"ext":"https://gitee.com/gouling/dr_py/raw/main/js/伊人追剧.js"
 		},
 		{
 			"key":"drpy_js_1080P",
 			"name":"1080P",
 			"type":3,
-			"api":"https://gitee.com/gouling/dr_py/raw/master/libs/drpy2.min.js",
+			"api":"https://gitee.com/gouling/dr_py/raw/main/libs/drpy2.min.js",
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":1,
-			"ext":"https://gitee.com/gouling/dr_py/raw/master/js/1080P.js"
+			"ext":"https://gitee.com/gouling/dr_py/raw/main/js/1080P.js"
 		},
 		{
 			"key":"drpy_js_天空",
 			"name":"天空",
 			"type":3,
-			"api":"https://gitee.com/gouling/dr_py/raw/master/libs/drpy2.min.js",
+			"api":"https://gitee.com/gouling/dr_py/raw/main/libs/drpy2.min.js",
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":1,
-			"ext":"https://gitee.com/gouling/dr_py/raw/master/js/天空影视.js"
+			"ext":"https://gitee.com/gouling/dr_py/raw/main/js/天空影视.js"
 		},
 		{
 			"key":"drpy_js_TVB云播",
 			"name":"TVB云播",
 			"type":3,
-			"api":"https://gitee.com/gouling/dr_py/raw/master/libs/drpy2.min.js",
+			"api":"https://gitee.com/gouling/dr_py/raw/main/libs/drpy2.min.js",
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":1,
-			"ext":"https://gitee.com/gouling/dr_py/raw/master/js/tva云播.js"
+			"ext":"https://gitee.com/gouling/dr_py/raw/main/js/tva云播.js"
 		},
 		{
 			"key":"drpy_js_免费看",
 			"name":"免费看",
 			"type":3,
-			"api":"https://gitee.com/gouling/dr_py/raw/master/libs/drpy2.min.js",
+			"api":"https://gitee.com/gouling/dr_py/raw/main/libs/drpy2.min.js",
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":1,
-			"ext":"https://gitee.com/gouling/dr_py/raw/master/js/免费看.js"
+			"ext":"https://gitee.com/gouling/dr_py/raw/main/js/免费看.js"
 		},
 		{
 			"key":"drpy_js_网飞TV",
 			"name":"网飞",
 			"type":3,
-			"api":"https://gitee.com/gouling/dr_py/raw/master/libs/drpy2.min.js",
+			"api":"https://gitee.com/gouling/dr_py/raw/main/libs/drpy2.min.js",
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":1,
-			"ext":"https://gitee.com/gouling/dr_py/raw/master/js/网飞.TV.js"
+			"ext":"https://gitee.com/gouling/dr_py/raw/main/js/网飞.TV.js"
 		},
 		{
 			"key":"drpy_js_城市",
 			"name":"城市",
 			"type":3,
-			"api":"https://gitee.com/gouling/dr_py/raw/master/libs/drpy2.min.js",
+			"api":"https://gitee.com/gouling/dr_py/raw/main/libs/drpy2.min.js",
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":1,
-			"ext":"https://gitee.com/gouling/dr_py/raw/master/js/城市电影.js"
+			"ext":"https://gitee.com/gouling/dr_py/raw/main/js/城市电影.js"
 		},
 		{
 			"key":"csp_Nmys",
