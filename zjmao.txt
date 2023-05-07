@@ -331,16 +331,6 @@
 			"ext":"https://gitee.com/gouling/dr_py/raw/main/js/无名小站.js"
 		},
 		{
-			"key":"drpy_js_aikan",
-			"name":"爱看",
-			"type":3,
-			"api":"https://gitee.com/gouling/dr_py/raw/main/libs/drpy2.min.js",
-			"searchable":1,
-			"quickSearch":1,
-			"filterable":1,
-			"ext":"https://gitee.com/gouling/dr_py/raw/main/js/爱看电影.js"
-		},
-		{
 			"key":"drpy_js_皮皮鸭",
 			"name":"皮皮鸭",
 			"type":3,
@@ -528,6 +518,16 @@
 			"quickSearch":1,
 			"filterable":0,
 			"ext":"https://raw.fastgit.org/YLEDE/TVBox/master/xpath/bttwo.json"
+		},
+		{
+			"key":"csp_xBPQ_akys",
+			"name":"爱看",
+			"type":3,
+			"api":"csp_XBPQ",
+			"searchable":1,
+			"quickSearch":1,
+			"filterable":0,
+			"ext":"https://raw.fastgit.org/YLEDE/TVBox/master/xpath/akys.json"
 		},
 		{
 			"key":"csp_xBPQ_mdtv",
