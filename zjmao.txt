@@ -43,6 +43,16 @@
 			"filterable":1
 		},
 		{
+			"key":"csp_AppTT",
+			"name":"图图",
+			"type":3,
+			"api":"csp_AppTT",
+			"searchable":1,
+			"quickSearch":1,
+			"filterable":1,
+                        "ext": "vWXYqNnHMMilWZLtSRK#t0MIw5IARrcMqiaojiChinJ9S7o6sYmMVW"
+		},
+                {
 			"key":"csp_AppMr",
 			"name":"明明",
 			"type":3,
