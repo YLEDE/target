@@ -82,6 +82,25 @@
 			"ext":"https://dy02.bulei.cc$$$auto$$$Y3031921985Y$$$nn201314jj"
 		},
 		{
+			"key":"csp_Bd",
+			"name":"哔嘀",
+			"type":3,
+			"api":"csp_Bdys01",
+			"searchable":1,
+			"quickSearch":1,
+			"filterable":1
+		},
+		{
+			"key":"csp_fantuan",
+			"name":"饭团",
+			"type":3,
+			"api":"csp_Fantuan",
+			"searchable":1,
+			"quickSearch":1,
+			"filterable":1,
+			"ext":"https://www.fantuanhd.com"
+		},
+		{
 			"key":"csp_Xinsj",
 			"name":"新视觉",
 			"type":3,
