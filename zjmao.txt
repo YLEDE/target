@@ -82,6 +82,16 @@
 			"ext":"https://dy02.bulei.cc$$$auto$$$Y3031921985Y$$$nn201314jj"
 		},
 		{
+			"key":"多米蓝光",
+			"name":"多米蓝光",
+			"type":3,
+			"api":"csp_AppYsV2",
+			"searchable":1,
+			"quickSearch":1,
+			"filterable":1,
+			"ext":"http://vod.dmdh.top:5680//api.php/app/"
+		},
+		{
 			"key":"csp_Xinsj",
 			"name":"新视觉",
 			"type":3,
