@@ -82,8 +82,8 @@
 			"ext":"https://dy02.bulei.cc$$$auto$$$Y3031921985Y$$$nn201314jj"
 		},
 		{
-			"key":"多米蓝光",
-			"name":"多米蓝光",
+			"key":"csp_AppYsV2",
+			"name":"多米",
 			"type":3,
 			"api":"csp_AppYsV2",
 			"searchable":1,
