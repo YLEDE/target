@@ -61,15 +61,6 @@
 			"quickSearch":1,
 			"filterable":1
 		},
-                {
-                        "key": "csp_Auete",
-                        "name": "Auete",
-                        "type": 3,
-                        "api": "csp_Auete",
-                        "searchable": 1,
-                        "quickSearch": 1,
-                        "filterable": 1
-                },
 		{
 			"key":"csp_YQKAPP",
 			"name":"一起看",
@@ -121,6 +112,15 @@
 			"filterable":1
 		},
 		{
+			"key":"csp_Dy1010",
+			"name":"双十",
+			"type":3,
+			"api":"csp_Dy1010",
+			"searchable":1,
+			"quickSearch":1,
+			"filterable":1
+		},
+		{
 			"key":"csp_Ddrk",
 			"name":"低端",
 			"type":3,
@@ -129,20 +129,20 @@
 			"quickSearch":1,
 			"filterable":0"
 		},
+                {
+                        "key": "csp_Auete",
+                        "name": "Auete",
+                        "type": 3,
+                        "api": "csp_Auete",
+                        "searchable": 1,
+                        "quickSearch": 1,
+                        "filterable": 1
+                },
 		{
 			"key":"csp_Cokemv",
 			"name":"Cokemv",
 			"type": 3,
 			"api":"csp_Cokemv",
-			"searchable":1,
-			"quickSearch":1,
-			"filterable":1
-		},
-		{
-			"key":"csp_Dy1010",
-			"name":"双十",
-			"type":3,
-			"api":"csp_Dy1010",
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":1
