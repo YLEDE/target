@@ -205,8 +205,7 @@
             		"api":"csp_TuGou",
             		"searchable":1,
             		"quickSearch":1,
-            		"changeable":0,
-			"ext":"https://gitee.com/RTXRui/tvbox/raw/master/token.txt"
+            		"changeable":0
         	},
 		{
 			"key":"csp_Zhaozy",
@@ -227,8 +226,7 @@
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":0,
-			"changeable":0,
-			"ext":"https://gitee.com/RTXRui/tvbox/raw/master/token.txt"
+			"changeable":0
 		},
 		{
 			"key":"csp_xBPQ_rbzj",
