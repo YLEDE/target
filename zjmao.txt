@@ -79,7 +79,7 @@
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":1,
-			"ext":"https://饭太硬.ga$$$auto$$$Y3031921985Y$$$nn201314jj"
+			"ext":"http://dy02.bulei.cc$$$auto$$$Y3031921985Y$$$nn201314jj"
 		},
 		{
 			"key":"csp_AppYsV2",
