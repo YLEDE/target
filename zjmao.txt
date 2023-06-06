@@ -34,10 +34,19 @@
 			"filterable":1
 		},
 		{
-			"key":"csp_kuaikan",
+			"key":"csp_Kuaikan",
 			"name":"快看",
 			"type":3,
 			"api":"csp_Kuaikan",
+			"searchable":1,
+			"quickSearch":1,
+			"filterable":1
+		},
+		{
+			"key":"csp_Miaobo",
+			"name":"秒播",
+			"type":3,
+			"api":"csp_Miaobo",
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":1
@@ -50,7 +59,7 @@
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":1,
-			"ext":"SldZWXFaWkhXTU1sTlpadFNSSyN0elRJdzlMQVJSQ00=$$$Q1ppbkoxUzdvNnNZbU1WVw==$$$aHR0cDovL2FwaS50dDU4LnR2L2NvbmZpZy9uZXd0di5qc29uP3NzPQ=="
+			"ext":"U2c3aDRRb0xMQnpWVjRhY1NSSyNIdW8wTkVCZG91ZWw=$$$U3FYMms0cWJZR2kzbzZzWQ==$$$aHR0cDovL2FwaS50dDU4LnR2L2NvbmZpZy9uZXd0di5qc29uP3NzPQ=="
 		},
                 {
 			"key":"csp_AppMr",
@@ -121,10 +130,10 @@
 			"filterable":1
 		},
 		{
-			"key":"csp_Ddrk",
+			"key":"csp_DiDuan",
 			"name":"低端",
 			"type":3,
-			"api":"csp_Ddrk",
+			"api":"csp_DiDuan",
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":0"
