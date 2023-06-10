@@ -214,8 +214,7 @@
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":0,
-			"changeable":0,
-			"ext":"https://gitee.com/RTXRui/tvbox/raw/master/token.txt$$$http://tvfan.xxooo.cf"
+			"ext":"https://gitee.com/RTXRui/tvbox/raw/master/token.txt$$$http://tvfan.xxooo.cf/"
 		},
 		{
 			"key":"csp_Zhaozy",
