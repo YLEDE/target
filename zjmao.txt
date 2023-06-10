@@ -88,7 +88,7 @@
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":1,
-			"ext":"http://dy04.bulei.cc$$$auto$$$Y3031921985Y$$$nn201314jj"
+			"ext":"http://movie.bulei.cc$$$auto$$$Y3031921985Y$$$nn201314jj"
 		},
 		{
 			"key":"csp_AppYsV2",
