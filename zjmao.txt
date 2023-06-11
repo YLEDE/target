@@ -88,10 +88,10 @@
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":1,
-			"ext":"http://饭太硬.ml$$$auto$$$Y3031921985Y$$$nn201314jj"
+			"ext":"http://饭太硬.ml/$$$auto$$$Y3031921985Y$$$nn201314jj"
 		},
 		{
-			"key":"csp_AppYsV2",
+			"key":"csp_Dm",
 			"name":"多米",
 			"type":3,
 			"api":"csp_AppYsV2",
@@ -101,7 +101,7 @@
 			"ext":"http://v.dmdh.top/api.php/app/"
 		},
 		{
-			"key":"csp_AppYsV2",
+			"key":"csp_Ban",
 			"name":"鲁班",
 			"type":3,
 			"api":"csp_AppYsV2",
