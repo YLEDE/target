@@ -98,7 +98,7 @@
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":1,
-			"ext":"http://vod.dmdh.top:5680//api.php/app/"
+			"ext":"http://v.dmdh.top/api.php/app/"
 		},
 		{
 			"key":"csp_Xinsj",
@@ -214,7 +214,7 @@
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":0,
-			"ext":"https://gitee.com/RTXRui/tvbox/raw/master/token.txt$$$http://tvfan.xxooo.cf/"
+			"ext":"https://gitee.com/RTXRui/tvbox/raw/master/token.txt$$$https://wogg.xyz"
 		},
 		{
 			"key":"csp_Zhaozy",
