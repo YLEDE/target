@@ -43,10 +43,10 @@
 			"filterable":1
 		},
 		{
-			"key":"csp_Miaobo",
-			"name":"秒播",
+			"key":"csp_DuoX",
+			"name":"多线",
 			"type":3,
-			"api":"csp_Miaobo",
+			"api":"csp_DuoX",
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":1
