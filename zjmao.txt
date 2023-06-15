@@ -25,6 +25,16 @@
 			"ext":"https://gitee.com/RTXRui/tvbox/raw/master/douban.js"
 		},
 		{
+            		"key": "csp_Bili",
+            		"name": "哔哩",
+            		"type": 3,
+            		"api": "csp_Bili",
+            		"searchable": 1,
+            		"quickSearch": 0,
+            		"filterable": 1,
+            		"ext": "https://bitbucket.org/xduo/json/raw/master/bili.json"
+        	},
+		{
 			"key":"csp_apple",
 			"name":"苹果",
 			"type":3,
@@ -101,14 +111,14 @@
 			"ext":"http://v.dmdh.top/api.php/app/"
 		},
 		{
-			"key":"csp_Ban",
-			"name":"鲁班",
+			"key":"csp_YTHZ",
+			"name":"影探",
 			"type":3,
 			"api":"csp_AppYsV2",
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":1,
-			"ext":"http://a.banwl.com/api.php/app/"
+			"ext":"http://www.lfytyl.com/api.php/app/"
 		},
 		{
 			"key":"csp_Xinsj",
