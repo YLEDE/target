@@ -294,7 +294,7 @@
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":0,
-			"ext":"https://raw.fastgit.org/YLEDE/TVBox/master/xpath/nkdy.json"
+			"ext":"http://xhww.fun:63/小米/源/来看.json"
 		},
 		{
 			"key":"csp_xBPQ_blt",
