@@ -287,15 +287,15 @@
 			"ext":"https://raw.fastgit.org/YLEDE/TVBox/master/xpath/dmlg.json"
 		},
 		{
-			"key":"csp_xBPQ_耐看",
-			"name":"耐看",
-			"type":3,
-			"api":"csp_XBPQ",
-			"searchable":1,
-			"quickSearch":1,
-			"filterable":0,
-			"ext":"http://xhww.fun:63/小米/源/来看.json"
-		},
+                        "key":"csp_xBPQ_nkdy",
+                        "name":"来看",
+                        "type":3,
+                        "api":"csp_XBPQ",
+                        "searchable":1,
+                        "quickSearch":1,
+                        "filterable":0,
+                        "ext":"https://raw.fastgit.org/YLEDE/TVBox/master/xpath/nkdy.json"
+        },
 		{
 			"key":"csp_xBPQ_blt",
 			"name":"哔哩兔",
