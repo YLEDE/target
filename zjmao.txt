@@ -97,7 +97,7 @@
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":1,
-			"ext":"https://jx.ccabc.cc/fanfan/api.php/app/"
+			"ext":"http://v.dmdh.top/api.php/app/"
 		},
 		{
 			"key":"csp_ZTHZ",
