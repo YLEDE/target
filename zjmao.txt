@@ -409,7 +409,7 @@
 		},
 		{
 			"key":"drpy_js_北川",
-			"name":"柒之社",
+			"name":"北川",
 			"type":3,
 			"api":"https://agit.ai/lcx/dr_py/raw/branch/main/libs/drpy2.min.js",
 			"searchable":1,
@@ -438,14 +438,14 @@
 			"ext":"https://agit.ai/lcx/dr_py/raw/branch/main/js/朴樱影视.js"
 		},
 		{
-			"key":"drpy_js_伊人",
-			"name":"伊人",
+			"key":"drpy_js_布蕾",
+			"name":"布蕾",
 			"type":3,
 			"api":"https://agit.ai/lcx/dr_py/raw/branch/main/libs/drpy2.min.js",
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":1,
-			"ext":"https://agit.ai/lcx/dr_py/raw/branch/main/js/伊人追剧.js"
+			"ext":"https://agit.ai/lcx/dr_py/raw/branch/main/js/布雷蓝光[V2].js"
 		},
 		{
 			"key":"drpy_js_1080P",
