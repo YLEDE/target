@@ -97,7 +97,8 @@
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":1,
-"ext":"http://ys.realdou.cn/api.php/app/","categories":["4K电影","4K电视剧","电影","电视剧","动漫","综艺"]
+"ext":"http://ys.realdou.cn/api.php/app/",
+"categories":["4K电影","4K电视剧","电影","电视剧","动漫","综艺"]
 },
 		{
 			"key":"csp_ZTHZ",
