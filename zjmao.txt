@@ -90,16 +90,6 @@
 			"ext":"https://api-aws.11ty.top"
 		},
 		{
-			"key":"csp_yun",
-			"name":"飞云",
-			"type":3,
-			"api":"csp_AppYsV2",
-			"searchable":1,
-			"quickSearch":1,
-			"filterable":1,
-			"ext":"http://i.xn--z7x900a.love:63/api.php/app/"
-		},
-		{
 			"key":"csp_ZTHZ",
 			"name":"侦探",
 			"type":3,
@@ -247,6 +237,16 @@
 			"quickSearch":1,
 			"filterable":0,
 			"changeable":0
+		},
+		{
+			"key":"csp_xBPQ_fyys",
+			"name":"飞云",
+			"type":3,
+			"api":"csp_XBPQ",
+			"searchable":1,
+			"quickSearch":1,
+			"filterable":0,
+			"ext":"https://raw.fastgit.org/YLEDE/TVBox/master/xpath/fyys.json"
 		},
 		{
 			"key":"csp_xBPQ_DiDuan",
