@@ -90,14 +90,14 @@
 			"ext":"https://api-aws.11ty.top"
 		},
 		{
-			"key":"csp_bjh",
-			"name":"北极",
+			"key":"csp_che",
+			"name":"车姐",
 			"type":3,
 			"api":"csp_AppYsV2",
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":1,
-			"ext":"https://www.kuin.one/api.php/app/"
+			ext":"http://ys.realdou.cn/api.php/app/"
 		},
 		{
 			"key":"csp_ZTHZ",
@@ -107,7 +107,7 @@
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":1,
-			"ext":"http://big.lfytyl.com/api.php/app/"
+			"ext":"https://www.lfytv.cn/api.php/app/"
 		},
 		{
 			"key":"csp_Xinsj",
@@ -149,15 +149,6 @@
             		"filterable": 1,
             		"ext": "https://www.ysgc.vip"
         	},
-		{
-			"key":"csp_DiDuan",
-			"name":"低端",
-			"type":3,
-			"api":"csp_DiDuan",
-			"searchable":1,
-			"quickSearch":1,
-			"filterable":0"
-		},
                 {
                         "key": "csp_Auete",
                         "name": "Auete",
@@ -258,6 +249,16 @@
 			"changeable":0
 		},
 		{
+			"key":"csp_xBPQ_DiDuan",
+			"name":"低端",
+			"type":3,
+			"api":"csp_XBPQ",
+			"searchable":1,
+			"quickSearch":1,
+			"filterable":0",
+			"ext":"https://raw.fastgit.org/YLEDE/TVBox/master/xpath/ddys.json"
+		},
+		{
 			"key":"csp_xBPQ_rbzj",
 			"name":"热播",
 			"type":3,
@@ -318,24 +319,24 @@
 			"ext":"https://raw.fastgit.org/YLEDE/TVBox/master/xpath/subaibai.json"
 		},
 		{
-			"key":"drpy_js_Lezhu",
+			"key":"csp_xBPQ_Lezhu",
 			"name":"乐猪",
 			"type":3,
-			"api":"https://agit.ai/lcx/dr_py/raw/branch/main/libs/drpy2.min.js",
+			"api":"csp_XBPQ",
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":1,
-			"ext":"https://agit.ai/lcx/dr_py/raw/branch/main/js/乐猪TV.js"
+			"ext":"https://raw.fastgit.org/YLEDE/TVBox/master/xpath/lezhutv.json"
 		},
 		{
-			"key":"drpy_js_fantuan",
+			"key":"csp_xBPQ_fantuan",
 			"name":"饭团",
 			"type":3,
-			"api":"https://agit.ai/lcx/dr_py/raw/branch/main/libs/drpy2.min.js",
+			"api":"csp_XBPQ",
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":1,
-			"ext":"https://agit.ai/lcx/dr_py/raw/branch/main/js/饭团影视.js"
+			"ext":"https://raw.fastgit.org/YLEDE/TVBox/master/xpath/ftys.json"
 		},
 		{
 			"key":"drpy_js_HOHO",
@@ -468,16 +469,6 @@
 			"ext":"https://agit.ai/lcx/dr_py/raw/branch/main/js/天空影视.js"
 		},
 		{
-			"key":"drpy_js_TVB云播",
-			"name":"TVB云播",
-			"type":3,
-			"api":"https://agit.ai/lcx/dr_py/raw/branch/main/libs/drpy2.min.js",
-			"searchable":1,
-			"quickSearch":1,
-			"filterable":1,
-			"ext":"https://agit.ai/lcx/dr_py/raw/branch/main/js/tva云播.js"
-		},
-		{
 			"key":"drpy_js_免费看",
 			"name":"免费看",
 			"type":3,
@@ -545,6 +536,17 @@
 			"quickSearch":1,
 			"filterable":1
 		},
+
+		{
+			"key":"csp_xBPQ_TVB云播",
+			"name":"TVB云播",
+			"type":3,
+			"api":"csp_XBPQ",
+			"searchable":1,
+			"quickSearch":1,
+			"filterable":1,
+			"ext":"https://raw.fastgit.org/YLEDE/TVBox/master/xpath/tvb.json"
+		},
 		{
 			"key":"csp_xBPQ_bttwo",
 			"name":"BTtwoo",
@@ -576,14 +578,14 @@
 			"ext":"https://raw.fastgit.org/YLEDE/TVBox/master/xpath/mdtv.json"
 		},
 		{
-			"key":"csp_xBPQ_mzt",
-			"name":"莫扎兔",
+			"key":"csp_xBPQ_101",
+			"name":"101tv",
 			"type":3,
 			"api":"csp_XBPQ",
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":0,
-			"ext":"https://raw.fastgit.org/YLEDE/TVBox/master/xpath/mzt.json"
+			"ext":"https://raw.fastgit.org/YLEDE/TVBox/master/xpath/101tv.json"
 		},
 		{
 			"key":"csp_xBPQ_buka",
