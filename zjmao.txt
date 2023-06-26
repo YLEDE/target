@@ -90,14 +90,14 @@
 			"ext":"https://api-aws.11ty.top"
 		},
 		{
-			"key":"csp_Dm",
-			"name":"多米",
+			"key":"csp_bjh",
+			"name":"北极",
 			"type":3,
 			"api":"csp_AppYsV2",
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":1,
-			"ext":"http://v.dmdh.top/api.php/app/"
+			"ext":"https://www.kuin.one/api.php/app/"
 		},
 		{
 			"key":"csp_ZTHZ",
@@ -107,7 +107,7 @@
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":1,
-			"ext":"http://longfei.lfytyl.com/api.php/app/"
+			"ext":"http://big.lfytyl.com/api.php/app/"
 		},
 		{
 			"key":"csp_Xinsj",
