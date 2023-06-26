@@ -320,7 +320,7 @@
 			"ext":"https://raw.fastgit.org/YLEDE/TVBox/master/xpath/subaibai.json"
 		},
 		{
-"key":"csp_xBPQ_fantuan",
+			"key":"csp_xBPQ_fantuan",
 			"name":"饭团",
 			"type":3,
 			"api":"csp_XBPQ",
@@ -330,8 +330,7 @@
 			"ext":"https://raw.fastgit.org/YLEDE/TVBox/master/xpath/ftys.json"
 		},
 		{
-		
-"key":"csp_xBPQ_Lezhu",
+			"key":"csp_xBPQ_Lezhu",
 			"name":"乐猪",
 			"type":3,
 			"api":"csp_XBPQ",
