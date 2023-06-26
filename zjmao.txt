@@ -141,7 +141,7 @@
 			"filterable":1
 		},
 		{
-			"key"":"csp_fantuan",
+			"key":"csp_fantuan",
 			"name":"饭团",
 			"type":3,
 			"api":"csp_Fantuan",
