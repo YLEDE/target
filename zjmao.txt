@@ -276,7 +276,7 @@
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":0,
-			"ext":"http://xhww.fun:63/小米/源/热播.json"
+			"ext":"https://raw.fastgit.org/YLEDE/TVBox/master/xpath/rbzj.json"
 		},
 		{
 			"key":"csp_xBPQ_ldys",
@@ -286,7 +286,7 @@
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":0,
-			"ext":"http://xhww.fun:63/小米/源/零度.json"
+			"ext":"https://raw.fastgit.org/YLEDE/TVBox/master/xpath/ldys.json"
 		},
 		{
 			"key":"csp_xBPQ_nkdy",
