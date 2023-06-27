@@ -299,16 +299,6 @@
 			"ext":"https://raw.fastgit.org/YLEDE/TVBox/master/xpath/nkdy.json"
 		},
 		{
-			"key":"csp_xBPQ_blt",
-			"name":"哔哩兔",
-			"type":3,
-			"api":"csp_XBPQ",
-			"searchable":1,
-			"quickSearch":1,
-			"filterable":0,
-			"ext":"https://raw.fastgit.org/YLEDE/TVBox/master/xpath/blt.json"
-		},
-		{
 			"key":"csp_xBPQ_348",
 			"name":"348",
 			"type":3,
@@ -449,24 +439,14 @@
 			"ext":"https://agit.ai/lcx/dr_py/raw/branch/main/js/布雷蓝光[V2].js"
 		},
 		{
-			"key":"drpy_js_1080P",
-			"name":"1080P",
+			"key":"drpy_js_花猪",
+			"name":"花猪",
 			"type":3,
 			"api":"https://agit.ai/lcx/dr_py/raw/branch/main/libs/drpy2.min.js",
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":1,
-			"ext":"https://agit.ai/lcx/dr_py/raw/branch/main/js/1080P.js"
-		},
-		{
-			"key":"drpy_js_天空",
-			"name":"天空",
-			"type":3,
-			"api":"https://agit.ai/lcx/dr_py/raw/branch/main/libs/drpy2.min.js",
-			"searchable":1,
-			"quickSearch":1,
-			"filterable":1,
-			"ext":"https://agit.ai/lcx/dr_py/raw/branch/main/js/天空影视.js"
+			"ext":"https://agit.ai/lcx/dr_py/raw/branch/main/js/花猪影视[V2].js"
 		},
 		{
 			"key":"drpy_js_免费看",
