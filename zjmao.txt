@@ -117,7 +117,7 @@
 			"filterable":1,
 			"quickSearch":1,
 			"searchable":1,
-			"ext":"https://api123.adys.app/xgapp.php/v3/"
+			"ext":"https://aidiapp.xyz/xgapp.php/v2/"
 		},
 		{
 			"key":"csp_Czsapp",
@@ -409,14 +409,14 @@
 			"ext":"https://agit.ai/lcx/dr_py/raw/branch/main/js/北川.js"
 		},
 		{
-			"key":"drpy_js_大豆",
-			"name":"大豆",
+			"key":"drpy_js_ l0l",
+			"name":" l0l",
 			"type":3,
 			"api":"https://agit.ai/lcx/dr_py/raw/branch/main/libs/drpy2.min.js",
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":1,
-			"ext":"https://agit.ai/lcx/dr_py/raw/branch/main/js/大豆.js"
+			"ext":"https://agit.ai/lcx/dr_py/raw/branch/main/js/l0l.js"
 		},
 		{
 			"key":"drpy_js_朴樱",
@@ -477,6 +477,16 @@
 			"quickSearch":1,
 			"filterable":1,
 			"ext":"https://agit.ai/lcx/dr_py/raw/branch/main/js/城市电影.js"
+		},
+		{
+			"key":"drpy_js_麦豆",
+			"name":"麦豆",
+			"type":3,
+			"api":"https://agit.ai/lcx/dr_py/raw/branch/main/libs/drpy2.min.js",
+			"searchable":1,
+			"quickSearch":1,
+			"filterable":1,
+			"ext":"https://agit.ai/lcx/dr_py/raw/branch/main/js/麦豆com.js"
 		},
 		{
 			"key":"csp_Nmys",
@@ -554,17 +564,7 @@
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":0,
-			"ext":"https://raw.fastgit.org/YLEDE/TVBox/master/xpath/mdtv.json"
-		},
-		{
-			"key":"csp_xBPQ_101",
-			"name":"101tv",
-			"type":3,
-			"api":"csp_XBPQ",
-			"searchable":1,
-			"quickSearch":1,
-			"filterable":0,
-			"ext":"https://raw.fastgit.org/YLEDE/TVBox/master/xpath/101tv.json"
+			"ext":"https://raw.fastgit.org/YLEDE/TVBox/master/xpath/麦豆com.js"
 		},
 		{
 			"key":"csp_xBPQ_buka",
