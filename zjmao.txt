@@ -157,7 +157,7 @@
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":1,
-			"ext":"https://www.fantuan3.com"
+			"ext":"https://www.fantuanhd.com"
 		},
 		{
 			"key": "csp_Auete",
