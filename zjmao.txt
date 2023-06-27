@@ -508,14 +508,13 @@
 			"filterable":1
 		},
 		{
-			"key":"csp_xBPQ_Bd",
+			"key":"csp_Bd",
 			"name":"哔嘀",
 			"type":3,
-			"api":"csp_XBPQ",
+			"api":"csp_Bdys01",
 			"searchable":1,
 			"quickSearch":1,
-			"filterable":0,
-			"ext":"https://raw.fastgit.org/YLEDE/TVBox/master/xpath/bdys.json"
+			"filterable":1
 		},
 		{
 			"key":"csp_xBPQ_TVB云播",
