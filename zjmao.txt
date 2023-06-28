@@ -90,14 +90,13 @@
 			"ext":"https://api-aws.11ty.top"
 		},
 		{
-			"key":"csp_ZTHZ",
-			"name":"侦探",
+			"key":"csp_YT",
+			"name":"影探",
 			"type":3,
-			"api":"csp_AppYsV2",
+			"api":"csp_YT",
 			"searchable":1,
 			"quickSearch":1,
-			"filterable":1,
-			"ext":"http://longzhiqing.lfytyl.com/api.php/app/"
+			"filterable":1
 		},
 		{
 			"key":"csp_Xinsj",
