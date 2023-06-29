@@ -90,8 +90,8 @@
 			"ext":"https://api-aws.11ty.top"
 		},
 		{
-			"key":"csp_YTHZ",
-			"name":"影视探",
+			"key":"csp_ZTHZ",
+			"name":"侦探",
 			"type":3,
 			"api":"csp_AppYsV2",
 			"searchable":1,
