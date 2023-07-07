@@ -97,7 +97,7 @@
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":1,
-			"ext":"https://www.lfytv.cn/api.php/app/"
+			"ext":"http://big.lfytyl.com/api.php/app/"
 		},
 		{
 			"key":"csp_Xinsj",
