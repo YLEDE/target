@@ -1,7 +1,7 @@
 {
 	"wallpaper":"https://api.vvhan.com/api/view",
 
-	"spider":"https://gitee.com/RTXRui/tvbox/raw/master/fty.jar",
+	"spider":"https://gitee.com/RTXRui/tvbox/raw/master/panda.jar",
 
 	"lives":
 	[
@@ -264,6 +264,9 @@
 			"name":"飞云",
 			"type":3,
 			"api":"csp_XBPQ",
+			"searchable":1,
+			"quickSearch":1,
+			"filterable":0,
 			"ext":"https://raw.fastgit.org/YLEDE/TVBox/master/xpath/fyys.json"
 		},
 		{
