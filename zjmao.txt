@@ -1,7 +1,7 @@
 {
 	"wallpaper":"https://api.vvhan.com/api/view",
 
-	"spider":"https://gitee.com/RTXRui/tvbox/raw/master/fty.jar",
+	"spider":"https://raw.fastgit.org.com/gaotianliuyun/gao/master/jar/fan.txt",
 
 	"lives":
 	[
@@ -33,15 +33,6 @@
 			"filterable": 1,
 			"ext": "https://bitbucket.org/xduo/json/raw/master/bili.json"
 		},
-		{
-			"key": "陌陌",
-			"name": "陌陌",
-			"type": 3,
-			"api": "csp_MmYs",
-			"searchable": 1,
-			"quickSearch": 1,
-			"changeable": 0
-                },
 		{
 			"key":"csp_Kuaikan",
 			"name":"快看",
@@ -148,7 +139,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext":"https://www.ysgc.vip/"
+			"ext":"https://www.ysgc.vip"
 		},
 		{
 			"key":"csp_fantuan",
@@ -158,7 +149,7 @@
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":1,
-			"ext":"https://www.fantuanhd.com/"
+			"ext":"https://www.fantuan3.com"
 		},
 		{
 			"key": "csp_Auete",
@@ -186,7 +177,7 @@
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":1,
-			"ext":"https://www.libvio.fun/"
+			"ext":"https://www.libvio.fun"
 		},
 		{
 			"key":"csp_xBPQ_Voflix",
@@ -268,6 +259,16 @@
 			"quickSearch":1,
 			"filterable":0,
 			"ext":"https://raw.fastgit.org/YLEDE/TVBox/master/xpath/fyys.json"
+		},
+		{
+			"key":"csp_xBPQ_mgys",
+			"name":"蘑菇",
+			"type":3,
+			"api":"csp_XBPQ",
+			"searchable":1,
+			"quickSearch":1,
+			"filterable":0,
+			"ext":"https://raw.fastgit.org/YLEDE/TVBox/master/xpath/mgys.json"
 		},
 		{
 			"key":"csp_xBPQ_DiDuan",
@@ -433,11 +434,11 @@
 			"key":"drpy_js_布蕾",
 			"name":"布蕾",
 			"type":3,
-			"api":"https://agit.ai/lcx/dr_py/raw/branch/main/libs/drpy2.min.js",
+			"api":"http://alist.xn--z7x900a.love:63/drpy2.min.js",
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":1,
-			"ext":"https://agit.ai/lcx/dr_py/raw/branch/main/js/布雷蓝光[V2].js"
+			"ext":"http://alist.xn--z7x900a.love:63/布蕾.jsd"
 		},
 		{
 			"key":"drpy_js_花猪",
