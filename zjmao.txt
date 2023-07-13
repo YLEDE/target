@@ -78,7 +78,7 @@
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":1,
-			"ext":"https://api-aws.11ty.top/"
+			"ext":"https://api-aws.11ty.top"
 		},
 		{
 			"key":"csp_ZTHZ",
