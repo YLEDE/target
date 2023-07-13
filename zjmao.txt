@@ -1,7 +1,7 @@
 {
 	"wallpaper":"https://api.vvhan.com/api/view",
 
-	"spider":"https://raw.fastgit.org/YLEDE/tvbox/master/fty.jar",
+	"spider":"https://raw.fastgit.org/YLEDE/tvbox/master/panda.jar",
 
 	"lives":
 	[
