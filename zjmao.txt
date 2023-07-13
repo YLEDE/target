@@ -71,6 +71,15 @@
 			"filterable":1
 		},
 		{
+			"key":"蘑菇",
+			"name":"蘑菇",
+			"type":3,
+			"api": "csp_MmYs",
+      			"searchable": 1,
+      			"quickSearch": 1,
+      			"changeable": 0
+		},
+		{
 			"key":"csp_YQKAPP",
 			"name":"一起看",
 			"type":3,
