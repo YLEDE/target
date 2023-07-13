@@ -329,7 +329,7 @@
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":0,
-			"ext":"https://raw.fastgit.org/YLEDE/TVBox/master/xpath/subaibai.json"
+			"ext":"https://raw.fastgit.org/Dong-learn9/TVBox-zyjk/main/xBPQ/素白白.json"
 		},
 		{
 			"key":"csp_xBPQ_Lezhu",
