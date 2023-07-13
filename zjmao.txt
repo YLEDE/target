@@ -118,6 +118,7 @@
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":1,
+			“ext":“https://czzy.pro”，
 			"jar":"https://gitee.com/RTXRui/tvbox/raw/master/fty.jar"
 		},
 		{
