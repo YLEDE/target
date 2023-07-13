@@ -98,7 +98,7 @@
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":1,
-			"ext":"https://www.6080yy3.com"
+			"ext":"https://www.k6080.com"
 		},
 		{
 			"key":"csp_aidi",
@@ -119,7 +119,7 @@
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":1,
-			"ext":"https://czzy.art/"
+			"ext":"https://czzy.art"
 		},
 		{
 			"key":"csp_Dy1010",
@@ -129,17 +129,7 @@
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":1,
-			"ext":"https://www.1010dy3.com/"
-		},
-		{
-			"key":"csp_xBPQ_mgys",
-			"name":"蘑菇",
-			"type":3,
-			"api":"csp_XBPQ",
-			"searchable":1,
-			"quickSearch":1,
-			"filterable":0,
-			"ext":"https://raw.fastgit.org/YLEDE/TVBox/master/xpath/mgys.json"
+			"ext":"https://www.1010dy5.com"
 		},
 		{
 			"key": "csp_Ysgc",
@@ -149,7 +139,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext":"https://www.ysgc.vip/"
+			"ext":"https://www.ysgc.fun"
 		},
 		{
 			"key":"csp_fantuan",
@@ -159,7 +149,7 @@
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":1,
-			"ext":"https://www.fantuanhd.com/"
+			"ext":"https://www.fantuanhd.com"
 		},
 		{
 			"key": "csp_Auete",
@@ -187,7 +177,7 @@
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":1,
-			"ext":"https://www.libvio.fun/"
+			"ext":"https://www.libvio.fun"
 		},
 		{
 			"key":"csp_xBPQ_Voflix",
@@ -269,6 +259,16 @@
 			"quickSearch":1,
 			"filterable":0,
 			"ext":"https://raw.fastgit.org/YLEDE/TVBox/master/xpath/fyys.json"
+		},
+		{
+			"key":"csp_xBPQ_mgys",
+			"name":"蘑菇",
+			"type":3,
+			"api":"csp_XBPQ",
+			"searchable":1,
+			"quickSearch":1,
+			"filterable":0,
+			"ext":"https://raw.fastgit.org/YLEDE/TVBox/master/xpath/mgys.json"
 		},
 		{
 			"key":"csp_xBPQ_DiDuan",
