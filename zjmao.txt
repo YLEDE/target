@@ -435,11 +435,11 @@
 			"key":"drpy_js_布蕾",
 			"name":"布蕾",
 			"type":3,
-			"api":"http://alist.xn--z7x900a.love:63/drpy2.min.js",
+			"api":"https://agit.ai/lcx/dr_py/raw/branch/main/libs/drpy2.min.js",
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":1,
-			"ext":"http://alist.xn--z7x900a.love:63/布蕾.jsd"
+			"ext":"https://agit.ai/lcx/dr_py/raw/branch/main/js/布雷蓝光[V2].jsd"
 		},
 		{
 			"key":"drpy_js_花猪",
@@ -482,14 +482,14 @@
 			"ext":"https://agit.ai/lcx/dr_py/raw/branch/main/js/城市电影.js"
 		},
 		{
-			"key":"drpy_js_麦豆",
-			"name":"麦豆",
+			"key":"drpy_js_秋霞",
+			"name":"秋霞",
 			"type":3,
 			"api":"https://agit.ai/lcx/dr_py/raw/branch/main/libs/drpy2.min.js",
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":1,
-			"ext":"https://agit.ai/lcx/dr_py/raw/branch/main/js/麦豆com.js"
+			"ext":"https://agit.ai/lcx/dr_py/raw/branch/main/js/秋霞影视.jsd"
 		},
 		{
 			"key":"csp_Nmys",
