@@ -1,7 +1,7 @@
 {
 	"wallpaper":"https://api.vvhan.com/api/view",
 
-	"spider":"https://raw.fastgit.org/YLEDE/tvbox/master/panda.jar",
+	"spider":"https://gitee.com/RTXRui/tvbox/raw/master/panda.jar",
 
 	"lives":
 	[
@@ -69,15 +69,6 @@
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":1
-		},
-		{
-			"key":"蘑菇",
-			"name":"蘑菇",
-			"type":3,
-			"api": "csp_MmYs",
-      			"searchable": 1,
-      			"quickSearch": 1,
-      			"changeable": 0
 		},
 		{
 			"key":"csp_YQKAPP",
