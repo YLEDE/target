@@ -157,7 +157,7 @@
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":1,
-			"ext":"https://www.fantuanhd.com"
+      			"ext": "https://www.fantuan3.com"
 		},
 		{
 			"key": "csp_Auete",
@@ -185,7 +185,7 @@
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":1,
-			"ext":"https://www.libvio.fun"
+			"ext":"https://www.libvio.fun/"
 		},
 		{
 			"key":"csp_xBPQ_Voflix",
