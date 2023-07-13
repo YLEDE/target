@@ -91,15 +91,16 @@
 			"ext":"http://ytcms.lfytyl.com/api.php/app/"
 		},
 		{
-			"key":"csp_Xinsj",
-			"name":"新视觉",
-			"type":3,
-			"api":"csp_Xinsj",
-			"searchable":1,
-			"quickSearch":1,
-			"filterable":1,
-			"ext":"https://www.6080yy3.com"
-		},
+      			"key": "csp_mogu",
+      			"name": "蘑菇",
+      			"type": 3,
+      			"api": "csp_AppYsV2",
+      			"searchable": 1,
+      			"quickSearch": 1,
+      			"filterable": 1,
+      			"ext": "https://www.gvideo.me/api.php/app/"
+    		},
+		
 		{
 			"key":"csp_aidi",
 			"name":"爱迪",
@@ -122,6 +123,16 @@
 			"ext": "https://czzy.art"
 		},
 		{
+			"key":"csp_Xinsj",
+			"name":"新视觉",
+			"type":3,
+			"api":"csp_Xinsj",
+			"searchable":1,
+			"quickSearch":1,
+			"filterable":1,
+			"ext":"https://www.6080yy3.com"
+		},
+		{
 			"key":"csp_Dy1010",
 			"name":"双十",
 			"type":3,
@@ -139,7 +150,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext":"https://www.ysgc.vip"
+			"ext":"https://www.ysgc.fun"
 		},
 		{
 			"key":"csp_fantuan",
