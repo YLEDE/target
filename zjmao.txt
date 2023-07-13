@@ -339,6 +339,16 @@
 			"ext":"https://raw.fastgit.org/YLEDE/TVBox/master/xpath/lezhutv.json"
 		},
 		{
+			"key":"csp_xBPQ_bcys",
+			"name":"北川",
+			"type":3,
+			"api":"csp_XBPQ",
+			"searchable":1,
+			"quickSearch":1,
+			"filterable":0,
+			"ext":"https://raw.fastgit.org/YLEDE/TVBox/master/xpath/bcys.json"
+		},
+		{
 			"key":"drpy_js_HOHO",
 			"name":"HOHO",
 			"type":3,
@@ -399,16 +409,6 @@
 			"ext":"https://agit.ai/lcx/dr_py/raw/branch/main/js/539影视.js"
 		},
 		{
-			"key":"drpy_js_北川",
-			"name":"北川",
-			"type":3,
-			"api":"https://agit.ai/lcx/dr_py/raw/branch/main/libs/drpy2.min.js",
-			"searchable":1,
-			"quickSearch":1,
-			"filterable":1,
-			"ext":"https://agit.ai/lcx/dr_py/raw/branch/main/js/北川.js"
-		},
-		{
 			"key":"drpy_js_ l0l",
 			"name":" l0l",
 			"type":3,
@@ -432,11 +432,11 @@
 			"key":"drpy_js_布蕾",
 			"name":"布蕾",
 			"type":3,
-			"api":"https://agit.ai/lcx/dr_py/raw/branch/main/libs/drpy2.min.js",
+			"api":"http://alist.xn--z7x900a.love:63/drpy2.min.js",
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":1,
-			"ext":"https://agit.ai/lcx/dr_py/raw/branch/main/js/布雷蓝光[V2].js"
+			"ext":"http://alist.xn--z7x900a.love:63/布蕾.jsd"
 		},
 		{
 			"key":"drpy_js_花猪",
@@ -625,6 +625,16 @@
 			"quickSearch":1,
 			"filterable":0,
 			"ext":"https://raw.fastgit.org/YLEDE/TVBox/master/xpath/dadagui.json"
+		},
+		{
+			"key":"csp_xBPQ_zjtu",
+			"name":"追剧兔",
+			"type":3,
+			"api":"csp_XBPQ",
+			"searchable":1,
+			"quickSearch":1,
+			"filterable":0,
+			"ext":"https://raw.fastgit.org/YLEDE/TVBox/master/xpath/zjtu.json"
 		},
 		{
 			"key":"csp_xBPQ_wnys",
