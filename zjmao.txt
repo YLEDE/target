@@ -1,7 +1,7 @@
 {
 	"wallpaper":"https://api.vvhan.com/api/view",
 
-	"spider":"https://cdn.staticaly.com/gh/YLEDE/tvbox/master/panda.jar",
+	"spider":"https://raw.gitmirror.com/YLEDE/tvbox/master/panda.jar",
 
 	"lives":
 	[
@@ -119,7 +119,7 @@
 			"quickSearch":1,
 			"filterable":1,
 			"ext":"https://czzy.pro/",
-			"jar":"https://cdn.staticaly.com/gh/YLEDE/tvbox/master/xbpq.jar"
+			"jar":"https://raw.gitmirror.com/YLEDE/tvbox/master/xbpq.jar"
 		},
 		{
 			"key":"csp_Xinsj",
@@ -139,7 +139,7 @@
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":1,
-			"jar":"https://cdn.staticaly.com/gh/YLEDE/tvbox/master/fty.jar"
+			"jar":"https://raw.gitmirror.com/YLEDE/tvbox/master/fty.jar"
 		},
 		{
 			"key": "csp_Ysgc",
@@ -247,7 +247,7 @@
 			"quickSearch":1,
 			"filterable":0,
 			"changeable":0,
-			"ext":"https://gitee.com/RTXRui/tvbox/raw/master/token.txt$$$fanfan$$$qqq111"
+			"ext":"https://raw.gitmirror.com/YLEDE/tvbox/master/token.txt$$$fanfan$$$qqq111"
 		},
 		{
 			"key":"csp_PanSou",
