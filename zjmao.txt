@@ -1,14 +1,14 @@
 {
 	"wallpaper":"https://api.vvhan.com/api/view",
 
-	"spider":"https://raw.gitmirror.com/YLEDE/tvbox/master/panda.jar",
+	"spider":"https://cdn.staticaly.com/gh/YLEDE/tvbox/master/panda.jar",
 
 	"lives":
 	[
 		{
 			"group":"redirect","channels":
 			[{
-				"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9yYXcuZ2l0bWlycm9yLmNvbS9ZTEVERS90dmJveC9tYXN0ZXIvdHYvbGl2ZS50eHQ="]
+				"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9jZG4uc3RhdGljYWx5LmNvbS9naC9ZTEVERS90dmJveC9tYXN0ZXIvdHYvbGl2ZS50eHQ="]
 			}]
 		}
 	],
@@ -91,15 +91,15 @@
 			"ext":"http://ytcms.lfytyl.com/api.php/app/"
 		},
 		{
-      			"key": "csp_mogu",
-      			"name": "蘑菇",
-      			"type": 3,
-      			"api": "csp_AppYsV2",
-      			"searchable": 1,
-      			"quickSearch": 1,
-      			"filterable": 1,
-      			"ext": "https://www.gvideo.me/api.php/app/"
-    		},
+			"key": "csp_mogu",
+			"name": "蘑菇",
+			"type": 3,
+			"api": "csp_AppYsV2",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": "https://www.gvideo.me/api.php/app/"
+		},
 		{
 			"key":"csp_aidi",
 			"name":"爱迪",
@@ -119,7 +119,7 @@
 			"quickSearch":1,
 			"filterable":1,
 			"ext":"https://czzy.pro/",
-			"jar":"https://raw.gitmirror.com/YLEDE/tvbox/master/xbpq.jar"
+			"jar":"https://cdn.staticaly.com/gh/YLEDE/tvbox/master/xbpq.jar"
 		},
 		{
 			"key":"csp_Xinsj",
@@ -139,7 +139,7 @@
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":1,
-			"jar":"https://raw.gitmirror.com/YLEDE/tvbox/master/fty.jar"
+			"jar":"https://cdn.staticaly.com/gh/YLEDE/tvbox/master/fty.jar"
 		},
 		{
 			"key": "csp_Ysgc",
@@ -196,7 +196,7 @@
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":0,
-			"ext":"https://raw.gitmirror.com/YLEDE/tvbox/master/xpath/voflix.json"
+			"ext":"https://cdn.staticaly.com/gh/YLEDE/tvbox/master/xpath/voflix.json"
 		},
 		{
 			"key":"csp_xBPQ_555",
@@ -206,7 +206,7 @@
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":0,
-			"ext":"https://raw.gitmirror.com/YLEDE/tvbox/master/xpath/555.json"
+			"ext":"https://cdn.staticaly.com/gh/YLEDE/tvbox/master/xpath/555.json"
 		},
 		{
 			"key":"csp_xBPQ_FREEOK",
@@ -216,7 +216,7 @@
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":0,
-			"ext":"https://raw.gitmirror.com/YLEDE/tvbox/master/xpath/FREEOK.json"
+			"ext":"https://cdn.staticaly.com/gh/YLEDE/tvbox/master/xpath/FREEOK.json"
 		},
 		{
 			"key":"csp_xBPQ_Nike",
@@ -226,7 +226,7 @@
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":0,
-			"ext":"https://raw.gitmirror.com/YLEDE/tvbox/master/xpath/Nike.json"
+			"ext":"https://cdn.staticaly.com/gh/YLEDE/tvbox/master/xpath/Nike.json"
 		},
 		{
 			"key":"csp_WoGG",
@@ -247,7 +247,7 @@
 			"quickSearch":1,
 			"filterable":0,
 			"changeable":0,
-			"ext":"https://raw.gitmirror.com/YLEDE/tvbox/master/token.txt$$$fanfan$$$qqq111"
+			"ext":"http://127.0.0.1:9978/file/tvfan/token.txt$$$fanfan$$$qqq111"
 		},
 		{
 			"key":"csp_PanSou",
@@ -267,7 +267,7 @@
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":0,
-			"ext":"https://raw.gitmirror.com/YLEDE/tvbox/master/xpath/fyys.json"
+			"ext":"https://cdn.staticaly.com/gh/YLEDE/tvbox/master/xpath/fyys.json"
 		},
 		{
 			"key":"csp_xBPQ_DiDuan",
@@ -277,7 +277,7 @@
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":0",
-			"ext":"https://raw.gitmirror.com/YLEDE/tvbox/master/xpath/ddys.json"
+				"ext":"https://cdn.staticaly.com/gh/YLEDE/tvbox/master/xpath/ddys.json"
 		},
 		{
 			"key":"csp_xBPQ_rbzj",
@@ -287,7 +287,7 @@
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":0,
-			"ext":"https://raw.gitmirror.com/YLEDE/tvbox/master/xpath/rbzj.json"
+			"ext":"https://cdn.staticaly.com/gh/YLEDE/tvbox/master/xpath/rbzj.json"
 		},
 		{
 			"key":"csp_xBPQ_ldys",
@@ -297,7 +297,7 @@
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":0,
-			"ext":"https://raw.gitmirror.com/YLEDE/tvbox/master/xpath/ldys.json"
+			"ext":"https://cdn.staticaly.com/gh/YLEDE/tvbox/master/xpath/ldys.json"
 		},
 		{
 			"key":"csp_xBPQ_nkdy",
@@ -307,7 +307,7 @@
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":0,
-			"ext":"https://raw.gitmirror.com/YLEDE/tvbox/master/xpath/nkdy.json"
+			"ext":"https://cdn.staticaly.com/gh/YLEDE/tvbox/master/xpath/nkdy.json"
 		},
 		{
 			"key":"csp_xBPQ_348",
@@ -317,7 +317,7 @@
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":0,
-			"ext":"https://raw.gitmirror.com/YLEDE/tvbox/master/xpath/348z.json"
+			"ext":"https://cdn.staticaly.com/gh/YLEDE/tvbox/master/xpath/348z.json"
 		},
 		{
 			"key":"csp_xBPQ_Lezhu",
@@ -327,7 +327,7 @@
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":0,
-			"ext":"https://raw.gitmirror.com/YLEDE/tvbox/master/xpath/lezhutv.json"
+			"ext":"https://cdn.staticaly.com/gh/YLEDE/tvbox/master/xpath/lezhutv.json"
 		},
 		{
 			"key":"csp_xBPQ_bcys",
@@ -337,7 +337,7 @@
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":0,
-			"ext":"https://raw.gitmirror.com/YLEDE/tvbox/master/xpath/bcys.json"
+			"ext":"https://cdn.staticaly.com/gh/YLEDE/tvbox/master/xpath/bcys.json"
 		},
 		{
 			"key":"drpy_js_HOHO",
@@ -545,7 +545,7 @@
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":0,
-			"ext":"https://raw.gitmirror.com/YLEDE/tvbox/master/xpath/tvb.json"
+			"ext":"https://cdn.staticaly.com/gh/YLEDE/tvbox/master/xpath/tvb.json"
 		},
 		{
 			"key":"csp_xBPQ_bttwo",
@@ -555,7 +555,7 @@
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":0,
-			"ext":"https://raw.gitmirror.com/YLEDE/tvbox/master/xpath/bttwo.json"
+			"ext":"https://cdn.staticaly.com/gh/YLEDE/tvbox/master/xpath/bttwo.json"
 		},
 		{
 			"key":"csp_xBPQ_akys",
@@ -565,7 +565,7 @@
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":0,
-			"ext":"https://raw.gitmirror.com/YLEDE/tvbox/master/xpath/akys.json"
+			"ext":"https://cdn.staticaly.com/gh/YLEDE/tvbox/master/xpath/akys.json"
 		},
 		{
 			"key":"csp_xBPQ_buka",
@@ -575,7 +575,7 @@
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":0,
-			"ext":"https://raw.gitmirror.com/YLEDE/tvbox/master/xpath/buka.json"
+			"ext":"https://cdn.staticaly.com/gh/YLEDE/tvbox/master/xpath/buka.json"
 		},
 		{
 			"key":"csp_xBPQ_kanlm",
@@ -585,7 +585,7 @@
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":0,
-			"ext":"https://raw.gitmirror.com/YLEDE/tvbox/master/xpath/kanlm.json"
+			"ext":"https://cdn.staticaly.com/gh/YLEDE/tvbox/master/xpath/kanlm.json"
 		},
 		{
 			"key":"csp_xBPQ_dmxq",
@@ -595,7 +595,7 @@
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":0,
-			"ext":"https://raw.gitmirror.com/YLEDE/tvbox/master/xpath/dmxq.json"
+			"ext":"https://cdn.staticaly.com/gh/YLEDE/tvbox/master/xpath/dmxq.json"
 		},
 		{
 			"key":"csp_xBPQ_fqys",
@@ -605,7 +605,7 @@
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":0,
-			"ext":"https://raw.gitmirror.com/YLEDE/tvbox/master/xpath/fqys.json"
+			"ext":"https://cdn.staticaly.com/gh/YLEDE/tvbox/master/xpath/fqys.json"
 		},
 		{
 			"key":"csp_xBPQ_wbjy",
@@ -615,7 +615,7 @@
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":0,
-			"ext":"https://raw.gitmirror.com/YLEDE/tvbox/master/xpath/wbjy.json"
+			"ext":"https://cdn.staticaly.com/gh/YLEDE/tvbox/master/xpath/wbjy.json"
 		},
 		{
 			"key":"csp_xBPQ_ddg",
@@ -625,7 +625,7 @@
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":0,
-			"ext":"https://raw.gitmirror.com/YLEDE/tvbox/master/xpath/dadagui.json"
+			"ext":"https://cdn.staticaly.com/gh/YLEDE/tvbox/master/xpath/dadagui.json"
 		},
 		{
 			"key":"csp_xBPQ_zjtu",
@@ -635,7 +635,7 @@
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":0,
-			"ext":"https://raw.gitmirror.com/YLEDE/tvbox/master/xpath/zjtu.json"
+			"ext":"https://cdn.staticaly.com/gh/YLEDE/tvbox/master/xpath/zjtu.json"
 		},
 		{
 			"key":"csp_xBPQ_wnys",
@@ -645,7 +645,7 @@
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":0,
-			"ext": "https://raw.gitmirror.com/YLEDE/tvbox/master/xpath/wnyy.json"
+			"ext": "https://cdn.staticaly.com/gh/YLEDE/tvbox/master/xpath/wnyy.json"
 		},
 		{
 			"key":"csp_xBPQ_bxhd",
@@ -655,7 +655,7 @@
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":0,
-			"ext":"https://raw.gitmirror.com/YLEDE/tvbox/master/xpath/bxhd.json"
+			"ext":"https://cdn.staticaly.com/gh/YLEDE/tvbox/master/xpath/bxhd.json"
 		},
 		{
 			"key":"csp_xBPQ_lgg",
@@ -665,7 +665,7 @@
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":0,
-			"ext":"https://raw.gitmirror.com/YLEDE/tvbox/master/xpath/lgg.json"
+			"ext":"https://cdn.staticaly.com/gh/YLEDE/tvbox/master/xpath/lgg.json"
 		},
 		{
 			"key":"csp_xBPQ_wpxq",
@@ -675,7 +675,7 @@
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":0,
-			"ext":"https://raw.gitmirror.com/YLEDE/tvbox/master/xpath/wpxq.json"
+			"ext":"https://cdn.staticaly.com/gh/YLEDE/tvbox/master/xpath/wpxq.json"
 		},
 		{
 			"key":"csp_xpath_wuguiyy",
@@ -685,7 +685,7 @@
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":0,
-			"ext":"https://raw.gitmirror.com/YLEDE/tvbox/master/xpath/wuguiyy.json"
+			"ext":"https://cdn.staticaly.com/gh/YLEDE/tvbox/master/xpath/wuguiyy.json"
 		},
 		{
 			"key":"csp_xpath_9ekk",
@@ -695,7 +695,7 @@
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":0,
-			"ext":"https://raw.gitmirror.com/YLEDE/tvbox/master/xpath/9ekk.json"
+			"ext":"https://cdn.staticaly.com/gh/YLEDE/tvbox/master/xpath/9ekk.json"
 		}
 	],
 
@@ -706,8 +706,8 @@
 		{"name": "肥猫","type": 1,"url": "http://jx.fuqizhishi.com:63/接口地址www.肥猫.love/肥猫专用.php?url="},
 		{"name": "影视范","type": 1,"url": "http://1.117.111.78:93/home/api?type=ys&uid=230629&key=公众号【影视范】&url=","ext": {"flag": ["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","imgo","芒果","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"]}},
 		{"name":"超清秒播1","type": 1,"url": "http://110.42.2.247:880/analysis/json/?uid=2100&my=afimnpqrvBHJKOQS47&mgtv=app&url="}, 	
-        	{"name":"超清秒播2","type":1,"url":"https://vip.xuux.icu/home/api?type=ys&uid=1325731&key=adfgilmnpwzBDEJPY3&url=","ext": {"flag": ["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","imgo","芒果","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"],"header":{"User-Agent":"okhttp/4.1.0"}}},		
-        	{"name": "凉笙解析","type": 1,"url": "http://json.xg688.top/api/?key=Y1etBkWn5hetOHJwF1&url="},
+		{"name":"超清秒播2","type":1,"url":"https://vip.xuux.icu/home/api?type=ys&uid=1325731&key=adfgilmnpwzBDEJPY3&url=","ext": {"flag": ["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","imgo","芒果","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"],"header":{"User-Agent":"okhttp/4.1.0"}}},		
+		{"name": "凉笙解析","type": 1,"url": "http://json.xg688.top/api/?key=Y1etBkWn5hetOHJwF1&url="},
 		{"name": "夜曲","type": 1,"url": "http://xhww.fun:63/爱肥猫.php?url=","ext": {"flag": ["qq", "腾讯", "qiyi", "爱奇艺", "奇艺", "youku", "优酷", "sohu", "搜狐", "letv", "乐视", "mgtv", "芒果", "CL4K", "renrenmi", "ltnb", "bilibili", "1905", "xigua", "nongmin", "CL4K", "xfyun", "ffm3u8", "lzm3u8", "netease", "pgyer", "qzone", "FY", "ppayun", "Feiyun", "zhibo"],"header": {"User-Agent": ""}}}, 
 		{"name": "稻香","type": 1,"url": "https://vip.mosangkeji.com/api/?key=rRNvXAnOghBBLnC35c&url=","flag": ["mgtv","qiyi","imgo","爱奇艺","奇艺","qq","腾讯","youku","优酷","pptv","PPTV","letv","乐视","leshi","bilibili","哔哩哔哩","哔哩","mgtv","芒果"]},
 		{"name": "窗外","type": 1,"url": "http://ysjx.pingtouge.top//api//?key=bDJtCIVT3oe8bTN9eY&url=","header": {"User-Agent": "Dart/2.14 (dart:io)"},"ext": {"flag": ["qq","腾讯","youku","hulihuli","hulihuli-","优酷"]}},
@@ -755,11 +755,11 @@
 	],
 
 	"rules":[
- 		{"name": "量子","hosts": ["vip.lz","hd.lz"],"regex": ["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.433333,[\\s\\S]*?#EXT-X-DISCONTINUITY"]},
- 		{"name": "非凡","hosts": ["vip.ffzy","hd.ffzy"],"regex": ["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.666667,[\\s\\S]*?#EXT-X-DISCONTINUITY"]},
- 		{"name": "火山嗅探","hosts": ["huoshan.com"],"regex": ["item_id="]},
- 		{"name": "抖音嗅探","hosts": ["douyin.com"],"regex": ["is_play_url="]}
- 	],
+		{"name": "量子","hosts": ["vip.lz","hd.lz"],"regex": ["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.433333,[\\s\\S]*?#EXT-X-DISCONTINUITY"]},
+		{"name": "非凡","hosts": ["vip.ffzy","hd.ffzy"],"regex": ["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.666667,[\\s\\S]*?#EXT-X-DISCONTINUITY"]},
+		{"name": "火山嗅探","hosts": ["huoshan.com"],"regex": ["item_id="]},
+		{"name": "抖音嗅探","hosts": ["douyin.com"],"regex": ["is_play_url="]}
+	],
 
 	"ads":["mimg.0c1q0l.cn","www.googletagmanager.com","mc.usihnbcq.cn","mg.g1mm3d.cn","mscs.svaeuzh.cn","cnzz.hhttm.top","tp.vinuxhome.com","cnzz.mmstat.com","www.baihuillq.com","s23.cnzz.com","z3.cnzz.com","c.cnzz.com","stj.v1vo.top","z12.cnzz.com","img.mosflower.cn","tips.gamevvip.com","ehwe.yhdtns.com","xdn.cqqc3.com","www.jixunkyy.cn","sp.chemacid.cn","hm.baidu.com","s9.cnzz.com","z6.cnzz.com","um.cavuc.com","mav.mavuz.com","wofwk.aoidf3.com","z5.cnzz.com","xc.hubeijieshikj.cn","tj.tianwenhu.com","xg.gars57.cn","k.jinxiuzhilv.com","cdn.bootcss.com","ppl.xunzhuo123.com","xomk.jiangjunmh.top","img.xunzhuo123.com","z1.cnzz.com","s13.cnzz.com","xg.huataisangao.cn","z7.cnzz.com","xg.huataisangao.cn","z2.cnzz.com","s96.cnzz.com","q11.cnzz.com","thy.dacedsfa.cn","xg.whsbpw.cn","s19.cnzz.com","z8.cnzz.com","s4.cnzz.com","f5w.as12df.top","ae01.alicdn.com","www.92424.cn","k.wudejia.com","vivovip.mmszxc.top","qiu.xixiqiu.com","cdnjs.hnfenxun.com","cms.qdwght.com","www.google-analytics.com"]
 }
